@@ -8,6 +8,9 @@ module.exports = {
     "./app.vue",
     "./error.vue",
   ],
+  daisyui: {
+    themes: [],
+  },
   theme: {
     extend: {
       colors: {
@@ -23,6 +26,19 @@ module.exports = {
           800: "#b10304",
           900: "#920a0b",
           950: "#500001",
+        },
+        "light-gray-main": {
+          50: "#f6f6f6",
+          100: "#e7e7e7",
+          200: "#EFEFEF",
+          300: "#b0b0b0",
+          400: "#888888",
+          500: "#6d6d6d",
+          600: "#5f5f5f",
+          700: "#4f4f4f",
+          800: "#656565",
+          900: "#3d3d3d",
+          950: "#303030",
         },
       },
     },
