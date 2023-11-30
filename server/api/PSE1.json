@@ -1,0 +1,793 @@
+{
+  "id": "PSE1",
+  "title": "Premiers Secours en Equipe de Niveau 1",
+  "chapters": [
+    {
+      "title": "Attitude et Comportement",
+      "id": "1",
+      "resume": "Ce chapitre forme les citoyens de Sécurité Civile en mettant l'accent sur l'abord relationnel et les compétences pratiques, allant de l'intervention auprès d'enfants à la préservation du bien-être mental du secouriste. Ce dernier vise à développer des attitudes et comportements adaptés, renforcés par des compétences clés pour des interventions efficaces.",
+      "sections": [
+        {
+          "title": "Le citoyen de Sécurité Civile",
+          "type": "AC",
+          "id": "01AC01"
+        },
+        {
+          "title": "Enjeux et principes",
+          "type": "AC",
+          "id": "01AC02"
+        },
+        {
+          "title": "Attitude et comportement du secouriste",
+          "type": "AC",
+          "id": "01AC03"
+        },
+        {
+          "title": "L'abord relationnel en pratique",
+          "type": "PR",
+          "id": "01PR01"
+        },
+        {
+          "title": "Intervenir auprès d'un enfant",
+          "type": "PR",
+          "id": "01PR02"
+        },
+        {
+          "title": "Préservation du potentiel mentale du secouriste",
+          "type": "AC",
+          "id": "01AC04"
+        },
+        {
+          "title": "Evaluation de l'impact psychologique",
+          "type": "FT",
+          "id": "01FT01"
+        },
+        {
+          "title": "Stabiliser l'état psycho-physiologique d'une victime",
+          "type": "FT",
+          "id": "01FT02"
+        },
+        {
+          "title": "L'écoute active",
+          "type": "FT",
+          "id": "01FT03"
+        },
+        {
+          "title": "La respiration contrôlée",
+          "type": "FT",
+          "id": "01FT04"
+        },
+        {
+          "title": "La focalisation/défocalisation attentionnelle",
+          "type": "FT",
+          "id": "01FT05"
+        }
+      ]
+    },
+    {
+      "title": "Bilans",
+      "id": "2",
+      "resume": "Ce module couvre les aspects essentiels des évaluations médicales, de l'observation initiale à la surveillance continue. Il enseigne également les techniques de transmission d'informations vitales et les méthodes d'évaluation des fonctions respiratoires, circulatoires et neurologiques.",
+      "sections": [
+        {
+          "title": "Généralités sur les bilans",
+          "type": "AC",
+          "id": "02AC01"
+        },
+        {
+          "title": "Premier regard",
+          "type": "PR",
+          "id": "02PR01"
+        },
+        {
+          "title": "Deuxième regard",
+          "type": "PR",
+          "id": "02PR02"
+        },
+        {
+          "title": "Troisième regard",
+          "type": "PR",
+          "id": "02PR03"
+        },
+        {
+          "title": "Quatrième regard",
+          "type": "PR",
+          "id": "02PR04"
+        },
+        {
+          "title": "Surveillance de la victime",
+          "type": "PR",
+          "id": "02PR05"
+        },
+        {
+          "title": "Transmission du bilan",
+          "type": "PR",
+          "id": "02PR06"
+        },
+        {
+          "title": "Retournement à deux secouristes",
+          "type": "FT",
+          "id": "02FT01"
+        },
+        {
+          "title": "Retournement à un secouriste",
+          "type": "FT",
+          "id": "02FT02"
+        },
+        {
+          "title": "Evaluation de la fonction respiratoire",
+          "type": "FT",
+          "id": "02FT03"
+        },
+        {
+          "title": "Evaluation de la fonction circulatoire",
+          "type": "FT",
+          "id": "02FT04"
+        },
+        {
+          "title": "Mesure de la glycémie capillaire",
+          "type": "FT",
+          "id": "02FT05"
+        },
+        {
+          "title": "Mesure de la pression artérielle",
+          "type": "FT",
+          "id": "02FT06"
+        },
+        {
+          "title": "Mesure de la saturation pulsée en oxygène",
+          "type": "FT",
+          "id": "02FT07"
+        },
+        {
+          "title": "Mesure de la température",
+          "type": "FT",
+          "id": "02FT08"
+        },
+        {
+          "title": "Evaluation de la fonction neurologique",
+          "type": "FT",
+          "id": "02FT09"
+        },
+        {
+          "title": "Repérage en cas de nombreuses victimes",
+          "type": "FT",
+          "id": "02FT10"
+        },
+        {
+          "title": "Mesure de la douleur",
+          "type": "FT",
+          "id": "02FT11"
+        },
+        {
+          "title": "Recherche des lésions",
+          "type": "FT",
+          "id": "02FT12"
+        },
+        {
+          "title": "Réaliser un électrocardiogramme",
+          "type": "FT",
+          "id": "02FT13"
+        }
+      ]
+    },
+    {
+      "title": "Protection et Sécurité",
+      "id": "3",
+      "resume": "Axé sur la sécurité du secouriste et de la victime, ce chapitre explore l'utilisation de l'équipement de protection individuelle, les procédures de sécurité sur intervention, et les méthodes de dégagement d'urgence.",
+      "sections": [
+        {
+          "title": "Equipement de protection individuelle",
+          "type": "AC",
+          "id": "03AC01"
+        },
+        {
+          "title": "Sécurité sur intervention",
+          "type": "PR",
+          "id": "03PR01"
+        },
+        {
+          "title": "Dégagement d'urgence",
+          "type": "FT",
+          "id": "03FT01"
+        }
+      ]
+    },
+    {
+      "title": "Hygiène et Asepsie",
+      "id": "4",
+      "resume": "Abordant les risques infectieux, ce chapitre explique les précautions standards et particulières, ainsi que l'utilisation appropriée des moyens de protection. Il détaille également les pratiques d'hygiène, le nettoyage du matériel, et la manipulation des détergents.",
+      "sections": [
+        {
+          "title": "Accident d'exposition à un risque viral",
+          "type": "AC",
+          "id": "04AC01"
+        },
+        {
+          "title": "Accident d'exposition à un risque viral",
+          "type": "PR",
+          "id": "04PR01"
+        },
+        {
+          "title": "Risque infectieux",
+          "type": "AC",
+          "id": "04AC02"
+        },
+        {
+          "title": "Précautions standards contre le risque infectieux",
+          "type": "PR",
+          "id": "04PR02"
+        },
+        {
+          "title": "Précautions particulières contre le risque infectieux",
+          "type": "PR",
+          "id": "04PR03"
+        },
+        {
+          "title": "Equipement en moyens de protection contre les agents infectieux",
+          "type": "FT",
+          "id": "04FT01"
+        },
+        {
+          "title": "Friction des mains",
+          "type": "FT",
+          "id": "04FT02"
+        },
+        {
+          "title": "Lavage des mains",
+          "type": "FT",
+          "id": "04FT03"
+        },
+        {
+          "title": "Mise en place de gants stériles",
+          "type": "FT",
+          "id": "04FT04"
+        },
+        {
+          "title": "Nettoyage et désinfection d'un véhicule ou d'un local",
+          "type": "FT",
+          "id": "04FT05"
+        },
+        {
+          "title": "Nettoyage et désinfection du matériel",
+          "type": "FT",
+          "id": "04FT06"
+        },
+        {
+          "title": "Retrait des gants à usage unique",
+          "type": "FT",
+          "id": "04FT07"
+        },
+        {
+          "title": "Utilisation des détergents et désinfectants",
+          "type": "FT",
+          "id": "04FT08"
+        },
+        {
+          "title": "Utilisation des emballages à élimination de déchets",
+          "type": "FT",
+          "id": "04FT09"
+        }
+      ]
+    },
+    {
+      "title": "Urgences Vitales",
+      "id": "5",
+      "resume": "Couvrant des situations critiques telles que l'arrêt cardiaque, la détresse circulatoire et respiratoire, ce chapitre enseigne les techniques pour traiter ces urgences. Il inclut également la gestion des hémorragies externes et l'obstruction des voies aériennes.",
+      "sections": [
+        {
+          "title": "Arrêt cardiaque",
+          "type": "AC",
+          "id": "05AC01"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'adulte",
+          "type": "PR",
+          "id": "05PR01"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'adulte en sauveteur isolé",
+          "type": "PR",
+          "id": "05PR02"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'enfant et le nourrisson",
+          "type": "PR",
+          "id": "05PR03"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'enfant et le nourrisson en sauveteur isolé",
+          "type": "PR",
+          "id": "05PR04"
+        },
+        {
+          "title": "Détresse circulatoire",
+          "type": "AC",
+          "id": "05AC02"
+        },
+        {
+          "title": "Détresse circulatoire",
+          "type": "PR",
+          "id": "05PR05"
+        },
+        {
+          "title": "Détresse neurologique",
+          "type": "AC",
+          "id": "05AC03"
+        },
+        {
+          "title": "Détresse neurologique",
+          "type": "PR",
+          "id": "05PR06"
+        },
+        {
+          "title": "Détresse respiratoire",
+          "type": "AC",
+          "id": "05AC04"
+        },
+        {
+          "title": "Détresse respiratoire",
+          "type": "PR",
+          "id": "05PR07"
+        },
+        {
+          "title": "Hémorragies externes",
+          "type": "AC",
+          "id": "05AC05"
+        },
+        {
+          "title": "Hémorragies externes",
+          "type": "PR",
+          "id": "05PR08"
+        },
+        {
+          "title": "Hémorragies extériorisées",
+          "type": "AC",
+          "id": "05AC06"
+        },
+        {
+          "title": "Hémorragies extériorisée",
+          "type": "PR",
+          "id": "05PR09"
+        },
+        {
+          "title": "Obstruction des voies aériennes par un corps étranger",
+          "type": "AC",
+          "id": "05AC07"
+        },
+        {
+          "title": "Obstruction partielle des voies aériennes",
+          "type": "PR",
+          "id": "05PR10"
+        },
+        {
+          "title": "Obstruction complète des voies aériennes",
+          "type": "PR",
+          "id": "05PR11"
+        },
+        {
+          "title": "Perte de connaissance",
+          "type": "AC",
+          "id": "05AC08"
+        },
+        {
+          "title": "Perte de connaissance",
+          "type": "PR",
+          "id": "05PR12"
+        },
+        {
+          "title": "Perte de connaissance en sauveur isolé",
+          "type": "PR",
+          "id": "05PR13"
+        },
+        {
+          "title": "Section de membre",
+          "type": "AC",
+          "id": "05AC09"
+        },
+        {
+          "title": "Section de membre",
+          "type": "PR",
+          "id": "05PR14"
+        },
+        {
+          "title": "Administration d'oxygène par insufflation",
+          "type": "FT",
+          "id": "05FT01"
+        },
+        { "title": "Aspiration de mucosité", "type": "FT", "id": "05FT02" },
+        { "title": "Compression manuelle", "type": "FT", "id": "05FT03" },
+        { "title": "Compressions thoraciques", "type": "FT", "id": "05FT04" },
+        {
+          "title": "Désobstruction par la méthode des claques dans le dos",
+          "type": "FT",
+          "id": "05FT05"
+        },
+        {
+          "title": "Désobstruction par la méthode des compressions abdominales",
+          "type": "FT",
+          "id": "05FT06"
+        },
+        {
+          "title": "Désobstruction par la méthode des compressions thoraciques",
+          "type": "FT",
+          "id": "05FT07"
+        },
+        { "title": "Garrot", "type": "FT", "id": "05FT08" },
+        {
+          "title": "Libération des voies aériennes chez une victime assise",
+          "type": "FT",
+          "id": "05FT09"
+        },
+        {
+          "title": "Libération des voies aériennes chez une victime non traumatisée",
+          "type": "FT",
+          "id": "05FT10"
+        },
+        {
+          "title": "Libération des voies aériennes chez une victime traumatisée",
+          "type": "FT",
+          "id": "05FT11"
+        },
+        {
+          "title": "Mise en place d'une canule oropharyngée",
+          "type": "FT",
+          "id": "05FT12"
+        },
+        { "title": "Pansement compressif", "type": "FT", "id": "05FT13" },
+        {
+          "title": "Gaze imbibée de substance hémostatique",
+          "type": "FT",
+          "id": "05FT14"
+        },
+        {
+          "title": "Utilisation d'un défibrillateur automatisé externe",
+          "type": "FT",
+          "id": "05FT15"
+        },
+        {
+          "title": "Ventilation artificielle par une méthode orale",
+          "type": "FT",
+          "id": "05FT16"
+        },
+        {
+          "title": "Ventilation artificielle par un insufflateur manuel",
+          "type": "FT",
+          "id": "05FT17"
+        },
+        {
+          "title": "Position latérale de sécurité à deux secouristes",
+          "type": "FT",
+          "id": "05FT18"
+        },
+        {
+          "title": "Position latérale de sécurité à un secouriste",
+          "type": "FT",
+          "id": "05FT19"
+        },
+        {
+          "title": "Administration d'oxygène par inhalation",
+          "type": "FT",
+          "id": "05FT20"
+        },
+        {
+          "title": "Utilisation d'une bouteille d'oxygène",
+          "type": "FT",
+          "id": "05FT21"
+        },
+        {
+          "title": "Techniques de réchauffement d'une victime",
+          "type": "FT",
+          "id": "05FT22"
+        }
+      ]
+    },
+    {
+      "title": "Malaises et Affectations Spécifiques",
+      "id": "6",
+      "resume": "Explorant des situations telles que les crises convulsives, les crises d'asthme, et les réactions allergiques graves, ce chapitre offre des compétences pour gérer ces incidents. Il aborde également les positions d'attente et de transport.",
+      "sections": [
+        {
+          "title": "Crise convulsive généralisée",
+          "type": "AC",
+          "id": "06AC01"
+        },
+        {
+          "title": "Crise convulsive généralisée",
+          "type": "PR",
+          "id": "06PR01"
+        },
+        {
+          "title": "Crise d'asthme",
+          "type": "AC",
+          "id": "06AC02"
+        },
+        {
+          "title": "Crise d'asthme",
+          "type": "PR",
+          "id": "06PR02"
+        },
+        {
+          "title": "Malaise hypoglycémique chez le diabétique",
+          "type": "AC",
+          "id": "06AC03"
+        },
+        {
+          "title": "Malaise hypoglycémique chez le diabétique",
+          "type": "PR",
+          "id": "06PR03"
+        },
+        {
+          "title": "Malaise et aggravation de maladie",
+          "type": "AC",
+          "id": "06AC04"
+        },
+        {
+          "title": "Malaise et aggravation de maladie",
+          "type": "PR",
+          "id": "06PR04"
+        },
+        {
+          "title": "Réaction allergique grave",
+          "type": "AC",
+          "id": "06AC05"
+        },
+        {
+          "title": "Réaction allergique grave",
+          "type": "PR",
+          "id": "06PR05"
+        },
+        {
+          "title": "Position d'attente et de transport",
+          "type": "FT",
+          "id": "06FT01"
+        },
+        {
+          "title": "Aide à la prise de médicaments",
+          "type": "FT",
+          "id": "06FT02"
+        },
+        {
+          "title": "Manoeuvres physiques",
+          "type": "FT",
+          "id": "06FT03"
+        }
+      ]
+    },
+    {
+      "title": "Atteintes Circonstancielles",
+      "id": "7",
+      "resume": "En se concentrant sur des situations spécifiques comme les accidents liés à la plongée, l'accouchement inopiné, et les accidents de noyade, ce chapitre guide le secouriste dans des interventions adaptées à ces circonstances.",
+      "sections": [
+        {
+          "title": "Accidents liés à la plongée",
+          "type": "AC",
+          "id": "07AC01"
+        },
+        {
+          "title": "Accidents liés à la plongée",
+          "type": "PR",
+          "id": "07PR01"
+        },
+        {
+          "title": "Accouchement inopiné",
+          "type": "AC",
+          "id": "07AC02"
+        },
+        {
+          "title": "Accouchement inopiné",
+          "type": "PR",
+          "id": "07PR02"
+        },
+        {
+          "title": "Prise en charge du nouveau-né à la naissance",
+          "type": "PR",
+          "id": "07PR03"
+        },
+        {
+          "title": "Soin au cordon ombilical",
+          "type": "FT",
+          "id": "07FT01"
+        },
+        {
+          "title": "Compression de membre",
+          "type": "AC",
+          "id": "07AC03"
+        },
+        {
+          "title": "Compression de membre",
+          "type": "PR",
+          "id": "07PR03"
+        },
+        {
+          "title": "Gelures",
+          "type": "AC",
+          "id": "07AC04"
+        },
+        {
+          "title": "Gelures",
+          "type": "PR",
+          "id": "07PR04"
+        },
+        {
+          "title": "Noyade",
+          "type": "AC",
+          "id": "07AC05"
+        },
+        {
+          "title": "Noyade",
+          "type": "PR",
+          "id": "07PR05"
+        },
+        {
+          "title": "Syndrome de suspension",
+          "type": "AC",
+          "id": "07AC06"
+        },
+        {
+          "title": "Syndrome de suspension",
+          "type": "PR",
+          "id": "07PR06"
+        },
+        {
+          "title": "Victimes d'explosion",
+          "type": "AC",
+          "id": "07AC07"
+        },
+        {
+          "title": "Victimes d'explosion",
+          "type": "PR",
+          "id": "07PR07"
+        },
+        {
+          "title": "Victimes d'avalanche",
+          "type": "AC",
+          "id": "07AC08"
+        },
+        {
+          "title": "Victimes d'avalanche",
+          "type": "PR",
+          "id": "07PR08"
+        },
+        {
+          "title": "Accident liés à la foudre",
+          "type": "AC",
+          "id": "07AC09"
+        },
+        {
+          "title": "Accident liés à la foudre",
+          "type": "PR",
+          "id": "07PR09"
+        }
+      ]
+    },
+    {
+      "title": "Traumatismes",
+      "id": "8",
+      "resume": "Ce chapitre traite des traumatismes tels que les brûlures, les plaies, et les fractures. Il enseigne les techniques d'immobilisation, de pose de pansement, et d'application de froid.",
+      "sections": [
+        {
+          "title": "Brûlures",
+          "type": "AC",
+          "id": "08AC01"
+        },
+        {
+          "title": "Brûlures",
+          "type": "PR",
+          "id": "08PR01"
+        },
+        {
+          "title": "Plaie",
+          "type": "AC",
+          "id": "08AC02"
+        },
+        {
+          "title": "Plaie",
+          "type": "PR",
+          "id": "08PR02"
+        },
+        {
+          "title": "Traumatisme des membres",
+          "type": "AC",
+          "id": "08AC03"
+        },
+        {
+          "title": "Traumatisme des membres",
+          "type": "PR",
+          "id": "08PR03"
+        },
+        {
+          "title": "Immobilisation d'un membre au moyen d'une attele à dépression",
+          "type": "FT",
+          "id": "08FT01"
+        },
+        {
+          "title": "Immobilisation d'un membre au moyen d'une attele modulable",
+          "type": "FT",
+          "id": "08FT02"
+        },
+        {
+          "title": "Immobilisation d'un membre supérieur au moyen d'écharpes",
+          "type": "FT",
+          "id": "08FT03"
+        },
+        {
+          "title": "Maintien de la tête en position neutre",
+          "type": "FT",
+          "id": "08FT04"
+        },
+        {
+          "title": "Pose d'un collier cervical",
+          "type": "FT",
+          "id": "08FT05"
+        },
+        {
+          "title": "Retrait d'un casque de protection",
+          "type": "FT",
+          "id": "08FT06"
+        },
+        {
+          "title": "Application de froid",
+          "type": "FT",
+          "id": "08FT07"
+        },
+        {
+          "title": "Emballage au moyen d'un pansement stérile",
+          "type": "FT",
+          "id": "08FT08"
+        },
+        {
+          "title": "Maintien d'un pansement",
+          "type": "FT",
+          "id": "08FT09"
+        },
+        {
+          "title": "Pansement",
+          "type": "FT",
+          "id": "08FT10"
+        },
+        {
+          "title": "Utilisation d'un lot membre arraché ou sectionné",
+          "type": "FT",
+          "id": "08FT11"
+        }
+      ]
+    },
+    {
+      "title": "Relevage et Brancardage",
+      "id": "9",
+      "resume": "Fournissant des compétences pratiques, ce chapitre explique la préparation d'un dispositif de portage pour le relevage et le brancardage.",
+      "sections": [
+        {
+          "title": "Préparation d'un dispositif de portage",
+          "type": "FT",
+          "id": "09FT01"
+        }
+      ]
+    },
+    {
+      "title": "Situations Particulières",
+      "id": "10",
+      "resume": "Axé sur les situations à nombreuses victimes, ce chapitre explore les stratégies pour gérer efficacement des incidents impliquant un grand nombre de personnes.",
+      "sections": [
+        {
+          "title": "Situation à nombreuses victimes",
+          "type": "AC",
+          "id": "10AC01"
+        }
+      ]
+    },
+    {
+      "title": "Divers",
+      "id": "11",
+      "resume": "Ce chapitre offre des informations générales pour compléter la formation, couvrant divers aspects des premiers secours en équipe de niveau 1.",
+      "sections": [
+        {
+          "title": "Informations générales",
+          "type": "AC",
+          "id": "11AC01"
+        }
+      ]
+    }
+  ]
+}
