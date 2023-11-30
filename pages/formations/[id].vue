@@ -1,22 +1,57 @@
+<script setup>
+const route = useRoute();
+console.log(route.params.id);
+
+const { data: formation } = await useFetch(`/api/` + route.params.id, {
+  transform: (_formation) => _formation.data,
+});
+</script>
+
 <template>
-  <h1 class="text-red-main-600 text-5xl lg:m-5 text-center font-semibold">
-    Formation {{ $route.params.id }}
-  </h1>
-  <div class="w-full flex flex-col items-center">
-    <FormationChapter title="Attitude et Comportement" number="1" />
-    <FormationChapter title="Bilans" number="2" />
-    <FormationChapter title="Protection et Sécurité" number="3" />
-    <FormationChapter title="Hygiène et Asepsie" number="4" />
-    <FormationChapter title="Urgences Vitales" number="5" />
-    <FormationChapter title="Malaises et Affectations Spécifiques" number="6" />
-    <FormationChapter title="Atteintes Circonstancielles" number="7" />
-    <FormationChapter title="Traumatismes" number="8" />
+  <svg
+    width="960"
+    height="540"
+    viewBox="0 0 960 540"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    preserveAspectRatio="none"
+    class="w-full h-full absolute top-0 left-0 -z-10 rotate-180"
+  >
+    <g clip-path="url(#clip0_187_2)">
+      <path d="M960 0H0V540H960V0Z" fill="url(#paint0_linear_187_2)" />
+      <path
+        d="M0 269L40 249.7C80 230.3 160 191.7 240 171.3C320 151 400 149 480 169.2C560 189.3 640 231.7 720 244C800 256.3 880 238.7 920 229.8L960 221V0H920C880 0 800 0 720 0C640 0 560 0 480 0C400 0 320 0 240 0C160 0 80 0 40 0H0V269Z"
+        fill="white"
+      />
+    </g>
+    <defs>
+      <linearGradient
+        id="paint0_linear_187_2"
+        x1="-7.72439e-06"
+        y1="371.5"
+        x2="960"
+        y2="369.5"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#F2282A" />
+        <stop offset="1" stop-color="#FE4A2B" />
+      </linearGradient>
+      <clipPath id="clip0_187_2">
+        <rect width="960" height="540" fill="white" />
+      </clipPath>
+    </defs>
+  </svg>
+  <div class="flex flex-col items-center justify-center">
+    <h1 class="text-7xl text-white font-semibold m-10 mt-16 mb-20">
+      {{ formation.title }}
+    </h1>
     <FormationChapter
-      title="Souffrance Psychique et Comportements Inhabituels"
-      number="9"
+      v-for="chapter in formation.chapters"
+      :number="chapter.id"
+      :title="chapter.title"
+      :resume="chapter.resume ? chapter.resume : ''"
+      :sections="chapter.sections ? chapter.sections : []"
+      :formation="formation.id"
     />
-    <FormationChapter title="Relevage et Brancardage" number="10" />
-    <FormationChapter title="Situations Particulières" number="11" />
-    <FormationChapter title="Divers" number="12" />
   </div>
 </template>
