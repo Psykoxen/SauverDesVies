@@ -10,12 +10,160 @@
         {
           "title": "Le citoyen de Sécurité Civile",
           "type": "AC",
-          "id": "01AC01"
+          "id": "01AC01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "<b>Cette fiche ne fait pas l’objet d’un enseignement spécifique. Les messages ci-après doivent être distillés tout au long de la formation au moment le plus opportun et en fonction de la teneur des échanges.</b> <br><br> La loi de 2004, dite de « modernisation de la sécurité civile », faisait du citoyen un acteur majeur de la Sécurité Civile. Reprise dans l’article L721‐1 du code de la Sécurité Intérieure, elle affirme entre autres que « <i>Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions nécessaires. </i>» <br> Au‐delà des gestes techniques de secours, toute formation de Sécurité Civile à destination des citoyens est donc une occasion de rappeler la place essentielle de ces derniers.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Protection juridique du citoyen",
+              "content": "Il est à noter que cette même loi protège le citoyen dans toutes ses actions entreprises : <i>« … Quiconque porte assistance de manière bénévole à une personne en situation apparente de péril grave et imminent est un citoyen sauveteur et bénéficie de la qualité de collaborateur occasionnel du service public … »</i>. <b>LOI n° 2020‐840 du 3 juillet 2020.</b>",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Le premier maillon",
+              "content": "Le secouriste est la première personne formée à la prise en charge de victimes d’un accident, un malaise, une aggravation brutale d’une maladie ou toute autre situation venant interrompre leur quotidien, de manière soudaine et inattendue, et susceptible de déborder les capacités individuelles ou collectives à faire face.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Prévenir les accidents de la vie courante ou l'aggravation de situations",
+              "content": "Les services de secours sont souvent sollicités pour des accidents de la vie courante qui touchent particulièrement les enfants de moins de 15 ans et les personnes âgées. Toute action que le citoyen peut mettre en oeuvre pour éviter un accident, en supprimant un danger ou en le réduisant, pour lui‐même ou son entourage : <br><br><li> est une occasion de ne pas être impacté, à court, moyen ou long terme par un événement ;</li> <li> réduit la sollicitation des secours et du système de santé.</li><br> Ces actions passent entre autres par le respect des consignes de sécurité édictées par les autorités, collectivités, encadrants d’activités de loisirs ou inscrites dans des notices techniques (électroportatifs, électroménager, produits ménagers, etc.). Il est à noter que certaines aggravations de situations pourraient être anticipées ou limitées par l’action du citoyen : <br><br><li>En allant au‐devant des personnes (personne semblant ne pas se sentir bien, personnes fragiles, personnes âgées en période de grand froid ou fortes chaleurs, parent ou voisin dont on a pas de nouvelles, etc.) ;</li> <li> En adoptant une attitude empathique et une posture permettant de réduire l’impact psychologique de la victime ou des témoins pouvant aggraver certaines situations.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Entretenir et développer ses compétences",
+              "content": "Malgré une absence d’obligation de formation continue pour certaines qualifications grand public, il est recommandé que le citoyen actualise régulièrement ses compétences. De même, toute personne suivant une formation aux gestes qui sauvent (GQS), dont le but était initialement de répondre à une situation d’attentat, est invitée à développer ses compétences au travers d’une formation PSC1, formation de base du citoyen permettant de répondre aux enjeux du quotidien, ou d’un niveau supérieur.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "S’engager",
+              "content": "Que le citoyen soit confronté de manière directe ou indirecte à une situation dangereuse, un accident, une catastrophe naturelle ou un attentat terroriste, sa mobilisation est essentielle et peut permettre de sauver des vies. Chaque citoyen peut s’engager sur la base du volontariat ou du bénévolat, pour contribuer à la sécurité du pays et pour aider les victimes. Pompier volontaire, bénévole de Sécurité Civile, réserviste, volontaire du Service civique, il existe de nombreuses façons de mettre ses compétences au service de la solidarité nationale. Se mobiliser, c’est aussi adopter des gestes simples ‐ donner son sang, avoir les bonnes pratiques numériques face à l’urgence – qui inscrivent chaque citoyen dans une démarche responsable et solidaire.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Être un « ambassadeur » de Sécurité Civile",
+              "content": "Être un « ambassadeur » de Sécurité Civile auprès de son entourage, c’est : <li> partager son expérience acquise en formation et inciter à se former aux premiers secours ; </li><li> véhiculer les communications relatives à la Sécurité Civile ; </li><li> partager ses compétences lors de crises auprès des associations agréées de Sécurité Civile.</li>",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Impact psychologique d’une intervention",
+              "content": "Toute situation de crise peut avoir un impact psychologique tant sur les victimes que les témoins ou les intervenants. Le citoyen peut être dans l’une de ces trois catégories. La réduction de l’impact psychologique pour le citoyen passe par :  sa préparation en se formant régulièrement, ce qui lui permet d’intervenir avec une moindre gêne des effets du stress ou de comprendre comment il va être pris en charge s’il est la victime.  sa posture lorsqu’il intervient sur une victime : en se mettant à sa hauteur, en l’écoutant et en la rassurant, en l’accompagnant du regard, en respectant son intimité, etc.  l’échange avec les secours présents sur place, une fois la victime prise en charge.",
+              "type": "text"
+            }
+          ]
         },
         {
-          "title": "Enjeux et principes",
+          "title": "Généralités",
           "type": "AC",
-          "id": "01AC02"
+          "id": "01AC02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "Le secouriste est la première personne opérationnelle, formée et entraînée à la prise en charge de victimes d’un accident, un malaise, une aggravation brutale d’une maladie ou toute autre situation venant interrompre leur quotidien, de manière soudaine et inattendue, et susceptible de déborder les capacités individuelles ou collectives à faire face.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Maintenir ses acquis",
+              "content": "Le secouriste a pour devoir de maintenir ses connaissances et ses compétences à jour, en participant régulièrement aux séances de formation continue. La formation continue lui permet ainsi de réaliser un retour d’expérience et d’améliorer ses futures missions, de mieux coordonner son action avec un ou plusieurs équipiers, d’apprendre à utiliser les nouveaux matériels et de prendre connaissance des nouvelles techniques et procédures.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Respecter les règles d’hygiène et de sécurité",
+              "content": "Le premier principe du secouriste est de respecter les règles d’hygiène et de sécurité, individuelles et collectives. Afin d’assurer ses missions de secours à victime, le secouriste doit :<br><br>Porter des équipements de protection individuelle :<li>gilet de signalisation,</li><li>casque,</li><li>gants,</li><li>etc.</li>Accorder de l’importance à sa condition physique :<li>hygiène de vie,</li><li>vaccinations,</li><li>activités physique et sportive régulières … ;</li>Adopter les règles liées à l’utilisation des véhicules :<li>port de la ceinture de sécurité,</li><li>vigilance lors des manoeuvres de montée et descente du véhicule,</li><li>respect des limitations de vitesse, utilisation des signaux lumineux… ;</li>Adopter les règles de gestes et postures ou de manutention :<li>sollicitation au maximum de la victime pour réaliser une action, en l’accompagnant, lorsque cela est possible, et dans le but d’économiser les efforts des intervenants,</li><li>travail préférentiel avec les cuisses et non le dos,</li><li>proximité de la charge à manipuler,</li><li>respect de la courbure naturelle du dos,</li><li>stabilité des appuis,</li><li>solidité des prises</li><li>etc.</li>Assurer une protection de l’environnement de l’intervention :<li>balisage, périmètre de sécurité,</li><li>récupération pour élimination des déchets de l’intervention… ;</li>Travailler en étroite collaboration avec ses équipiers et responsables : rendre compte, respecter les consignes, etc.<br>Les exemples ne sont pas exhaustifs et pour certains sont précisés tout au long du présent référentiel.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Ne pas nuire aux victimes",
+              "content": "Le deuxième principe d’action du secouriste est de ne pas aggraver l’état de la victime ou de ne pas nuire à son environnement.<br>Par exemple, il est souvent judicieux, en l’absence de risque vital, de laisser une victime dans la position où elle se trouve plutôt que d’essayer de la déplacer sans avoir le personnel et le matériel nécessaires.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Mettre en oeuvre les techniques et utiliser le matériel",
+              "content": "Le troisième principe d’action du secouriste est de savoir réaliser parfaitement les techniques de premiers secours. Il doit savoir utiliser le matériel mis à sa disposition et en connaître les mesures de sécurité et d’entretien.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "S’adapter à la situation",
+              "content": "Certaines situations ne permettent pas au secouriste de mettre en oeuvre les techniques apprises et celui-ci doit faire preuve de faculté d’adaptation.<br>Par exemple, en l’absence de matériel spécifique : utiliser des morceaux de vêtements pour réaliser un tampon compressif ou une chaise d’ameublement pour déplacer une victime.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Aider les autres équipes de secours",
+              "content": "Cette formation permet aussi au secouriste d’apporter une aide efficace aux équipes de secours quand elles arrivent sur les lieux.<br>Sur opération, lors de la réalisation de certaines techniques, notamment celles de relevage ou de brancardage, la participation de plus de trois équipiers est requise. Dans ce cas, du fait de sa formation, le secouriste est mis à disposition du responsable de l’intervention, pour apporter son aide.",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Rôles et missions",
+              "content": [
+                ["", "<b>Seul</b>", "<b>En équipe</b>"],
+                [
+                  "<b>À la prise de poste</b>",
+                  "",
+                  "Le secouriste vérifie le matériel et prend connaissance des notes internes. Il fait du lien avec l’équipe."
+                ],
+                [
+                  "<b>Se rendre sur les lieux</b>",
+                  "",
+                  "La connaissance du lieu d’intervention et de la zone géographique permet tout naturellement au secouriste de se rendre plus rapidement auprès de la victime.<br><br>Un message indiquant l’arrivée sur les lieux est transmis."
+                ],
+                [
+                  "<b>Protéger</b>",
+                  "Seul ou en équipe, la recherche d’un danger pour soi, la victime ou les tiers est primordiale. Une action immédiate doit être entreprise pour mettre tout le monde en sécurité ou compléter un dispositif existant."
+                ],
+                [
+                  "<b>Accéder à la victime</b>",
+                  "",
+                  "Dans certaines circonstances, l’accès à la victime ne peut se faire qu’après une manoeuvre de sauvetage spécialisée, exemples : aquatique, secours routier …<br><br>Le secouriste accèdera à la victime dans la limite de ses qualifications et de son entraînement."
+                ],
+                [
+                  "<b>Examiner</b>",
+                  "Le secouriste réalise un bilan avec les moyens dont il dispose.",
+                  "Le secouriste réalise un bilan avec matériel."
+                ],
+                [
+                  "<b>Alerter / Faire alerter</b>",
+                  "Le but est de déceler une détresse vitale et/ou psychique en vue de déterminer une prise en charge adaptée."
+                ],
+                [
+                  "<b>Secourir</b>",
+                  "Seul ou via un témoin, l’alerte des secours publics doit être réalisée le plus précocement possible.<br><br>L’utilisation du téléphone portable donne de nombreux avantages : haut-parleur, échange entre la victime et le médecin …",
+                  "Les terminaux de transmission et le téléphone sont les plus souvent utilisés pour transmettre les informations de la victime à son responsable ou aux secours publics.<br><br>Quoiqu’il en soit, en équipe, l’alerte se fait dans le respect des procédures internes."
+                ],
+                [
+                  "<b>Surveiller</b>",
+                  "Le secouriste assure une surveillance constante de la victime, tant sur le plan physique que psychologique. Il cherche une éventuelle évolution et veille à l’efficacité des moyens mis en oeuvre."
+                ],
+                [
+                  "<b>Aider les renforts</b>",
+                  "À l’arrivée des renforts, le secouriste transmet les éléments de l’intervention à ces derniers et propose son aide pour la poursuite de l’intervention, dans la limite de ses compétences."
+                ],
+                [
+                  "<b>Après une intervention</b>",
+                  "Le secouriste isolé pourra prendre contact avec son autorité d’emploi en cas de besoin.",
+                  "Le secouriste veille au reconditionnement matériel.<br><br>Il contribue au débriefing post-intervention prenant en compte l’aspect technique, mais également psychologique.<br><br>Il transmet les documents pour archivage."
+                ]
+              ],
+              "type": "array"
+            }
+          ]
         },
         {
           "title": "Attitude et comportement du secouriste",
