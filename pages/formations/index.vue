@@ -6,7 +6,6 @@
     <FormationBox title="PSC1" />
     <FormationBox title="PSE1" />
     <FormationBox title="PSE2" />
-    <FormationBox title="BNSSSA" />
   </div>
 </template>
 

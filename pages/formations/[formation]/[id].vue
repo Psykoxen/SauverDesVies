@@ -9,45 +9,18 @@ const { data: formation } = await useFetch(`/api/${route.params.formation}`, {
 });
 
 console.log(formation);
-console.log(formation._value);
 
 const section = formation._value?.chapters[
   parseInt(route.params.id.substring(0, 2).valueOf(), 10) - 1
 ]?.sections.find((section) => section.id === route.params.id);
 
 console.log(section);
+console.log(route.params.id);
+console.log(parseInt(route.params.id.substring(0, 2).valueOf(), 10) - 1);
 </script>
 
 <template>
   <section>
-    <svg
-      width="960"
-      height="330"
-      viewBox="0 0 960 330"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      preserveAspectRatio="none"
-      class="w-full h-full absolute top-0 left-0 -z-10"
-    >
-      <path d="M0 330L960 330V0L0 0V330Z" fill="url(#paint0_linear_194_6)" />
-      <path
-        d="M960 61L920 80.3C880 99.7 800 138.3 720 158.7C640 179 560 181 480 160.8C400 140.7 320 98.3 240 86C160 73.7 80 91.3 40 100.2L0 109V330H40C80 330 160 330 240 330C320 330 400 330 480 330C560 330 640 330 720 330C800 330 880 330 920 330H960V61Z"
-        fill="#f9faff"
-      />
-      <defs>
-        <linearGradient
-          id="paint0_linear_194_6"
-          x1="960"
-          y1="102.972"
-          x2="0.00698769"
-          y2="106.245"
-          gradientUnits="userSpaceOnUse"
-        >
-          <stop stop-color="#FE4A2B" />
-          <stop offset="1" stop-color="#F2282A" />
-        </linearGradient>
-      </defs>
-    </svg>
     <div class="flex flex-col items-center justify-center">
       <h1
         v-if="section.title"
