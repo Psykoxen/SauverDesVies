@@ -1,8 +1,0 @@
-{
-  "id": "PSC1",
-  "title": "Prévention et secours civiques de niveau 1",
-  "chapters": [
-    { "title": "Informations Générales", "id": "1" },
-    { "title": "Secourir une personne", "id": "2" }
-  ]
-}

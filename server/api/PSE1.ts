@@ -1,4 +1,4 @@
-import data from "./PSE1.json";
+import data from "./documents/PSE1.json";
 
 export default defineEventHandler(() => {
   return {

@@ -1,4 +1,4 @@
-import data from "./documents/PSC1.json";
+import data from "./documents/GQS.json";
 
 export default defineEventHandler(() => {
   return {
