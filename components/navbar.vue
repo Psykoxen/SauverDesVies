@@ -7,8 +7,10 @@
       ><img src="../assets/svg/ico.svg" class="w-8 h-8 shadow-md"
     /></a>
     <a class="text-red-main-600 font-semibold" href="/">Accueil</a>
-    <a class="text-red-main-600 font-semibold" href="/contact">Formations</a>
-    <a class="text-red-main-600 font-semibold" href="/contact">Memo</a>
+    <a class="text-red-main-600 font-semibold" href="/formations/"
+      >Formations</a
+    >
+    <!-- <a class="text-red-main-600 font-semibold" href="/contact">Memo</a> -->
     <!-- <a class="text-red-main-600 font-semibold" href="/about">À propos</a> -->
   </div>
 </template>

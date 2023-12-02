@@ -9,8 +9,8 @@
 <script setup>
 const appConfig = useAppConfig();
 useSeoMeta({
-  title: "Secourisme",
-  ogTitle: "Secourisme",
+  title: "Sauver des vies",
+  ogTitle: "Sauver des vies",
   // description: "This is my amazing site, let me tell you all about it.",
   // ogDescription: "This is my amazing site, let me tell you all about it.",
   // ogImage: "https://example.com/image.png",
@@ -25,5 +25,15 @@ useSeoMeta({
 
 *::-webkit-scrollbar {
   display: none;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.4s;
+}
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+  filter: blur(1rem);
 }
 </style>

@@ -1,0 +1,315 @@
+{
+  "id": "PSE2",
+  "title": "Premiers Secours en Equipe de Niveau 2",
+  "chapters": [
+    {
+      "title": "Protection et Sécurité",
+      "id": "1",
+      "resume": "Axé sur la sécurité du secouriste et de la victime, ce chapitre explore l'utilisation de l'équipement de protection individuelle, les procédures de sécurité sur intervention, et les méthodes de dégagement d'urgence.",
+      "sections": [
+        {
+          "title": "Sécurité sur intervention particulière",
+          "type": "PR",
+          "id": "03PR02"
+        }
+      ]
+    },
+    {
+      "title": "Malaises et Affectations Spécifiques",
+      "id": "2",
+      "resume": "Explorant des situations telles que les crises convulsives, les crises d'asthme, et les réactions allergiques graves, ce chapitre offre des compétences pour gérer ces incidents. Il aborde également les positions d'attente et de transport.",
+      "sections": [
+        {
+          "title": "Accident vasculaire cérébral",
+          "type": "AC",
+          "id": "06AC01"
+        },
+        {
+          "title": "Accident vasculaire cérébral",
+          "type": "PR",
+          "id": "06PR01"
+        },
+        {
+          "title": "Douleur thoracique (non traumatique)",
+          "type": "AC",
+          "id": "06AC04"
+        },
+        {
+          "title": "Douleur thoracique (non traumatique)",
+          "type": "PR",
+          "id": "06PR04"
+        }
+      ]
+    },
+    {
+      "title": "Atteintes Circonstancielles",
+      "id": "3",
+      "resume": "En se concentrant sur des situations spécifiques comme les accidents liés à la plongée, l'accouchement inopiné, et les accidents de noyade, ce chapitre guide le secouriste dans des interventions adaptées à ces circonstances.",
+      "sections": [
+        {
+          "title": "Accident électrique",
+          "type": "AC",
+          "id": "07AC01"
+        },
+        {
+          "title": "Accident électrique",
+          "type": "PR",
+          "id": "07PR01"
+        },
+        {
+          "title": "Affectations liées à la chaleur",
+          "type": "AC",
+          "id": "07AC04"
+        },
+        {
+          "title": "Prendre en charge une affectation liée à la chaleur",
+          "type": "PR",
+          "id": "07PR05"
+        },
+        {
+          "title": "Hypothermie",
+          "type": "PR",
+          "id": "07AC07"
+        },
+        {
+          "title": "Hypothermie",
+          "type": "FT",
+          "id": "07PR08"
+        },
+        {
+          "title": "Intoxications",
+          "type": "AC",
+          "id": "07AC08"
+        },
+        {
+          "title": "Intoxications",
+          "type": "PR",
+          "id": "07PR09"
+        },
+        {
+          "title": "Intoxication en environnement toxique",
+          "type": "PR",
+          "id": "07PR10"
+        },
+        {
+          "title": "Pendaison, strangulation",
+          "type": "AC",
+          "id": "07AC10"
+        },
+        {
+          "title": "Pendaison, strangulation",
+          "type": "PR",
+          "id": "07PR12"
+        },
+        {
+          "title": "Piqûres et morsures",
+          "type": "AC",
+          "id": "07AC11"
+        },
+        {
+          "title": "Piqûres et morsures",
+          "type": "PR",
+          "id": "07PR13"
+        }
+      ]
+    },
+    {
+      "title": "Traumatismes",
+      "id": "4",
+      "resume": "Ce chapitre traite des traumatismes tels que les brûlures, les plaies, et les fractures. Il enseigne les techniques d'immobilisation, de pose de pansement, et d'application de froid.",
+      "sections": [
+        {
+          "title": "Traumatisme de l'abdomen",
+          "type": "AC",
+          "id": "08AC03"
+        },
+        {
+          "title": "Traumatisme de l'abdomen",
+          "type": "PR",
+          "id": "08PR03"
+        },
+        {
+          "title": "Traumatisme du bassin",
+          "type": "AC",
+          "id": "08AC04"
+        },
+        {
+          "title": "Traumatisme du bassin",
+          "type": "PR",
+          "id": "08PR04"
+        },
+        {
+          "title": "Traumatisme du crâne",
+          "type": "AC",
+          "id": "08AC05"
+        },
+        {
+          "title": "Traumatisme du crâne",
+          "type": "PR",
+          "id": "08PR05"
+        },
+        {
+          "title": "Traumatisme du dos et du cou",
+          "type": "AC",
+          "id": "08AC06"
+        },
+        {
+          "title": "Traumatisme du dos et du cou",
+          "type": "PR",
+          "id": "08PR06"
+        },
+        {
+          "title": "Traumatisme du thorax",
+          "type": "AC",
+          "id": "08AC07"
+        },
+        {
+          "title": "Traumatisme du thorax",
+          "type": "PR",
+          "id": "08PR07"
+        },
+        {
+          "title": "Traumatisme de la face et de la face antérieure du cou",
+          "type": "AC",
+          "id": "08AC09"
+        },
+        {
+          "title": "Traumatisme de la face et de la face antérieure du cou",
+          "type": "PR",
+          "id": "08PR09"
+        },
+        {
+          "title": "Convention pelvienne",
+          "type": "FT",
+          "id": "08FT01"
+        },
+        {
+          "title": "Immobilisation d'un membre inférieur au moyen d'une attelle à traction",
+          "type": "FT",
+          "id": "08FT04"
+        },
+        {
+          "title": "Immobilisation générale sur un plan dur",
+          "type": "FT",
+          "id": "08FT06"
+        },
+        {
+          "title": "Immobilisation générale sur un matelas à dépression",
+          "type": "FT",
+          "id": "08FT07"
+        },
+        {
+          "title": "Pose de l'attelle cervico-thoracique (ACT)",
+          "type": "FT",
+          "id": "08FT09"
+        },
+        {
+          "title": "Réalignement de membre",
+          "type": "FT",
+          "id": "08FT11"
+        }
+      ]
+    },
+    {
+      "title": "Souffrance Psychique et Comportement Inabituels",
+      "id": "5",
+      "resume": "Ce sujet explore la souffrance psychique et les comportements inhabituels, offrant un regard approfondi sur les manifestations émotionnelles et mentales de la détresse psychologique.",
+      "sections": [
+        {
+          "title": "Les personnes en situation de crise",
+          "type": "AC",
+          "id": "09AC01"
+        },
+        {
+          "title": "Prise en charge d'une personne en situation de crise",
+          "type": "PR",
+          "id": "09PR01"
+        }
+      ]
+    },
+    {
+      "title": "Relevage et Brancardage",
+      "id": "6",
+      "resume": "Fournissant des compétences pratiques, ce chapitre explique la préparation d'un dispositif de portage pour le relevage et le brancardage.",
+      "sections": [
+        {
+          "title": "Relevage et brancardage",
+          "type": "AC",
+          "id": "10AC01"
+        },
+        {
+          "title": "Aide à la marche",
+          "type": "FT",
+          "id": "10FT01"
+        },
+        {
+          "title": "Arrimage de la victime",
+          "type": "FT",
+          "id": "10FT02"
+        },
+        {
+          "title": "Brancardage à quatre secouristes",
+          "type": "FT",
+          "id": "10FT03"
+        },
+        {
+          "title": "Brancardage à trois secouristes",
+          "type": "FT",
+          "id": "10FT04"
+        },
+        {
+          "title": "Déplacement d'une victime à l'aide d'une chaise de transport",
+          "type": "FT",
+          "id": "10FT05"
+        },
+        {
+          "title": "Déplacement d'une victime non valide",
+          "type": "FT",
+          "id": "10FT06"
+        },
+        {
+          "title": "Installation d'une victime dans un vecteur de transport",
+          "type": "FT",
+          "id": "10FT07"
+        },
+        {
+          "title": "Relevage à l'aide d'ubn brancard cuillère",
+          "type": "FT",
+          "id": "10FT09"
+        },
+        {
+          "title": "Relevage à quatre secouristes",
+          "type": "FT",
+          "id": "10FT10"
+        },
+        {
+          "title": "Relevage à trois secouristes",
+          "type": "FT",
+          "id": "10FT11"
+        },
+        {
+          "title": "Relevage d'une victime en position particulière",
+          "type": "FT",
+          "id": "10FT12"
+        },
+        {
+          "title": "Transfert d'une victime à l'aide d'une alèse portoir",
+          "type": "FT",
+          "id": "10FT13"
+        }
+      ]
+    },
+    {
+      "title": "Divers",
+      "id": "7",
+      "resume": "Ce chapitre offre des informations générales pour compléter la formation, couvrant divers aspects des premiers secours en équipe de niveau 1.",
+      "sections": [
+        {
+          "title": "Informations générales",
+          "type": "AC",
+          "id": "12AC01"
+        }
+      ]
+    }
+  ]
+}
