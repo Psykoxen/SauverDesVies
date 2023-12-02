@@ -1,0 +1,1019 @@
+{
+  "id": "PSE1",
+  "title": "Premiers Secours en Equipe de Niveau 1",
+  "chapters": [
+    {
+      "title": "Attitude et Comportement",
+      "id": "1",
+      "resume": "Ce chapitre forme les citoyens de Sécurité Civile en mettant l'accent sur l'abord relationnel et les compétences pratiques, allant de l'intervention auprès d'enfants à la préservation du bien-être mental du secouriste. Ce dernier vise à développer des attitudes et comportements adaptés, renforcés par des compétences clés pour des interventions efficaces.",
+      "sections": [
+        {
+          "title": "Le citoyen de Sécurité Civile",
+          "type": "AC",
+          "id": "01AC01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "<b>Cette fiche ne fait pas l’objet d’un enseignement spécifique. Les messages ci-après doivent être distillés tout au long de la formation au moment le plus opportun et en fonction de la teneur des échanges.</b> <br><br> La loi de 2004, dite de « modernisation de la sécurité civile », faisait du citoyen un acteur majeur de la Sécurité Civile. Reprise dans l’article L721‐1 du code de la Sécurité Intérieure, elle affirme entre autres que « <i>Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions nécessaires. </i>» <br> Au‐delà des gestes techniques de secours, toute formation de Sécurité Civile à destination des citoyens est donc une occasion de rappeler la place essentielle de ces derniers.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Protection juridique du citoyen",
+              "content": "Il est à noter que cette même loi protège le citoyen dans toutes ses actions entreprises : <i>« … Quiconque porte assistance de manière bénévole à une personne en situation apparente de péril grave et imminent est un citoyen sauveteur et bénéficie de la qualité de collaborateur occasionnel du service public … »</i>. <b>LOI n° 2020‐840 du 3 juillet 2020.</b>",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Le premier maillon",
+              "content": "Le secouriste est la première personne formée à la prise en charge de victimes d’un accident, un malaise, une aggravation brutale d’une maladie ou toute autre situation venant interrompre leur quotidien, de manière soudaine et inattendue, et susceptible de déborder les capacités individuelles ou collectives à faire face.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Prévenir les accidents de la vie courante ou l'aggravation de situations",
+              "content": "Les services de secours sont souvent sollicités pour des accidents de la vie courante qui touchent particulièrement les enfants de moins de 15 ans et les personnes âgées. Toute action que le citoyen peut mettre en oeuvre pour éviter un accident, en supprimant un danger ou en le réduisant, pour lui‐même ou son entourage : <br><br><li> est une occasion de ne pas être impacté, à court, moyen ou long terme par un événement ;</li> <li> réduit la sollicitation des secours et du système de santé.</li><br> Ces actions passent entre autres par le respect des consignes de sécurité édictées par les autorités, collectivités, encadrants d’activités de loisirs ou inscrites dans des notices techniques (électroportatifs, électroménager, produits ménagers, etc.). Il est à noter que certaines aggravations de situations pourraient être anticipées ou limitées par l’action du citoyen : <br><br><li>En allant au‐devant des personnes (personne semblant ne pas se sentir bien, personnes fragiles, personnes âgées en période de grand froid ou fortes chaleurs, parent ou voisin dont on a pas de nouvelles, etc.) ;</li> <li> En adoptant une attitude empathique et une posture permettant de réduire l’impact psychologique de la victime ou des témoins pouvant aggraver certaines situations.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Entretenir et développer ses compétences",
+              "content": "Malgré une absence d’obligation de formation continue pour certaines qualifications grand public, il est recommandé que le citoyen actualise régulièrement ses compétences. De même, toute personne suivant une formation aux gestes qui sauvent (GQS), dont le but était initialement de répondre à une situation d’attentat, est invitée à développer ses compétences au travers d’une formation PSC1, formation de base du citoyen permettant de répondre aux enjeux du quotidien, ou d’un niveau supérieur.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "S’engager",
+              "content": "Que le citoyen soit confronté de manière directe ou indirecte à une situation dangereuse, un accident, une catastrophe naturelle ou un attentat terroriste, sa mobilisation est essentielle et peut permettre de sauver des vies. Chaque citoyen peut s’engager sur la base du volontariat ou du bénévolat, pour contribuer à la sécurité du pays et pour aider les victimes. Pompier volontaire, bénévole de Sécurité Civile, réserviste, volontaire du Service civique, il existe de nombreuses façons de mettre ses compétences au service de la solidarité nationale. Se mobiliser, c’est aussi adopter des gestes simples ‐ donner son sang, avoir les bonnes pratiques numériques face à l’urgence – qui inscrivent chaque citoyen dans une démarche responsable et solidaire.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Être un « ambassadeur » de Sécurité Civile",
+              "content": "Être un « ambassadeur » de Sécurité Civile auprès de son entourage, c’est : <li> partager son expérience acquise en formation et inciter à se former aux premiers secours ; </li><li> véhiculer les communications relatives à la Sécurité Civile ; </li><li> partager ses compétences lors de crises auprès des associations agréées de Sécurité Civile.</li>",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Impact psychologique d’une intervention",
+              "content": "Toute situation de crise peut avoir un impact psychologique tant sur les victimes que les témoins ou les intervenants. Le citoyen peut être dans l’une de ces trois catégories. La réduction de l’impact psychologique pour le citoyen passe par :  sa préparation en se formant régulièrement, ce qui lui permet d’intervenir avec une moindre gêne des effets du stress ou de comprendre comment il va être pris en charge s’il est la victime.  sa posture lorsqu’il intervient sur une victime : en se mettant à sa hauteur, en l’écoutant et en la rassurant, en l’accompagnant du regard, en respectant son intimité, etc.  l’échange avec les secours présents sur place, une fois la victime prise en charge.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Généralités",
+          "type": "AC",
+          "id": "01AC02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "Le secouriste est la première personne opérationnelle, formée et entraînée à la prise en charge de victimes d’un accident, un malaise, une aggravation brutale d’une maladie ou toute autre situation venant interrompre leur quotidien, de manière soudaine et inattendue, et susceptible de déborder les capacités individuelles ou collectives à faire face.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Maintenir ses acquis",
+              "content": "Le secouriste a pour devoir de maintenir ses connaissances et ses compétences à jour, en participant régulièrement aux séances de formation continue. La formation continue lui permet ainsi de réaliser un retour d’expérience et d’améliorer ses futures missions, de mieux coordonner son action avec un ou plusieurs équipiers, d’apprendre à utiliser les nouveaux matériels et de prendre connaissance des nouvelles techniques et procédures.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Respecter les règles d’hygiène et de sécurité",
+              "content": "Le premier principe du secouriste est de respecter les règles d’hygiène et de sécurité, individuelles et collectives. Afin d’assurer ses missions de secours à victime, le secouriste doit :<br><br>Porter des équipements de protection individuelle :<li>gilet de signalisation,</li><li>casque,</li><li>gants,</li><li>etc.</li>Accorder de l’importance à sa condition physique :<li>hygiène de vie,</li><li>vaccinations,</li><li>activités physique et sportive régulières … ;</li>Adopter les règles liées à l’utilisation des véhicules :<li>port de la ceinture de sécurité,</li><li>vigilance lors des manoeuvres de montée et descente du véhicule,</li><li>respect des limitations de vitesse, utilisation des signaux lumineux… ;</li>Adopter les règles de gestes et postures ou de manutention :<li>sollicitation au maximum de la victime pour réaliser une action, en l’accompagnant, lorsque cela est possible, et dans le but d’économiser les efforts des intervenants,</li><li>travail préférentiel avec les cuisses et non le dos,</li><li>proximité de la charge à manipuler,</li><li>respect de la courbure naturelle du dos,</li><li>stabilité des appuis,</li><li>solidité des prises</li><li>etc.</li>Assurer une protection de l’environnement de l’intervention :<li>balisage, périmètre de sécurité,</li><li>récupération pour élimination des déchets de l’intervention… ;</li>Travailler en étroite collaboration avec ses équipiers et responsables : rendre compte, respecter les consignes, etc.<br>Les exemples ne sont pas exhaustifs et pour certains sont précisés tout au long du présent référentiel.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Ne pas nuire aux victimes",
+              "content": "Le deuxième principe d’action du secouriste est de ne pas aggraver l’état de la victime ou de ne pas nuire à son environnement.<br>Par exemple, il est souvent judicieux, en l’absence de risque vital, de laisser une victime dans la position où elle se trouve plutôt que d’essayer de la déplacer sans avoir le personnel et le matériel nécessaires.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Mettre en oeuvre les techniques et utiliser le matériel",
+              "content": "Le troisième principe d’action du secouriste est de savoir réaliser parfaitement les techniques de premiers secours. Il doit savoir utiliser le matériel mis à sa disposition et en connaître les mesures de sécurité et d’entretien.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "S’adapter à la situation",
+              "content": "Certaines situations ne permettent pas au secouriste de mettre en oeuvre les techniques apprises et celui-ci doit faire preuve de faculté d’adaptation.<br>Par exemple, en l’absence de matériel spécifique : utiliser des morceaux de vêtements pour réaliser un tampon compressif ou une chaise d’ameublement pour déplacer une victime.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Aider les autres équipes de secours",
+              "content": "Cette formation permet aussi au secouriste d’apporter une aide efficace aux équipes de secours quand elles arrivent sur les lieux.<br>Sur opération, lors de la réalisation de certaines techniques, notamment celles de relevage ou de brancardage, la participation de plus de trois équipiers est requise. Dans ce cas, du fait de sa formation, le secouriste est mis à disposition du responsable de l’intervention, pour apporter son aide.",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Rôles et missions",
+              "content": [
+                ["", "<b>Seul</b>", "<b>En équipe</b>"],
+                [
+                  "<b>À la prise de poste</b>",
+                  "",
+                  "Le secouriste vérifie le matériel et prend connaissance des notes internes. Il fait du lien avec l’équipe."
+                ],
+                [
+                  "<b>Se rendre sur les lieux</b>",
+                  "",
+                  "La connaissance du lieu d’intervention et de la zone géographique permet tout naturellement au secouriste de se rendre plus rapidement auprès de la victime.<br><br>Un message indiquant l’arrivée sur les lieux est transmis."
+                ],
+                [
+                  "<b>Protéger</b>",
+                  "Seul ou en équipe, la recherche d’un danger pour soi, la victime ou les tiers est primordiale. Une action immédiate doit être entreprise pour mettre tout le monde en sécurité ou compléter un dispositif existant."
+                ],
+                [
+                  "<b>Accéder à la victime</b>",
+                  "",
+                  "Dans certaines circonstances, l’accès à la victime ne peut se faire qu’après une manoeuvre de sauvetage spécialisée, exemples : aquatique, secours routier …<br><br>Le secouriste accèdera à la victime dans la limite de ses qualifications et de son entraînement."
+                ],
+                [
+                  "<b>Examiner</b>",
+                  "Le secouriste réalise un bilan avec les moyens dont il dispose.",
+                  "Le secouriste réalise un bilan avec matériel."
+                ],
+                [
+                  "<b>Alerter / Faire alerter</b>",
+                  "Le but est de déceler une détresse vitale et/ou psychique en vue de déterminer une prise en charge adaptée."
+                ],
+                [
+                  "<b>Secourir</b>",
+                  "Seul ou via un témoin, l’alerte des secours publics doit être réalisée le plus précocement possible.<br><br>L’utilisation du téléphone portable donne de nombreux avantages : haut-parleur, échange entre la victime et le médecin …",
+                  "Les terminaux de transmission et le téléphone sont les plus souvent utilisés pour transmettre les informations de la victime à son responsable ou aux secours publics.<br><br>Quoiqu’il en soit, en équipe, l’alerte se fait dans le respect des procédures internes."
+                ],
+                [
+                  "<b>Surveiller</b>",
+                  "Le secouriste assure une surveillance constante de la victime, tant sur le plan physique que psychologique. Il cherche une éventuelle évolution et veille à l’efficacité des moyens mis en oeuvre."
+                ],
+                [
+                  "<b>Aider les renforts</b>",
+                  "À l’arrivée des renforts, le secouriste transmet les éléments de l’intervention à ces derniers et propose son aide pour la poursuite de l’intervention, dans la limite de ses compétences."
+                ],
+                [
+                  "<b>Après une intervention</b>",
+                  "Le secouriste isolé pourra prendre contact avec son autorité d’emploi en cas de besoin.",
+                  "Le secouriste veille au reconditionnement matériel.<br><br>Il contribue au débriefing post-intervention prenant en compte l’aspect technique, mais également psychologique.<br><br>Il transmet les documents pour archivage."
+                ]
+              ],
+              "type": "array"
+            }
+          ]
+        },
+        {
+          "title": "Attitude et comportement du secouriste",
+          "type": "AC",
+          "id": "01AC03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "Le secouriste dans ses actions de secours est amené à intervenir en urgence auprès de personnes victimes, en détresse physique et/ou psychologique. Outre la maîtrise des gestes et des techniques de secourisme, l'intervenant doit également être en mesure de dispenser les premiers secours psychologiques.<br><br>Toute action de secours sous-entend qu’un événement imprévu, inhabituel et potentiellement dangereux ait touché une ou plusieurs personnes, considérées alors comme victimes. En fonction du niveau d’exposition à cet événement « critique » et du vécu de la situation, l’impact psychologique et la blessure psychique potentielle qui en découlent seront variables.<br><br>Le secouriste devra prendre en compte ces dernières dans leur ensemble, tant les victimes primaires que les victimes secondaires. Les premières auront été directement exposées à l’événement en tant que sujet (avoir subi), acteur (avoir provoqué volontairement ou involontairement) ou encore comme témoin (avoir vu, assisté). Elles peuvent être impactées dans leur corps (blessures physiques), mais aussi moralement (blessures psychologiques). Et puis, les secondes, les proches des victimes primaires (parents, amis, collègues …), non confrontées directement à l’événement critique, peuvent devenir victimes secondaires lorsqu’elles découvrent ce qui est arrivé à leur proche et qu’elles ressentent un stress intense et des émotions douloureuses.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Prise en compte de l’impact psychologique",
+              "content": "Les personnes exposées à des événements critiques répondent naturellement par une réaction de stress, dont les manifestations varient en fonction de l’impact psychologique de la situation sur elles et de la détresse potentielle qui en découle.<br><br><li>Face à une situation soudaine, imprévue et potentiellement menaçante, toute personne présentera un ensemble de manifestations regroupées sous le terme de réaction de stress.<br>Considérée comme un moyen de défense, cette réaction psychologique et physiologique urgente, favorise une adaptation de la personne à la situation afin de la fuir ou de s’en défendre. L’activation physiologique (libération d’hormones du stress, excitation du système nerveux central et du système nerveux autonome) entraîne un état d’alerte repérable notamment par l’augmentation de la fréquence respiratoire, de la fréquence cardiaque et de la pression artérielle.<br>Des frissons, des tremblements et une pâleur peuvent également être observés. La victime peut exprimer une sensation de faiblesse, des sensations pénibles de « boule dans la gorge », de striction thoracique, de « noeud à l’estomac », se plaindre de spasmes viscéraux désagréables, de maux de tête, de nausées, et ressentir une envie impérieuse d’uriner. Peuvent être associés des symptômes psychomoteurs, tels que lenteur ou imprécision des gestes et altération de la voix.<br>Sur le plan psychologique, des phénomènes adaptatifs s’enclenchent : incitation à l’action, focalisation sur la situation dangereuse, identification rapide de stratégies pour faire face. Certaines manifestations gênantes peuvent également être ressenties sur le plan psychique, telles qu’un vécu d’irréalité et/ou de tension.<br>Utile, adaptative, mais brève, cette réaction de stress est en revanche très coûteuse en énergie. Une fois la menace écartée apparaît un état ambigu d’euphorie et d’épuisement.</li><br><li>Quand le stress est trop intense, trop prolongé ou chronique, il peut devenir incapacitant. Notamment, quand la personne perçoit le danger ou la contrainte comme étant plus élevé que ses capacités à faire face, elle ressent une insécurité massive et ne parvient plus à gérer le stress.<br>Le cortex préfrontal, siège des capacités cognitives, n’est plus en mesure de réguler l’action des amygdales cérébrales, sièges des émotions.<br>La victime perd alors sa capacité à s’adapter, est en rupture d’équilibre et présente à ce moment-là des réactions inhabituelles traduisant un état de crise (cf. : chapitre « Les personnes en situation de crise »).</li><br>Le retentissement psychologique est avant tout un vécu personnel, qui se vit avec plus ou moins d’intensité selon le contexte, selon le sens que lui attribue la personne, selon sa culture, son éducation, son histoire personnelle, ses antécédents et sa personnalité.<br>Les effets de l’impact psychologique (cf. « évaluation de l’impact psychologique ») sont observables au travers des perturbations des fonctions cognitives (altération de la capacité à penser efficacement), émotionnelles (sentiments de peur, tristesse, impuissance, colère, etc.), et comportementales (agressivité, prostration, stupeur, fuite panique …).<br>Plus l’impact psychologique est important chez la victime, plus le risque de blessure psychologique est élevé. Ces victimes nécessitent d’être orientées vers une prise en charge psychologique spécialisée aux urgences hospitalières ou sur les lieux par la CUMP (Cellule d’Urgence Médico-Psychologique) en cas d’événements impliquant de nombreuses victimes.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Attitude adaptée et abord relationnel de la victime",
+              "content": "Le secouriste a pour mission de prévenir et de soulager toute souffrance qu’elle soit physique ou psychique. Son attitude joue un rôle important, car il est autant apprécié́ sur la qualité des gestes techniques que sur l’aptitude à développer une relation humaine d’aide et de soutien aux personnes en détresse.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Principes de l’abord relationnel",
+              "content": "L’abord de la victime est une phase déterminante.<br><br>En effet, bien que son intervention soit très limitée dans le temps, la qualité de la relation mise en place influencera l’ensemble de la prise en charge, de l’adhésion de la victime à son rétablissement.<br><br>L’empathie dont il fait preuve ne doit donc pas être considérée uniquement comme une qualité humaine, mais bien comme une véritable compétence professionnelle à développer pour assurer pleinement sa mission de secours à personne (cf. « l’abord relationnel en pratique »).<br><br>Le secouriste s’attache à soigner l’ensemble des aspects de sa communication, verbale et non verbale, en s’adressant toujours directement à la victime, quel que soit son âge. Le secouriste se montre particulièrement attentif :<br><br><li>à la distance interpersonnelle, en établissant une « juste distance » ;</li><li>à se placer à son niveau en la regardant dans les yeux pour lui montrer l’intérêt qu’il lui porte ;</li><li>à l’attitude verbale, en utilisant : un vocabulaire et un ton adapté, des phrases courtes, claires et respectueuses, le vouvoiement et en appelant la personne par son nom, le tutoiement et en appelant un enfant par son prénom;</li><li>au toucher, grâce auquel le secouriste manifeste du soutien, du réconfort et témoigne d’une qualité de présence à la victime.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Comportement général du secouriste",
+              "content": "Le secouriste doit faire preuve d’organisation, de rigueur et de professionnalisme. En mission, il a une tenue propre et correcte, associée à une bonne hygiène. C’est à partir de ces éléments que la victime se constituera une première opinion du secouriste, mais également de la structure qu’il représente. Cette première impression est primordiale et peut influencer la réaction de la victime et de son entourage.<br><br>Le secouriste agit avec calme. Il intervient avec humanité et gagne la confiance de la victime et de son entourage d’autant plus facilement qu’il est courtois, attentif et posé.<br><br>Le secouriste veille à ce que peut induire sa propre attitude pour éviter tout conflit qui pourrait nuire au bon déroulement de l’intervention. La dégradation d’une situation ne tient souvent qu’à une parole ou un comportement.<br><br>Les victimes ou leur entourage peuvent parfois vivre l’intervention des secours comme une irruption, voire une intrusion difficilement supportable. Il s’agit donc d’intervenir dans le calme et avec humilité, en adoptant une attitude respectueuse tant à l’égard des personnes que des lieux (précautions lors de déplacements de meubles, bibelots, par exemple…).<br><br>Il est respectueux de chaque individu et de sa vie privée.<br><br>Au même titre que les personnels de santé, les secouristes sont tenus par le secret professionnel. Les informations recueillies ne peuvent être divulguées qu’aux personnes contribuant à la prise en charge1.<br><br>Il est important de retenir que les victimes se trouvent dans un moment de vulnérabilité et souvent en difficulté d’adaptation. C’est donc au secouriste que revient la nécessité de s’adapter à elles et à leurs besoins.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "L'abord relationnel en pratique",
+          "type": "PR",
+          "id": "01PR01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "L’abord relationnel vise à assurer une écoute et à établir le contact et le dialogue. Cette approche favorise souvent l’apaisement émotionnel et permet d’autre part de rechercher les éléments essentiels du bilan, avant d’engager les actions nécessaires. ",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Aborder la victime",
+              "content": "Il est recommandé de <b>privilégier au sein de l’équipe un interlocuteur principal</b> pour dialoguer avec la victime (de préférence, celui vers lequel elle se tournera le plus naturellement). N’en changer que si la communication n’est plus efficace.<br><br><b>Établir le contact :</b> il est important, en dehors d’une situation d’urgence vitale, de prendre le temps de se présenter. Si on peut obtenir l’identité de la personne, il est possible de s’entretenir avec elle en la nommant et lui permettre ainsi de se sentir reconnue. Si l’emploi du prénom peut faciliter la relation, il ne sera employéqu’après avoir obtenu la permission de la personne concernée.<br><br><i>« Mr X, je m’appelle Y, je suis secouriste »« Me permettez-vous de vous appeler par votre prénom ? »<br><br><br></i><b>Expliquer les raisons de la présence et le but de l’intervention</b>, si le contexte le permet.<br<br><i>« Je suis là pour vous aider »<br>« Rassurez-vous, je reste avec vous », « je vais vous accompagner tout au long de l’intervention »</i><br><br><b>Instaurer</b> le dialogue et une <b>relation de confiance</b>, en commençant par poser une question ouverte afin de permettre à la victime d’entamer la discussion et ainsi expliquer ce qu’elle vit :<br><br><i>« Pouvez-vous me dire ce qu’il se passe ? »<br>« Comment allez-vous ? », « Comment puis-je vous aider ? »</i>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Prendre en charge de la victime",
+              "content": "<b>Poser le cadre :</b><br><br><i>« L’intervention va se dérouler de la manière suivante : nous allons faire un bilan, ensuite nous ferons un point avec le médecin. À ce moment-là, nous verrons si nous vous transportons à l’hôpital pour une prise en charge plus approfondie ».</i><br><br><b>Informer et expliquer</b> ce qui va être réalisé :<br><br><i>« Je vais poser ma main sur votre ventre pour évaluer votre respiration »,<br>« Je vais vous appliquer un masque avec de l’oxygène sur la bouche et le nez, il va vous aider à mieux respirer ».</i><br><br><b>Reconnaître</b> la situation, le caractère déstabilisant de l’événement vécu :<br><br><i>« Vous vivez un événement stressant, bouleversant »<br>« Je vous sens en colère »<br>« Vous me semblez triste quand vous dites cela » (ou inquiet, etc.).</i><br><br><b>Questionner la problématique repérée</b> lorsque celle-ci n’est pas spontanément explicitée (suspicion de violence subie,intention suicidaire …)<br><br><i>« Avez-vous subi des violences ? »,<br>« Souffrez-vous au point de vouloir vous faire du mal ou mourir ? » …</i><br><br><b>Reformuler</b>, c’est-à-dire s’assurer que l’on a bien compris ce qu’elle a exprimé de manière verbale et non verbale (cf. « l’écoute active »)<br><br><i>« Vous me dites que vous êtes seul, cela veut dire que vous ne voyez personne ? »<br>« D’après ce que vous me dites (ce que je vois …, je comprends que…, il me semble que… est-ce que je vois juste ? »</i><br><br><b>Favoriser l’alliance</b> en impliquant la victime dans sa propre prise en charge :<br><br><li>En sollicitant son accord et en lui adressant des paroles encourageantes et positives :</li><i>« Voilà ce que je vous propose… qu’en pensez-vous ? »<br>« Vous nous aidez beaucoup par votre calme »</i><br><br><li>En lui demandant ce qui peut la soulager ou ce qui a marché la dernière fois qu’elle était dans cet état, si elle l’a déjà vécu, ce dont elle aurait besoin pour faire diminuer son inconfort :</li><i>« De quoi auriez-vous besoin maintenant ? »<br>« Vous est-il déjà arrivé de vivre une telle situation ? », « Comment avez-vous fait pour surmonter une telle situation ? »</i><br><br><li>En lui demandant si elle souhaite appeler une personne qui représente pour elle un soutien :</li><i>« Y a-t-il une personne que vous souhaiteriez contacter pour venir vous rejoindre ? »</i><br><br>En étant honnête avec elle, c’est-à-dire en abordant la réalité de la situation, avec tact. Il est primordial de ne pas mentir et ne pas faire de promesses à moins d’être certain de pouvoir les tenir.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Passer le relais",
+              "content": "<b>Préparer le passage de relais</b> : (prise en charge, orientation, hospitalisation …)<br><br><i>« Nous allons vous accompagner à l’hôpital afin que vous puissiez voir un médecin et réaliser les examens utiles pour comprendre ce qui se passe… »</i><br><br>Prendre le temps de <b>présenter la victime à l’équipe prenant le relais</b> de la prise en charge<br><i>« Je vous confie à mes collègues qui vont continuer à vous accompagner… »</i><br><br><b>Saluer</b> la victime et lui adresser des paroles encourageantes et positives :<br><i>« Je vous souhaite une bonne continuation. Prenez bien soin de vous ».</i>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Intervenir auprès d'un enfant",
+          "type": "PR",
+          "id": "01PR02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "Lorsque la situation de secours met l'équipage en présence d'un enfant conscient (blessé ou non), ce dernier peut être victime primaire (a subi, a provoqué ou a vu l'événement survenir) ou victime secondaire (lien affectif avec la victime blessée et n'ayant pas assisté à l’événement concerné).<br><br>Intervenir auprès d’enfants implique certaines particularités à prendre en compte. Face à des événements graves, exceptionnels, l'enfant, tout comme l'adulte, peut réagir par une réaction de stress modérée ou de forte intensité. Pour lui, l'impact est double :<br><br><li>D'une part, elle affecte ses capacités de compréhension et d'expression et, à l'inverse de l’adulte qui s'exprime par le langage verbal en plus du langage corporel, l'enfant ne peut pas toujours s’appuyer sur les mots pour mettre du sens sur l’événement et pour exprimer ses peurs, sa détresse. Plus souvent, lors d’un drame, l’enfant se mure dans le silence.</li><li>D'autre part, lorsque l’enfant est au côté de ses parents dans pareilles expériences, il peut être confronté à leurs vulnérabilités (parents blessés, qui pleurent, souffrent, crient, paniquent…). L’enfant perd alors un élément fondamental de ce qui constitue la sécurité pour lui. La présence du secouriste sera d'autant plus déterminante pour sécuriser et contenir l'enfant. Un enfant dans certaines situations peut également agir pour protéger son parent (ne pas montrer sa détresse, être faussement calme).</li>",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Prendre en charge l’enfant",
+              "content": "Un seul et même secouriste assure une continuité auprès de l'enfant et :<br><br>Adapte sa communication :<br><li><b>Se positionner</b> à la hauteur de l'enfant, être vigilant au ton de sa voix (rythme posé, tonalité grave) ; </li><li><b>Lui parler directement, quel que soit son âge</b>, y compris avec un bébé, en utilisant des mots simples et honnêtes ; </li><li><b> Utiliser les capacités d'imagination</b> de l'enfant pour potentialiser les gestes de premiers secours : par exemple, présenter les outils de secourisme comme des petits robots, utiliser les références des dessins animés ou des contes qui ont un pouvoir de suggestion très efficace (la reine des neiges qui refroidit les brûlures, Pinocchio qui a les bras et les jambes durs comme du bois …).</li><b>Implique les parents</b> au maximum en tenant compte des circonstances, si possible installe l'enfant dans leurs bras.<br><br>Signifie à l'enfant qu’il a besoin de <b>sa participation</b> pour mieux l'aider et comprendre ce qu'il ressent : <i>« Dis-moi dans quelle position tu te sens le mieux. Installe-toi le plus confortablement »</i>.<b>Évalue la douleur </b> : au-delà de 5 ans, la douleur est évaluée à partir <b>d’échelles d’auto-évaluation adaptées à l’âge</b> et à la compréhension de l’enfant. En dessous de 5 ans, l’évaluation est essentiellement basée sur l’appréciation des modifications physiques et comportementales liées à la douleur (pleurs, crispations, agitation, etc.).<br><br>Et simultanément, couvre, au plus vite, une plaie, une déformation de membre ou tout autre facteur générateur d’angoisse pour l’enfant.<br><br><b>Utilise une peluche</b> (si présente dans le matériel secouriste) pour faciliter la prise de contact et la relation ultérieure. Elle va permettre de créer un lien avec l'enfant plus rapidement. En utilisant la peluche, objet familier pour l'enfant, l'équipier s'adapte à ses besoins, et témoigne ainsi de sa volonté de rencontrer l'enfant dans son monde. Si l'enfant dispose de son propre doudou et/ou de sa tétine, ils seront à privilégier (ou à utiliser en complément) :présenter la peluche à l'enfant et lui proposer de la prendre après ce temps de présentation mutuelle et d'explications simples. Elle servira de médiateur tout au long de l'intervention.<br><br>Par le biais de la peluche et les explications du secouriste, l’enfant peut comprendre ce qu’on attend de lui, être prévenu des gestes techniques ou médicaux avant qu'ils soient faits et y participer plus facilement : <i>« Regarde, je lui mets ce masque sur le museau pour l’aider à respirer… Maintenant, je fais pareil avec toi pour t’aider à respirer calmement ».</i><br><br>L'enfant peut également montrer sur la peluche où il a mal, comme un miroir de son propre corps.<br><br>Enfin, elle va détourner son attention pendant les gestes de secourisme ou les manoeuvres de l'intervention. Elle peut également, au travers du jeu, détourner l’enfant de sa douleur et/ou de ses angoisses. ",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Tout au long de l’intervention",
+              "content": "Le secouriste veillera à :<br><li><b>Ne pas mentir</b> (« Ça ne fait pas mal. C’est juste une petite attelle »). Mais plutôt : « il est possible que tu sentes quelque chose. Dis-le-moi. »</li><li><b>Ne pas l'obliger à parler</b></li><li><b>Ne pas banaliser ni dramatiser</b> (comme : « Ce n’est pas grave / Tu as de la chance de t’en être sorti ! »), mais rassurer sur la fin de la situation de danger.</li><li><b>Ne pas encourager les attitudes héroïques</b> (« Sois courageux, tu es un(e) grand(e) »), mais plutôt l'autoriser à exprimer ses émotions (« tu peux pleurer si tu en as besoin, dire tout ce que tu as envie de dire »), accepter ses réactions normales liées à la douleur, à la peur et aux émotions douloureuses.</li><li><b>Ne pas menacer</b> (« Si tu cries, je dis à tes parents de partir. »), mais plutôt, valoriser l'enfant, l'encourager dans ses comportements adaptés et positifs : « C'est bien, respire calmement. Tu sais exactement comment faire pour te soulager, continue ».</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Préservation du potentiel mentale du secouriste",
+          "type": "AC",
+          "id": "01AC04"
+        },
+        {
+          "title": "Evaluation de l'impact psychologique",
+          "type": "FT",
+          "id": "01FT01"
+        },
+        {
+          "title": "Stabiliser l'état psycho-physiologique d'une victime",
+          "type": "FT",
+          "id": "01FT02"
+        },
+        {
+          "title": "L'écoute active",
+          "type": "FT",
+          "id": "01FT03"
+        },
+        {
+          "title": "La respiration contrôlée",
+          "type": "FT",
+          "id": "01FT04"
+        },
+        {
+          "title": "La focalisation/défocalisation attentionnelle",
+          "type": "FT",
+          "id": "01FT05"
+        }
+      ]
+    },
+    {
+      "title": "Bilans",
+      "id": "2",
+      "resume": "Ce module couvre les aspects essentiels des évaluations médicales, de l'observation initiale à la surveillance continue. Il enseigne également les techniques de transmission d'informations vitales et les méthodes d'évaluation des fonctions respiratoires, circulatoires et neurologiques.",
+      "sections": [
+        {
+          "title": "Généralités sur les bilans",
+          "type": "AC",
+          "id": "02AC01"
+        },
+        {
+          "title": "Premier regard",
+          "type": "PR",
+          "id": "02PR01"
+        },
+        {
+          "title": "Deuxième regard",
+          "type": "PR",
+          "id": "02PR02"
+        },
+        {
+          "title": "Troisième regard",
+          "type": "PR",
+          "id": "02PR03"
+        },
+        {
+          "title": "Quatrième regard",
+          "type": "PR",
+          "id": "02PR04"
+        },
+        {
+          "title": "Surveillance de la victime",
+          "type": "PR",
+          "id": "02PR05"
+        },
+        {
+          "title": "Transmission du bilan",
+          "type": "PR",
+          "id": "02PR06"
+        },
+        {
+          "title": "Retournement à deux secouristes",
+          "type": "FT",
+          "id": "02FT01"
+        },
+        {
+          "title": "Retournement à un secouriste",
+          "type": "FT",
+          "id": "02FT02"
+        },
+        {
+          "title": "Evaluation de la fonction respiratoire",
+          "type": "FT",
+          "id": "02FT03"
+        },
+        {
+          "title": "Evaluation de la fonction circulatoire",
+          "type": "FT",
+          "id": "02FT04"
+        },
+        {
+          "title": "Mesure de la glycémie capillaire",
+          "type": "FT",
+          "id": "02FT05"
+        },
+        {
+          "title": "Mesure de la pression artérielle",
+          "type": "FT",
+          "id": "02FT06"
+        },
+        {
+          "title": "Mesure de la saturation pulsée en oxygène",
+          "type": "FT",
+          "id": "02FT07"
+        },
+        {
+          "title": "Mesure de la température",
+          "type": "FT",
+          "id": "02FT08"
+        },
+        {
+          "title": "Evaluation de la fonction neurologique",
+          "type": "FT",
+          "id": "02FT09"
+        },
+        {
+          "title": "Repérage en cas de nombreuses victimes",
+          "type": "FT",
+          "id": "02FT10"
+        },
+        {
+          "title": "Mesure de la douleur",
+          "type": "FT",
+          "id": "02FT11"
+        },
+        {
+          "title": "Recherche des lésions",
+          "type": "FT",
+          "id": "02FT12"
+        },
+        {
+          "title": "Réaliser un électrocardiogramme",
+          "type": "FT",
+          "id": "02FT13"
+        }
+      ]
+    },
+    {
+      "title": "Protection et Sécurité",
+      "id": "3",
+      "resume": "Axé sur la sécurité du secouriste et de la victime, ce chapitre explore l'utilisation de l'équipement de protection individuelle, les procédures de sécurité sur intervention, et les méthodes de dégagement d'urgence.",
+      "sections": [
+        {
+          "title": "Equipement de protection individuelle",
+          "type": "AC",
+          "id": "03AC01"
+        },
+        {
+          "title": "Sécurité sur intervention",
+          "type": "PR",
+          "id": "03PR01"
+        },
+        {
+          "title": "Dégagement d'urgence",
+          "type": "FT",
+          "id": "03FT01"
+        }
+      ]
+    },
+    {
+      "title": "Hygiène et Asepsie",
+      "id": "4",
+      "resume": "Abordant les risques infectieux, ce chapitre explique les précautions standards et particulières, ainsi que l'utilisation appropriée des moyens de protection. Il détaille également les pratiques d'hygiène, le nettoyage du matériel, et la manipulation des détergents.",
+      "sections": [
+        {
+          "title": "Accident d'exposition à un risque viral",
+          "type": "AC",
+          "id": "04AC01"
+        },
+        {
+          "title": "Accident d'exposition à un risque viral",
+          "type": "PR",
+          "id": "04PR01"
+        },
+        {
+          "title": "Risque infectieux",
+          "type": "AC",
+          "id": "04AC02"
+        },
+        {
+          "title": "Précautions standards contre le risque infectieux",
+          "type": "PR",
+          "id": "04PR02"
+        },
+        {
+          "title": "Précautions particulières contre le risque infectieux",
+          "type": "PR",
+          "id": "04PR03"
+        },
+        {
+          "title": "Equipement en moyens de protection contre les agents infectieux",
+          "type": "FT",
+          "id": "04FT01"
+        },
+        {
+          "title": "Friction des mains",
+          "type": "FT",
+          "id": "04FT02"
+        },
+        {
+          "title": "Lavage des mains",
+          "type": "FT",
+          "id": "04FT03"
+        },
+        {
+          "title": "Mise en place de gants stériles",
+          "type": "FT",
+          "id": "04FT04"
+        },
+        {
+          "title": "Nettoyage et désinfection d'un véhicule ou d'un local",
+          "type": "FT",
+          "id": "04FT05"
+        },
+        {
+          "title": "Nettoyage et désinfection du matériel",
+          "type": "FT",
+          "id": "04FT06"
+        },
+        {
+          "title": "Retrait des gants à usage unique",
+          "type": "FT",
+          "id": "04FT07"
+        },
+        {
+          "title": "Utilisation des détergents et désinfectants",
+          "type": "FT",
+          "id": "04FT08"
+        },
+        {
+          "title": "Utilisation des emballages à élimination de déchets",
+          "type": "FT",
+          "id": "04FT09"
+        }
+      ]
+    },
+    {
+      "title": "Urgences Vitales",
+      "id": "5",
+      "resume": "Couvrant des situations critiques telles que l'arrêt cardiaque, la détresse circulatoire et respiratoire, ce chapitre enseigne les techniques pour traiter ces urgences. Il inclut également la gestion des hémorragies externes et l'obstruction des voies aériennes.",
+      "sections": [
+        {
+          "title": "Arrêt cardiaque",
+          "type": "AC",
+          "id": "05AC01"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'adulte",
+          "type": "PR",
+          "id": "05PR01"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'adulte en sauveteur isolé",
+          "type": "PR",
+          "id": "05PR02"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'enfant et le nourrisson",
+          "type": "PR",
+          "id": "05PR03"
+        },
+        {
+          "title": "Arrêt cardiaque chez l'enfant et le nourrisson en sauveteur isolé",
+          "type": "PR",
+          "id": "05PR04"
+        },
+        {
+          "title": "Détresse circulatoire",
+          "type": "AC",
+          "id": "05AC02"
+        },
+        {
+          "title": "Détresse circulatoire",
+          "type": "PR",
+          "id": "05PR05"
+        },
+        {
+          "title": "Détresse neurologique",
+          "type": "AC",
+          "id": "05AC03"
+        },
+        {
+          "title": "Détresse neurologique",
+          "type": "PR",
+          "id": "05PR06"
+        },
+        {
+          "title": "Détresse respiratoire",
+          "type": "AC",
+          "id": "05AC04"
+        },
+        {
+          "title": "Détresse respiratoire",
+          "type": "PR",
+          "id": "05PR07"
+        },
+        {
+          "title": "Hémorragies externes",
+          "type": "AC",
+          "id": "05AC05"
+        },
+        {
+          "title": "Hémorragies externes",
+          "type": "PR",
+          "id": "05PR08"
+        },
+        {
+          "title": "Hémorragies extériorisées",
+          "type": "AC",
+          "id": "05AC06"
+        },
+        {
+          "title": "Hémorragies extériorisée",
+          "type": "PR",
+          "id": "05PR09"
+        },
+        {
+          "title": "Obstruction des voies aériennes par un corps étranger",
+          "type": "AC",
+          "id": "05AC07"
+        },
+        {
+          "title": "Obstruction partielle des voies aériennes",
+          "type": "PR",
+          "id": "05PR10"
+        },
+        {
+          "title": "Obstruction complète des voies aériennes",
+          "type": "PR",
+          "id": "05PR11"
+        },
+        {
+          "title": "Perte de connaissance",
+          "type": "AC",
+          "id": "05AC08"
+        },
+        {
+          "title": "Perte de connaissance",
+          "type": "PR",
+          "id": "05PR12"
+        },
+        {
+          "title": "Perte de connaissance en sauveur isolé",
+          "type": "PR",
+          "id": "05PR13"
+        },
+        {
+          "title": "Section de membre",
+          "type": "AC",
+          "id": "05AC09"
+        },
+        {
+          "title": "Section de membre",
+          "type": "PR",
+          "id": "05PR14"
+        },
+        {
+          "title": "Administration d'oxygène par insufflation",
+          "type": "FT",
+          "id": "05FT01"
+        },
+        { "title": "Aspiration de mucosité", "type": "FT", "id": "05FT02" },
+        { "title": "Compression manuelle", "type": "FT", "id": "05FT03" },
+        { "title": "Compressions thoraciques", "type": "FT", "id": "05FT04" },
+        {
+          "title": "Désobstruction par la méthode des claques dans le dos",
+          "type": "FT",
+          "id": "05FT05"
+        },
+        {
+          "title": "Désobstruction par la méthode des compressions abdominales",
+          "type": "FT",
+          "id": "05FT06"
+        },
+        {
+          "title": "Désobstruction par la méthode des compressions thoraciques",
+          "type": "FT",
+          "id": "05FT07"
+        },
+        { "title": "Garrot", "type": "FT", "id": "05FT08" },
+        {
+          "title": "Libération des voies aériennes chez une victime assise",
+          "type": "FT",
+          "id": "05FT09"
+        },
+        {
+          "title": "Libération des voies aériennes chez une victime non traumatisée",
+          "type": "FT",
+          "id": "05FT10"
+        },
+        {
+          "title": "Libération des voies aériennes chez une victime traumatisée",
+          "type": "FT",
+          "id": "05FT11"
+        },
+        {
+          "title": "Mise en place d'une canule oropharyngée",
+          "type": "FT",
+          "id": "05FT12"
+        },
+        { "title": "Pansement compressif", "type": "FT", "id": "05FT13" },
+        {
+          "title": "Gaze imbibée de substance hémostatique",
+          "type": "FT",
+          "id": "05FT14"
+        },
+        {
+          "title": "Utilisation d'un défibrillateur automatisé externe",
+          "type": "FT",
+          "id": "05FT15"
+        },
+        {
+          "title": "Ventilation artificielle par une méthode orale",
+          "type": "FT",
+          "id": "05FT16"
+        },
+        {
+          "title": "Ventilation artificielle par un insufflateur manuel",
+          "type": "FT",
+          "id": "05FT17"
+        },
+        {
+          "title": "Position latérale de sécurité à deux secouristes",
+          "type": "FT",
+          "id": "05FT18"
+        },
+        {
+          "title": "Position latérale de sécurité à un secouriste",
+          "type": "FT",
+          "id": "05FT19"
+        },
+        {
+          "title": "Administration d'oxygène par inhalation",
+          "type": "FT",
+          "id": "05FT20"
+        },
+        {
+          "title": "Utilisation d'une bouteille d'oxygène",
+          "type": "FT",
+          "id": "05FT21"
+        },
+        {
+          "title": "Techniques de réchauffement d'une victime",
+          "type": "FT",
+          "id": "05FT22"
+        }
+      ]
+    },
+    {
+      "title": "Malaises et Affectations Spécifiques",
+      "id": "6",
+      "resume": "Explorant des situations telles que les crises convulsives, les crises d'asthme, et les réactions allergiques graves, ce chapitre offre des compétences pour gérer ces incidents. Il aborde également les positions d'attente et de transport.",
+      "sections": [
+        {
+          "title": "Crise convulsive généralisée",
+          "type": "AC",
+          "id": "06AC01"
+        },
+        {
+          "title": "Crise convulsive généralisée",
+          "type": "PR",
+          "id": "06PR01"
+        },
+        {
+          "title": "Crise d'asthme",
+          "type": "AC",
+          "id": "06AC02"
+        },
+        {
+          "title": "Crise d'asthme",
+          "type": "PR",
+          "id": "06PR02"
+        },
+        {
+          "title": "Malaise hypoglycémique chez le diabétique",
+          "type": "AC",
+          "id": "06AC03"
+        },
+        {
+          "title": "Malaise hypoglycémique chez le diabétique",
+          "type": "PR",
+          "id": "06PR03"
+        },
+        {
+          "title": "Malaise et aggravation de maladie",
+          "type": "AC",
+          "id": "06AC04"
+        },
+        {
+          "title": "Malaise et aggravation de maladie",
+          "type": "PR",
+          "id": "06PR04"
+        },
+        {
+          "title": "Réaction allergique grave",
+          "type": "AC",
+          "id": "06AC05"
+        },
+        {
+          "title": "Réaction allergique grave",
+          "type": "PR",
+          "id": "06PR05"
+        },
+        {
+          "title": "Position d'attente et de transport",
+          "type": "FT",
+          "id": "06FT01"
+        },
+        {
+          "title": "Aide à la prise de médicaments",
+          "type": "FT",
+          "id": "06FT02"
+        },
+        {
+          "title": "Manoeuvres physiques",
+          "type": "FT",
+          "id": "06FT03"
+        }
+      ]
+    },
+    {
+      "title": "Atteintes Circonstancielles",
+      "id": "7",
+      "resume": "En se concentrant sur des situations spécifiques comme les accidents liés à la plongée, l'accouchement inopiné, et les accidents de noyade, ce chapitre guide le secouriste dans des interventions adaptées à ces circonstances.",
+      "sections": [
+        {
+          "title": "Accidents liés à la plongée",
+          "type": "AC",
+          "id": "07AC01"
+        },
+        {
+          "title": "Accidents liés à la plongée",
+          "type": "PR",
+          "id": "07PR01"
+        },
+        {
+          "title": "Accouchement inopiné",
+          "type": "AC",
+          "id": "07AC02"
+        },
+        {
+          "title": "Accouchement inopiné",
+          "type": "PR",
+          "id": "07PR02"
+        },
+        {
+          "title": "Prise en charge du nouveau-né à la naissance",
+          "type": "PR",
+          "id": "07PR03"
+        },
+        {
+          "title": "Soin au cordon ombilical",
+          "type": "FT",
+          "id": "07FT01"
+        },
+        {
+          "title": "Compression de membre",
+          "type": "AC",
+          "id": "07AC03"
+        },
+        {
+          "title": "Compression de membre",
+          "type": "PR",
+          "id": "07PR03"
+        },
+        {
+          "title": "Gelures",
+          "type": "AC",
+          "id": "07AC04"
+        },
+        {
+          "title": "Gelures",
+          "type": "PR",
+          "id": "07PR04"
+        },
+        {
+          "title": "Noyade",
+          "type": "AC",
+          "id": "07AC05"
+        },
+        {
+          "title": "Noyade",
+          "type": "PR",
+          "id": "07PR05"
+        },
+        {
+          "title": "Syndrome de suspension",
+          "type": "AC",
+          "id": "07AC06"
+        },
+        {
+          "title": "Syndrome de suspension",
+          "type": "PR",
+          "id": "07PR06"
+        },
+        {
+          "title": "Victimes d'explosion",
+          "type": "AC",
+          "id": "07AC07"
+        },
+        {
+          "title": "Victimes d'explosion",
+          "type": "PR",
+          "id": "07PR07"
+        },
+        {
+          "title": "Victimes d'avalanche",
+          "type": "AC",
+          "id": "07AC08"
+        },
+        {
+          "title": "Victimes d'avalanche",
+          "type": "PR",
+          "id": "07PR08"
+        },
+        {
+          "title": "Accident liés à la foudre",
+          "type": "AC",
+          "id": "07AC09"
+        },
+        {
+          "title": "Accident liés à la foudre",
+          "type": "PR",
+          "id": "07PR09"
+        }
+      ]
+    },
+    {
+      "title": "Traumatismes",
+      "id": "8",
+      "resume": "Ce chapitre traite des traumatismes tels que les brûlures, les plaies, et les fractures. Il enseigne les techniques d'immobilisation, de pose de pansement, et d'application de froid.",
+      "sections": [
+        {
+          "title": "Brûlures",
+          "type": "AC",
+          "id": "08AC01"
+        },
+        {
+          "title": "Brûlures",
+          "type": "PR",
+          "id": "08PR01"
+        },
+        {
+          "title": "Plaie",
+          "type": "AC",
+          "id": "08AC02"
+        },
+        {
+          "title": "Plaie",
+          "type": "PR",
+          "id": "08PR02"
+        },
+        {
+          "title": "Traumatisme des membres",
+          "type": "AC",
+          "id": "08AC03"
+        },
+        {
+          "title": "Traumatisme des membres",
+          "type": "PR",
+          "id": "08PR03"
+        },
+        {
+          "title": "Immobilisation d'un membre au moyen d'une attele à dépression",
+          "type": "FT",
+          "id": "08FT01"
+        },
+        {
+          "title": "Immobilisation d'un membre au moyen d'une attele modulable",
+          "type": "FT",
+          "id": "08FT02"
+        },
+        {
+          "title": "Immobilisation d'un membre supérieur au moyen d'écharpes",
+          "type": "FT",
+          "id": "08FT03"
+        },
+        {
+          "title": "Maintien de la tête en position neutre",
+          "type": "FT",
+          "id": "08FT04"
+        },
+        {
+          "title": "Pose d'un collier cervical",
+          "type": "FT",
+          "id": "08FT05"
+        },
+        {
+          "title": "Retrait d'un casque de protection",
+          "type": "FT",
+          "id": "08FT06"
+        },
+        {
+          "title": "Application de froid",
+          "type": "FT",
+          "id": "08FT07"
+        },
+        {
+          "title": "Emballage au moyen d'un pansement stérile",
+          "type": "FT",
+          "id": "08FT08"
+        },
+        {
+          "title": "Maintien d'un pansement",
+          "type": "FT",
+          "id": "08FT09"
+        },
+        {
+          "title": "Pansement",
+          "type": "FT",
+          "id": "08FT10"
+        },
+        {
+          "title": "Utilisation d'un lot membre arraché ou sectionné",
+          "type": "FT",
+          "id": "08FT11"
+        }
+      ]
+    },
+    {
+      "title": "Relevage et Brancardage",
+      "id": "9",
+      "resume": "Fournissant des compétences pratiques, ce chapitre explique la préparation d'un dispositif de portage pour le relevage et le brancardage.",
+      "sections": [
+        {
+          "title": "Préparation d'un dispositif de portage",
+          "type": "FT",
+          "id": "09FT01"
+        }
+      ]
+    },
+    {
+      "title": "Situations Particulières",
+      "id": "10",
+      "resume": "Axé sur les situations à nombreuses victimes, ce chapitre explore les stratégies pour gérer efficacement des incidents impliquant un grand nombre de personnes.",
+      "sections": [
+        {
+          "title": "Situation à nombreuses victimes",
+          "type": "AC",
+          "id": "10AC01"
+        }
+      ]
+    },
+    {
+      "title": "Divers",
+      "id": "11",
+      "resume": "Ce chapitre offre des informations générales pour compléter la formation, couvrant divers aspects des premiers secours en équipe de niveau 1.",
+      "sections": [
+        {
+          "title": "Informations générales",
+          "type": "AC",
+          "id": "11AC01"
+        }
+      ]
+    }
+  ]
+}
