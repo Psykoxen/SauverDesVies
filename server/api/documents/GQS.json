@@ -5,7 +5,7 @@
     {
       "title": "Informations Générales",
       "id": "1",
-      "resume": "",
+      "resume": "Ce chapitre aborde les aspect généraux de l'assistance aux victimes en situation d'urgence et du rôle du citoyen dans ces situations",
       "sections": [
         {
           "title": "Protection",
@@ -56,7 +56,7 @@
     {
       "title": "Secourir une personne",
       "id": "2",
-      "resume": "",
+      "resume": "Dans ce chapitre nous aborderons toutes les notions de secourisme relatives au référentiel GQS. Une introduction aux gestes de premiers secours.",
       "sections": [
         {
           "title": "Hémorragies externes",
