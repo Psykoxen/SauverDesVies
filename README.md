@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Secourisme
+  # Sauver des vies
   &nbsp;
     <img src="./assets/svg/ico.svg" style="width: 250px; height: auto; margin-bottom: 50px;"> 
     
@@ -34,6 +34,19 @@ The mission is to democratize knowledge in first aid. The objective is to create
 - **Annual Updates:** Stay informed about the latest advancements and recommendations in first aid.
 
 - **Knowledge Memo:** A space for quick revision of essential techniques.
+
+## Roadmap 🎯
+
+- ✅ General site layout
+- ⏳ Detailed display of courses
+- ⏳ Gesture memo
+- ⏳ Case simulation
+- ⏳ Training content
+  - ⏳ PSE1
+  - ⏳ PSE2
+  - ✅ GQS
+  - ⏳ PSC1
+  - ⏳ SSA
 
 ## How to Contribute 🤝
 
