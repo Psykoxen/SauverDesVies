@@ -8,23 +8,36 @@ const { data: formation } = await useFetch(`/api/${route.params.formation}`, {
   transform: (_formation) => _formation.data,
 });
 
-console.log(formation);
-
 const section = formation._value?.chapters[
   parseInt(route.params.id.substring(0, 2).valueOf(), 10) - 1
 ]?.sections.find((section) => section.id === route.params.id);
-
-console.log(section);
-console.log(route.params.id);
-console.log(parseInt(route.params.id.substring(0, 2).valueOf(), 10) - 1);
 </script>
 
 <template>
   <section>
     <div class="flex flex-col items-center justify-center">
+      <p
+        class="m-6 mb-4 lg:text-4xl text-xl font-semibold"
+        v-if="section.id.substring(2, 4) == 'FT'"
+      >
+        Fiche Technique
+      </p>
+      <p
+        class="m-6 mb-4 lg:text-4xl text-xl font-semibold"
+        v-if="section.id.substring(2, 4) == 'AC'"
+      >
+        Apport de Connaissances
+      </p>
+      <p
+        class="m-6 mb-4 lg:text-4xl text-xl font-semibold"
+        v-if="section.id.substring(2, 4) == 'PR'"
+      >
+        Procédure
+      </p>
+
       <h1
         v-if="section.title"
-        class="lg:text-7xl text-4xl text-white font-semibold m-10 mt-16 mb-20"
+        class="lg:text-7xl text-4xl text-white font-semibold m-10 mt-5 mb-20 text-center"
       >
         {{ section.title }}
       </h1>
