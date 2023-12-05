@@ -280,9 +280,71 @@
           ]
         },
         {
+          "title": "Désobstruction par compressions thoraciques chez l'adulte",
+          "type": "FT",
+          "id": "02FT03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger, lorsqu’il est impossible d’encercler l’abdomen de la victime (obèse, femme enceinte dans les derniers mois de grossesse, etc.) et après une série de 5 claques dans le dos inefficaces.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est de comprimer l’air contenu dans les poumons de la victime et d’expulser le corps étranger par un effet de « piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires pour l’expulser.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "<li>Se positionner derrière la victime ;</li><li>Placer ses avant-bras sous les bras de la victime et encercler la poitrine de la victime ;</li>Placer le poing fermé (dos de la main vers le ciel) au milieu du sternum, sans appuyer sur la pointe inférieure du sternum ;</li><li>Placer l'autre main sur la première sans appuyer les avant-bras sur les côtes ;</li><li>Tirer franchement en exerçant une pression vers l'arrière ;</li><li>Effectuer de 1 à 5 compressions, en relâchant entre chacune.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Points clés",
+              "content": "Les compressions thoraciques doivent être réalisées :<li>Au milieu du sternum ;</li><li>Sans appuyer sur les côtes ;</li><li>Vers l'arrière.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Désobstruction par compressions thoraciques chez le nourrisson",
+          "type": "FT",
+          "id": "02FT04",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger, chez une victime qui peut tenir sur l’avant-bras du sauveteur, et immédiatement après une série de 5 claques dans le dos inefficaces.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est de comprimer l’air contenu dans les poumons de la victime afin d’expulser le corps étranger par un effet de « piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires pour l’expulser.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "<li>Placer l'avant-bras contre le dos du nourrisson, la main soutenant sa tête ;</li><li>Tourner le nourrisson pour que sa face soit côté ciel ;</li><li>Placer l'avant-bras, sur lequel repose le nourrisson, sur la cuisse du sauveteur. La tête du nourrisson doit être plus basse que le reste du corps ;</li><li>Placer la pulpe de deux doigts d'une main dans l'axe du sternum, une largeur de doigt au-dessus d'un repère constitué par le bas du sternum à la jonction des dernières côtes. Cette position est la même que pour la réanimation chez le nourrisson ;</li><li>Effectuer de 1 à 5 compressions profondes et successives en relâchant entre chacune.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Points clés",
+              "content": "Les compressions thoraciques doivent être :<li>Pratiquées au milieu de la poitrine</li><li>Profonde</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
           "title": "Hémorragies externes",
           "type": "PR",
-          "id": "02PR01",
+          "id": "02PR02",
           "content": [
             {
               "id": 1,
@@ -299,25 +361,32 @@
             {
               "id": 3,
               "title": "Risques",
-              "content": "Les risques d'une perte abondante ou prolongée de sang sont :<br><br><li>pour la victime : d'entraîner une détresse circulatoire ou un arrêt cardiaque par une diminution importante de la quantité de sang dans l'organisme ;</li><li>pour le sauveteur : d'être infecté par une maladie transmissible s'il présente des effractions cutanées (plaies, piqûres) ou en cas de projection sur les muqueuses (bouche, yeux).</li>",
+              "content": "Les risques d'une perte abondante ou prolongée de sang sont :<br><br><li>Pour la victime : d'entraîner une détresse circulatoire ou un arrêt cardiaque par une diminution importante de la quantité de sang dans l'organisme ;</li><li>Pour le sauveteur : d'être infecté par une maladie transmissible s'il présente des effractions cutanées (plaies, piqûres) ou en cas de projection sur les muqueuses (bouche, yeux).</li>",
               "type": "text"
             },
             {
               "id": 4,
-              "title": "Principes d’action",
-              "content": "Le sauveteur doit arrêter ou limiter la perte de sang de la victime et retarder l'installation d'une détresse qui peut entraîner la mort.",
+              "title": "Conduite à tenir",
+              "content": "<li>Constater l’hémorragie, si nécessaire en écartant les vêtements ;</li><li>Demander à la victime de comprimer immédiatement l’endroit qui saigne ou à défaut, le faire à sa place pour arrêter l’hémorragie externe ;</li><li>Faire maintenir ou maintenir la compression ;</li><li>Allonger confortablement la victime, par exemple sur un lit, un canapé ou à défaut sur le sol (<i>La position allongée retarde ou empêche l’installation d’une détresse liée à la perte importante de sang.</i> ;</li><li>Alerter les secours ;</li><br>Un pansement compressif peut remplacer la compression manuelle seulement si elle a permis d’arrêter le saignement. Le pansement compressif ne peut pas remplacer la compression manuelle si l’hémorragie n’est pas contrôlée. Si le saignement se poursuit après la mise en place d’un pansement compressif, reprendre la compression directe par-dessus le pansement compressif ;<br><br>Si la compression directe d’une hémorragie d’un membre est inefficace (le saignement persiste malgré tout) ou impossible (nombreuses victimes, catastrophes, situations de violence collective ou de guerre, nombreuses lésions, plaie inaccessible, corps étranger), mettre en place un garrot au-dessus de la plaie (entre le coeur et la plaie) pour arrêter le saignement en réalisant un garrot improvisé. Cependant, s’il est disponible, il est préférable d’utiliser un garrot de fabrication industrielle, spécialement conçu à cet effet ;<li>Rassurer la victime, en lui parlant régulièrement et en lui expliquant ce qui se passe ;</li><li>Protéger la victime contre la chaleur, le froid ou les intempéries, la réchauffer si nécessaire ;</li><li>Surveiller l’apparition de signes d’aggravation.</li><br>Dans tous les cas, si l’état de la victime s’aggrave (sueurs abondantes, sensation de froid, pâleur intense, perte de connaissance) :<li>Contacter à nouveau les secours pour signaler l’aggravation ;</li><li>Pratiquer les gestes qui s’imposent si la victime a perdu connaissance ou présente un arrêt cardiaque.</li>",
               "type": "text"
             },
             {
               "id": 5,
-              "title": "Contact du sauveteur avec le sang de la victime",
-              "content": "Si le sauveteur risque d’entrer en contact avec le sang de la victime, il doit si possible :<br><br><li>se protéger par le port de gants ;</li><li>à défaut glisser sa main dans un sac plastique.</li>",
+              "title": "Principes d’action",
+              "content": "Le sauveteur doit arrêter ou limiter la perte de sang de la victime et retarder l'installation d'une détresse qui peut entraîner la mort.",
+              "type": "text"
+            },
+
+            {
+              "id": 6,
+              "title": "Conduites à tenir particulières",
+              "content": "<b><u>En présence d’une victime qui saigne du nez :</u></b><li>L’asseoir, tête penchée en avant (ne jamais l’allonger) ;</li><li>Lui demander de se moucher vigoureusement ;</li><li>Lui demander de comprimer les deux narines avec les doigts, durant 10 minutes sans relâcher ;</li><li>Demander un avis médical si le saignement ne s’arrête pas ou se reproduit, le saignement survient après une chute ou un coup, la victime prend des médicaments, en particulier ceux qui augmentent les saignements.</li><br><u><b>En présence d’une victime qui vomit ou crache du sang :</b></u><br>Il s’agit d’un signe pouvant traduire une maladie grave nécessitant une prise en charge médicale.<li>Installer la victime dans la position où elle se sent le mieux si elle est consciente et allongée, en position stable sur le côté si elle a perdu connaissance.</li><li>Faire alerter ou alerter les secours et appliquer les consignes ;</li><li>Surveiller en permanence.</li><br><u><b>En présence d’une victime qui perd du sang par un orifice naturel (sauf le nez) et de façon inhabituelle :</b></u><li>Allonger la victime ;</li><li>Faire alerter ou alerter les secours et appliquer les consignes.</li><br>En cas d’aggravation :<li>Contacter à nouveau les secours pour signaler l’aggravation ;</li><li>Pratiquer les gestes qui s’imposent si la victime a perdu connaissance.</li>",
               "type": "text"
             },
             {
-              "id": 6,
-              "title": "Conduite à tenir",
-              "content": "<li>constater l’hémorragie, si nécessaire en écartant les vêtements ;</li><li>demander à la victime de comprimer immédiatement l’endroit qui saigne ou à défaut, le faire à sa place pour arrêter l’hémorragie externe ;</li><li>faire maintenir ou maintenir la compression ;</li><li>allonger confortablement la victime, par exemple sur un lit, un canapé ou à défaut sur le sol (La position allongée retarde ou empêche l’installation d’une détresse liée à la perte importante de sang.) ;</li><li>alerter les secours ;</li><br>Un pansement compressif peut remplacer la compression manuelle seulement si elle a permis d’arrêter le saignement. Le pansement compressif ne peut pas remplacer la compression manuelle si l’hémorragie n’est pas contrôlée. Si le saignement se poursuit après la mise en place d’un pansement compressif, reprendre la compression directe par-dessus le pansement compressif ;<br><br>Si la compression directe d’une hémorragie d’un membre est inefficace (le saignement persiste malgré tout) ou impossible (nombreuses victimes, catastrophes, situations de violence collective ou de guerre, nombreuses lésions, plaie inaccessible, corps étranger), mettre en place un garrot au-dessus de la plaie (entre le coeur et la plaie) pour arrêter le saignement en réalisant un garrot improvisé. Cependant, s’il est disponible, il est préférable d’utiliser un garrot de fabrication industrielle, spécialement conçu à cet effet ;<br><li>rassurer la victime, en lui parlant régulièrement et en lui expliquant ce qui se passe ;</li><li>protéger la victime contre la chaleur, le froid ou les intempéries, la réchauffer si nécessaire ;</li><li>surveiller l’apparition de signes d’aggravation.</li><br>Dans tous les cas, si l’état de la victime s’aggrave (sueurs abondantes, sensation de froid, pâleur intense, perte de connaissance) :<br><br><li>contacter à nouveau les secours pour signaler l’aggravation ;</li><li>pratiquer les gestes qui s’imposent si la victime a perdu connaissance ou présente un arrêt cardiaque.</li>",
+              "id": 7,
+              "title": "Contact du sauveteur avec le sang de la victime",
+              "content": "Si le sauveteur risque d’entrer en contact avec le sang de la victime, il doit si possible :<li>Se protéger par le port de gants ;</li><li>A défaut glisser sa main dans un sac plastique.</li><br>En cas de contact avec le sang d’une victime :<li>Ne pas porter les mains à la bouche, au nez ou aux yeux ;</li><li>Ne pas manger avant de s’être lavé les mains et de s’être changé ;</li><li>Retirer les vêtements souillés de sang le plus tôt possible après la fin de l’action de secours ;</li><li>Se laver les mains ou toute zone souillée par le sang de la victime, appliquer éventuellement un gel hydroalcoolique ;</li><li>Demander un avis médical, sans délai si le sauveteur présente une plaie, même minime, ayant été souillée ou a subi une projection sur le visage.",
               "type": "text"
             }
           ]
@@ -325,7 +394,7 @@
         {
           "title": "Compression directe",
           "type": "FT",
-          "id": "02FT01",
+          "id": "02FT05",
           "content": [
             {
               "id": 1,
@@ -336,7 +405,7 @@
             {
               "id": 2,
               "title": "Justification",
-              "content": "La compression des vaisseaux sanguins, au niveau d’une plaie arrête le saignement.",
+              "content": "La compression des vaisseaux sanguins, au niveau d’une plaie, arrête le saignement.",
               "type": "text"
             },
             {
@@ -368,7 +437,7 @@
         {
           "title": "Garrot",
           "type": "FT",
-          "id": "02FT02",
+          "id": "02FT06",
           "content": [
             {
               "id": 1,
@@ -418,7 +487,7 @@
         {
           "title": "Perte de connaissance",
           "type": "PR",
-          "id": "02PR02",
+          "id": "02PR03",
           "content": [
             {
               "id": 1,
