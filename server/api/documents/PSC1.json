@@ -504,13 +504,13 @@
             {
               "id": 3,
               "title": "Risques",
-              "content": "Le risque de la perte de connaissance est d'évoluer vers l'arrêt respiratoire et l'arrêt cardiaque. En effet, la respiration n'est possible que si les voies aériennes permettent le passage de l'air sans encombre.<br><br>Une personne qui a perdu connaissance, laissée sur le dos, est toujours exposée à des difficultés respiratoires, du fait de l'encombrement ou de l'obstruction des voies aériennes par :<li>des liquides présents dans la gorge (salive, sang, liquide gastrique) ;</li><li>la chute de la langue en arrière.</li>",
+              "content": "Le risque de la perte de connaissance est d'évoluer vers l'arrêt respiratoire et l'arrêt cardiaque. En effet, la respiration n'est possible que si les voies aériennes permettent le passage de l'air sans encombre.<br><br>Une personne qui a perdu connaissance, laissée sur le dos, est toujours exposée à des difficultés respiratoires, du fait de l'encombrement ou de l'obstruction des voies aériennes par :<li>Des liquides présents dans la gorge (salive, sang, liquide gastrique) ;</li><li>La chute de la langue en arrière.</li>",
               "type": "text"
             },
             {
               "id": 4,
               "title": "Conduite à tenir",
-              "content": "Rechercher l’absence de réponse et pour cela :<li>poser des questions simples (exemples : « Comment ça va ? », « Vous m’entendez ? ») ;</li><li>secouer doucement les épaules ou lui prendre la main et demander d’exécuter un ordre simple (exemple : « Serrez-moi la main »).</li><br><b>Si la victime répond ou réagit</b>: elle est consciente. Il convient d’adopter la conduite à tenir adaptée au malaise.<br><br><b><u>Si la victime ne répond pas et ne réagit pas, il convient de :</u></b><br><li>demander de l’aide, si vous êtes seul ;</li><li>l’allonger sur le dos quelle que soit sa position initiale ;</li><li>libérer les voies aériennes ;</li><li>apprécier la respiration sur 10 secondes au plus. Pour cela :<br> ➔ maintenir la libération des voies aériennes ;<br> ➔ se pencher sur la victime, oreille et joue du sauveteur au-dessus de la bouche et du nez de la victime puis : regarder si le ventre et la poitrine se soulèvent, écouter d’éventuels sons provoqués par la respiration, sentir un éventuel flux d’air à l’expiration.</li><br><b><u>En présence d’une victime qui ne répond pas, ne réagit pas et respire (perte de connaissance) à la suite d’un évènement non traumatique :</u></b><li>la placer en position stable sur le côté : en position latérale de sécurité (PLS) ;</li><li>faire alerter ou alerter les secours ;</li><li>surveiller en permanence la respiration de la victime, jusqu’à l’arrivée des secours. Pour cela :<br> ➔ regarder si le ventre et la poitrine se soulèvent ;<br> ➔ écouter d’éventuels sons provoqués par la respiration ;<br> ➔ sentir, avec le plat de la main, le soulèvement du thorax.</li><li>protéger contre la chaleur, le froid ou les intempéries.</li><br><b><u>En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un traumatisme :</u></b><li>laisser la victime sur le dos ;</li><li>faire alerter ou alerter les secours, respecter leur consignes ;</li><li>surveiller en permanence la respiration de la victime jusqu’à l’arrivée des secours ;</li><li>protéger contre la chaleur, le froid ou les intempéries.</li><br>En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un évènement dont on ne connait pas l’origine, agir comme en présence d’une victime qui présente un traumatisme.<br><br>Dans tous les cas, si la respiration de la victime s’arrête ou devient anormale, il convient d’adopter la conduite à tenir face à un arrêt cardiaque et de prévenir les secours de l’évolution.",
+              "content": "Rechercher l’absence de réponse et pour cela :<li>Poser des questions simples (exemples : « Comment ça va ? », « Vous m’entendez ? ») ;</li><li>Secouer doucement les épaules ou lui prendre la main et demander d’exécuter un ordre simple (exemple : « Serrez-moi la main »).</li><br><b>Si la victime répond ou réagit</b> : elle est consciente. Il convient d’adopter la conduite à tenir adaptée au malaise.",
               "type": "text"
             },
             {
@@ -518,13 +518,37 @@
               "title": "Principes d’action",
               "content": "Le sauveteur doit assurer la liberté des voies aériennes de la victime afin de permettre l'écoulement des liquides vers l'extérieur en attendant l'arrivée des secours.",
               "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Si la victime ne répond pas et ne réagit pas,",
+              "content": "Demander de l’aide, si vous êtes seul ;<br><br>L’allonger sur le dos, quelle que soit sa position initiale ;<br><br>Libérer les voies aériennes ;<br><br>Apprécier la respiration sur 10 secondes au plus. Pour cela :<li>Maintenir la libération des voies aériennes ;</li><li>Se pencher sur la victime, oreille et joue du sauveteur au-dessus de la bouche et du nez de la victime puis regarder si le ventre et la poitrine se soulèvent, écouter d’éventuels sons provoqués par la respiration, sentir un éventuel flux d’air à l’expiration.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un évènement non traumatique",
+              "content": "La placer en position stable sur le côté : en position latérale de sécurité (PLS1) ;<br><br>Faire alerter ou alerter les secours ;<br><br>Surveiller en permanence la respiration de la victime, jusqu’à l’arrivée des secours. Pour cela :<li>Regarder si le ventre et la poitrine se soulèvent ;</li><li>Ecouter d’éventuels sons provoqués par la respiration ;</li><li>Sentir, avec le plat de la main, le soulèvement du thorax.</li><br>Protéger contre la chaleur, le froid ou les intempéries.",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un traumatisme",
+              "content": "<li>Laisser la victime sur le dos ;</li><li>Faire alerter ou alerter les secours, respecter leurs consignes ;</li><li>Surveiller en permanence la respiration de la victime jusqu’à l’arrivée des secours ;</li><li>Protéger contre la chaleur, le froid ou les intempéries.</li><br>En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un évènement dont on ne connaît pas l’origine, agir comme en présence d’une victime qui présente un traumatisme.<br><br>Dans tous les cas, si la respiration de la victime s’arrête ou devient anormale, il convient d’adopter la conduite à tenir face à un arrêt cardiaque et de prévenir les secours de l’évolution.",
+              "type": "text"
+            },
+            {
+              "id": 9,
+              "title": "Cas particuliers",
+              "content": "<b><u>En période d’épidémie telle que la covid-19</u></b><li>Se protéger si possible avec un masque ;</li><li>Questionner la victime et voir si elle réagit, sans la toucher ;</li><li>Apprécier la respiration de la victime en regardant si son ventre et sa poitrine se soulèvent. Ne pas procéder à la bascule de la tête de la victime en arrière, ne pas tenter de lui ouvrir la bouche, ne pas se pencher au-dessus de la face de la victime et ne pas mettre son oreille et sa joue au-dessus de la bouche et du nez de la victime.<br><br><u><b>Si la victime ne répond pas et présente une respiration normale</b></u><li>Laisser la victime dans la position où elle se trouve ;</li><li>Faire alerter ou alerter les secours, respecter leurs consignes ;</li><li>Surveiller en permanence la respiration de la victime en regardant son ventre et sa poitrine.</li><br>Dès que possible, se laver soigneusement les mains à l'eau et au savon ou se désinfecter les mains avec un gel à base d'alcool puis contacter les autorités sanitaires pour se renseigner sur la conduite à tenir (dépistage après avoir été en contact avec une personne cas suspect ou confirmé de covid-19).",
+              "type": "text"
             }
           ]
         },
         {
           "title": "Libération des voies aériennes",
           "type": "FT",
-          "id": "02FT03",
+          "id": "02FT07",
           "content": [
             {
               "id": 1,
@@ -552,6 +576,12 @@
             },
             {
               "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "Amener doucement la tête du nourrisson en position neutre dans l'alignement du torse et élever le menton tout en évitant une bascule excessive susceptible de provoquer une extension du rachis et une gêne de la ventilation.",
+              "type": "text"
+            },
+            {
+              "id": 6,
               "title": "Points clés",
               "content": "La liberté des voies aériennes est assurée lorsque :<li>le menton est élevé ;</li><li>la tête est maintenue dans cette position.</li>",
               "type": "text"
@@ -561,7 +591,7 @@
         {
           "title": "Position latérale de sécurité (PLS)",
           "type": "FT",
-          "id": "02FT04",
+          "id": "02FT08",
           "content": [
             {
               "id": 1,
@@ -571,19 +601,36 @@
             },
             {
               "id": 2,
-              "title": "Réalisation chez l’adulte ou l’enfant",
-              "content": "<b><u>1er temps : Préparer le retournement de la victime. Pour cela :</u></b><li>retirer les lunettes de la victime si elle en porte ;</li><li>rapprocher délicatement les membres inférieurs de l'axe du corps (<i>L’alignement des jambes et la position du membre supérieur anticipent la position finale.</i>) ;placer le bras de la victime, situé du côté sauveteur, à angle droit de son corps ;</li><li>plier le coude de ce même bras en gardant la paume de la main de la victime tournée vers le haut ;</li><li>se placer à genoux ou en trépied à côté de la victime, au niveau de son thorax ;</li><li>saisir le bras opposé de la victime et amener le dos de la main de la victime sur son oreille, côté sauveteur ;</li><li>maintenir le dos de la main de la victime pressée contre son oreille, paume contre paume (<i>Lors du retournement, le maintien de la main de la victime contre son oreille permet d’accompagner le mouvement de la tête et de diminuer la flexion de la colonne cervicale qui pourrait aggraver un traumatisme éventuel.</i>) ;</li><li>attraper la jambe opposée de la victime, avec l'autre main, juste derrière le genou ;</li><li>relever la jambe de la victime, tout en gardant le pied au sol (<i>La saisie de la jambe de la victime au niveau du genou permet de l’utiliser comme « bras de levier » pour le retournement</i>) ;</li><li>s'éloigner du thorax de la victime afin de pouvoir la retourner sans avoir à reculer, si nécessaire.</li><br><b><u>2ème temps : Retourner la victime. Pour cela :</u></b><li>tirer sur la jambe relevée de la victime afin de la faire pivoter vers le sauveteur, jusqu'à ce que le genou touche le sol, sans brusquerie et en un seul temps ;</li><li>dégager doucement la main du sauveteur située sous la tête de la victime, tout en préservant la bascule de la tête en arrière, en maintenant le coude de la victime à l'aide de la main du sauveteur précédemment située au genou (<i>Le maintien de la main sous la tête de la victime limite les mouvements de la colonne cervicale.</i>).</li><br><b><u>3ème temps : Stabiliser la victime. Pour cela :</u></b><li>ajuster la jambe de la victime située au-dessus de telle sorte que la hanche et le genou soient à angle droit ;</li><li>ouvrir la bouche de la victime sans mobiliser la tête et sans rabattre le menton sur le sternum ;</li><li>contrôler en permanence la respiration.</li>",
-              "type": "text"
-            },
-            {
-              "id": 3,
               "title": "Justification",
               "content": "La position latérale de sécurité permet de maintenir libres les voies aériennes supérieures de la victime en permettant l’écoulement des liquides vers l’extérieur et en évitant que la langue ne chute dans le fond de la gorge.",
               "type": "text"
             },
-
+            {
+              "id": 3,
+              "title": "Premier temps : Préparer le retournement de la victime (adulte ou enfant)",
+              "content": "<li>retirer les lunettes de la victime si elle en porte ;</li><li>rapprocher délicatement les membres inférieurs de l'axe du corps (<i>L’alignement des jambes et la position du membre supérieur anticipent la position finale.</i>) ;placer le bras de la victime, situé du côté sauveteur, à angle droit de son corps ;</li><li>plier le coude de ce même bras en gardant la paume de la main de la victime tournée vers le haut ;</li><li>se placer à genoux ou en trépied à côté de la victime, au niveau de son thorax ;</li><li>saisir le bras opposé de la victime et amener le dos de la main de la victime sur son oreille, côté sauveteur ;</li><li>maintenir le dos de la main de la victime pressée contre son oreille, paume contre paume (<i>Lors du retournement, le maintien de la main de la victime contre son oreille permet d’accompagner le mouvement de la tête et de diminuer la flexion de la colonne cervicale qui pourrait aggraver un traumatisme éventuel.</i>) ;</li><li>attraper la jambe opposée de la victime, avec l'autre main, juste derrière le genou ;</li><li>relever la jambe de la victime, tout en gardant le pied au sol (<i>La saisie de la jambe de la victime au niveau du genou permet de l’utiliser comme « bras de levier » pour le retournement</i>) ;</li><li>s'éloigner du thorax de la victime afin de pouvoir la retourner sans avoir à reculer, si nécessaire.</li>",
+              "type": "text"
+            },
             {
               "id": 4,
+              "title": "Second temps : Retourner la victime (adulte ou enfant)",
+              "content": "tirer sur la jambe relevée de la victime afin de la faire pivoter vers le sauveteur, jusqu'à ce que le genou touche le sol, sans brusquerie et en un seul temps ;</li><li>dégager doucement la main du sauveteur située sous la tête de la victime, tout en préservant la bascule de la tête en arrière, en maintenant le coude de la victime à l'aide de la main du sauveteur précédemment située au genou (<i>Le maintien de la main sous la tête de la victime limite les mouvements de la colonne cervicale.</i>).</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Troisème temps : Stabiliser la victime (adulte ou enfant)",
+              "content": "<li>ajuster la jambe de la victime située au-dessus de telle sorte que la hanche et le genou soient à angle droit ;</li><li>ouvrir la bouche de la victime sans mobiliser la tête et sans rabattre le menton sur le sternum ;</li><li>contrôler en permanence la respiration.</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Chez le nourrisson",
+              "content": "Placer le nourrisson sur le côté, dans les bras du sauveteur le plus souvent.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
               "title": "Points clés",
               "content": "La mise en position latérale de sécurité doit :<li>limiter au maximum les mouvements de la colonne vertébrale ;</li><li>aboutir à une position stable, la plus latérale possible ;</li><li>permettre un contrôle permanent de la respiration de la victime ;</li><li>permettre l’écoulement des liquides vers l’extérieur (bouche ouverte).</li>",
               "type": "text"
@@ -593,7 +640,7 @@
         {
           "title": "Arrêt cardiaque",
           "type": "PR",
-          "id": "02PR03",
+          "id": "02PR04",
           "content": [
             {
               "id": 1,
@@ -648,13 +695,25 @@
               "title": "Dans tous les cas",
               "content": "<li>poursuivre la RCP entreprise jusqu’au relais par les services de secours ;</li><li>si les insufflations ne peuvent pas être effectuées (répulsion, covid-19, vomissements, traumatisme majeur de la face, etc.) ou si le sauveteur ne se sent pas capable, il doit réaliser uniquement les compressions thoraciques en continu à un rythme de 100 à 120 compressions par minute ;</li><li>ne pas retarder la défibrillation pour réaliser des compressions thoraciques alors qu’elle est prête à être réalisée.</li>",
               "type": "text"
+            },
+            {
+              "id": 10,
+              "title": "Chez l’enfant et le nourrisson",
+              "content": "Chez l’enfant et le nourrisson, en l’absence de respiration ou si la respiration est anormale, la conduite à tenir est la même que chez l’adulte, mais il convient de :<li>Débuter la RCP par 5 insufflations initiales avant de poursuivre par les compressions thoraciques ;</li><li>Associer ensuite les compressions thoraciques aux insufflations à un rythme de 15 compressions pour 2 insufflations.</li>",
+              "type": "text"
+            },
+            {
+              "id": 11,
+              "title": "En période d’épidémie telle que la covid-19",
+              "content": "<li>Se protéger, si possible, avec un masque ;</li><li>Apprécier la respiration de la victime en regardant si son ventre et sa poitrine se soulèvent. Ne pas procéder à la bascule de la tête de la victime en arrière, ne pas tenter de lui ouvrir la bouche, ne pas se pencher au-dessus de la face de la victime et ne pas mettre son oreille et sa joue au-dessus de la bouche et du nez de la victime ;</li><li>Ne pas faire de bouche-à-bouche et effectuer seulement des compressions thoraciques seules ;</li><li>Concernant le bouche-à-bouche, deux situations sont laissées à l’appréciation du sauveteur : le sauveteur vit sous le même toit que la victime (risque de contamination déjà partagée ou limitée) ou la victime est un enfant ou un nourrisson.</li><li>Se tenir au pied de la victime lors de l’administration du choc ;</li><li>Si possible, placer un tissu, une serviette ou un masque sur la bouche et le nez de la victime avant de procéder aux compressions thoraciques et à la défibrillation.</li><li>Dès que possible, se laver soigneusement les mains à l’eau et au savon ou avec une solution hydroalcoolique ;</li><li>Appliquer les consignes sanitaires nationales.</li>",
+              "type": "text"
             }
           ]
         },
         {
           "title": "Compressions thoraciques",
           "type": "FT",
-          "id": "02FT05",
+          "id": "02FT09",
           "content": [
             {
               "id": 1,
@@ -682,6 +741,18 @@
             },
             {
               "id": 5,
+              "title": "Chez l’enfant",
+              "content": "<li>Placer le talon d’une main à une largeur de doigt au-dessus d’un repère constitué par le bas du sternum à la jonction des dernières côtes ;</li><li>Relever les doigts pour ne pas appuyer sur les côtes ;</li><li>Réaliser les compressions sternales comme chez l’adulte en veillant à enfoncer le thorax sur le tiers de son épaisseur soit environ 5 cm.</li><br>En présence de plusieurs sauveteurs, relayer le sauveteur qui réalise les compressions thoraciques toutes les 2 minutes en interrompant le moins possible les compressions thoraciques (en cas d’utilisation d’un DAE, le relais sera réalisé pendant l’analyse). Si le sauveteur est seul, il peut changer de main.<br><br>Si la victime (enfant) est grande ou si le sauveteur est petit et n'a pas suffisamment de force, il peut être utile d’utiliser la même technique que chez l’adulte.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "<li>Placer la pulpe de deux doigts d’une main dans l’axe du sternum, à une largeur de doigt au-dessus d’un repère constitué par le bas du sternum à la jonction des dernières côtes ;</li><li>Réaliser les compressions sternales à l'aide de la pulpe des deux doigts en veillant à enfoncer le thorax sur le tiers de l’épaisseur soit environ 4 cm.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
               "title": "Points clés",
               "content": "Les compressions thoraciques doivent :<br><li>comprimer fortement le sternum ;</li><li>avoir une fréquence comprise entre 100 et 120 par minute.</li>",
               "type": "text"
@@ -691,7 +762,7 @@
         {
           "title": "Insufflations",
           "type": "FT",
-          "id": "02FT06",
+          "id": "02FT10",
           "content": [
             {
               "id": 1,
@@ -713,12 +784,18 @@
             },
             {
               "id": 4,
-              "title": "Chez l’adulte",
+              "title": "Chez l’adulte et l’enfant",
               "content": "<li>basculer la tête de la victime en arrière comme pour la technique de libération des voies aériennes ;</li><li>pincer le nez de la victime entre le pouce et l'index, tout en maintenant la bascule en arrière de la tête (<i>Le pincement du nez empêchera toute fuite d’air par le nez lors des insufflations.</i>) avec la main qui est placée sur le front ;</li><li>ouvrir légèrement la bouche de la victime en utilisant l'autre main et maintenir le menton élevé ;</li><li>inspirer, sans excès ;</li><li>appliquer la bouche largement ouverte autour de la bouche de la victime en appuyant fermement (<i>La pression ferme autour de la bouche de la victime empêchera toute fuite d’air durant les insufflations.</i>) ;</li><li>insuffler progressivement jusqu'à ce que la poitrine de la victime commence à se soulever (durant 1 seconde environ) ;</li><br><li>se redresser légèrement tout en maintenant la bascule de la tête en arrière afin de :<br>➔ reprendre son souffle ;<br>➔ vérifier l'affaissement de la poitrine de la victime.</li><br><li>insuffler une seconde fois dans les mêmes conditions.</li><br>La durée de réalisation de ces deux insufflations successives ne doit pas excéder 5 secondes (<i>La réalisation rapide des manoeuvres d’insufflation permet de ne pas retarder la reprise des compressions thoraciques</i>).<br><br>Si le ventre ou la poitrine de la victime ne se soulève pas lors des insufflations :<li>s'assurer que la tête de la victime est en bonne position et que son menton est élevé ;</li><li>s'assurer qu'il y a une bonne étanchéité et pas de fuite d'air lors de l'insufflation ;</li><li>rechercher la présence d'un corps étranger dans la bouche. Le retirer avec les doigts, si nécessaire.</li>",
               "type": "text"
             },
             {
               "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "La technique est sensiblement la même que pour l’adulte ou l’enfant. Toutefois, il convient de :<li>Placer la tête du nourrisson en position neutre, menton élevé ;</li><li>Englober avec la bouche à la fois la bouche et le nez de la victime ;</li><li>Insuffler progressivement jusqu'à ce que la poitrine du nourrisson commence à se soulever (durant 1 seconde environ) ;</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
               "title": "Points clés",
               "content": "Les deux insufflations doivent :<li>être lentes et progressives ;</li><li>cesser dès le début du soulèvement e la poitrine ;</li><li>être réalisées en 5 secondes maximum.</li>",
               "type": "text"
