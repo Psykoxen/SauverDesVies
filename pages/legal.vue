@@ -20,8 +20,8 @@
       <h2 class="text-4xl font-semibold mb-4">
         Le Ratio d'Intervenant Secouriste (RIS)
       </h2>
-      <div class="flex flex-row">
-        <div class="w-2/3">
+      <div class="flex lg:flex-row flex-col lg:gap-0 gap-4">
+        <div class="lg:w-2/3 w-full">
           <section class="flex flex-col gap-4 w-full">
             <section>
               <p class="text-xl font-semibold mb-1 underline">
@@ -94,11 +94,11 @@
         </div>
 
         <div
-          class="flex flex-col items-center justify-center w-1/3 h-full mx-auto my-auto gap-6"
+          class="flex flex-col items-center justify-center lg:w-1/3 w-full h-full mx-auto my-auto gap-6"
         >
           <!-- <label for="chiffreInput">Entrez un chiffre :</label> -->
           <section class="w-full flex flex-col items-center justify-center">
-            <p class="text-xl font-semibold mb-4 ml-7 w-full underline">
+            <p class="text-xl font-semibold mb-4 lg:ml-7 w-full underline">
               Public présent sur le site
             </p>
             <div
@@ -117,7 +117,7 @@
             </div>
           </section>
           <section class="w-full flex flex-col items-center justify-center">
-            <p class="text-xl font-semibold mb-4 ml-7 w-full underline">
+            <p class="text-xl font-semibold mb-4 lg:ml-7 w-full underline">
               Dimensionement
             </p>
             <p class="text-xl text-black w-full pl-7">
