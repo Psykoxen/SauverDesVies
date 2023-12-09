@@ -41,10 +41,13 @@ The mission is to democratize knowledge in first aid. The objective is to create
 - ⏳ Detailed display of courses
 - ⏳ Gesture memo
 - ⏳ Case simulation
+- ⏳ Legal content
+  - ⏳ RNMSC-DPS
+  - ⏳ RIS Calculator
 - ⏳ Training content
   - ⏳ PSE1
   - ⏳ PSE2
-  - ✅ GQS
+  - ✅ GQSe
   - ⏳ PSC1
   - ⏳ SSA
 
