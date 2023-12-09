@@ -4,6 +4,19 @@
       Legal
     </h1>
     <div class="bg-white rounded-lg shadow-lg text-black p-6 w-3/4 m-10">
+      <h2 class="text-4xl font-semibold mb-4">Textes réglementaires</h2>
+      <div class="w-full flex flex-col gap-2">
+        <LinkSection
+          url="https://www.interieur.gouv.fr/content/download/94241/736020/file/RNMSC%202006_10%20-%20DPS.pdf"
+          title="Référenciel National des Missions de Sécurite Civile relatif aux Dispositifs Prévisionnels de Secours"
+        />
+        <LinkSection
+          url="https://www.legifrance.gouv.fr/download/pdf/legiOrKali?id=LEGITEXT000025503132.pdf&size=2,3%20Mo&pathToFile=/LEGI/TEXT/00/00/25/50/31/32/LEGITEXT000025503132/LEGITEXT000025503132.pdf&title=Code%20de%20la%20s%C3%A9curit%C3%A9%20int%C3%A9rieure"
+          title="Code de la Sécurité Intérieure"
+        />
+      </div>
+    </div>
+    <div class="bg-white rounded-lg shadow-lg text-black p-6 w-3/4 m-10">
       <h2 class="text-4xl font-semibold mb-4">
         Le Ratio d'Intervenant Secouriste (RIS)
       </h2>
@@ -110,10 +123,11 @@
             <p class="text-xl text-black w-full pl-7">
               RIS : <span class="font-semibold">{{ this.ris }}</span>
             </p>
-            <p class="text-xl text-black pl-7 pb-8 w-full">
+            <p class="text-xl text-black pl-7 w-full">
               Secouristes :
               <span class="font-semibold">{{ this.secouristes }}</span>
             </p>
+            <p class="text-2xl font-semibold pb-4 pt-4">{{ this.poste }}</p>
             <div
               v-for="(dimensionement, index) in dimensionement"
               :key="index"
@@ -135,6 +149,7 @@
 export default {
   data() {
     return {
+      pdfPath: "/pdf/legitext.pdf",
       optionsActivity: [
         {
           title: "Public assis",
@@ -243,6 +258,14 @@ export default {
           value: 0,
         },
       },
+      postes: [
+        "A la diligence de l'autorité compétente",
+        "Point Alerte et de Premiers Secours",
+        "Dispositif de Petite Envergure",
+        "Dispositif de Moyenne Envergure",
+        "Dispositif de Grande Envergure",
+      ],
+      poste: "",
       selectedAccess: 0.25,
 
       ris: 0,
@@ -276,9 +299,10 @@ export default {
         this.public = 100000 + (this.public - 100000) / 2;
       }
 
-      this.ris = this.i * (this.public / 1000);
+      this.ris = (this.i * (this.public / 1000)).toFixed(2);
 
       this.secouristes = Math.ceil(this.ris);
+      console.log(this.secouristes % 2);
       if (this.secouristes % 2 !== 0) {
         this.secouristes += 1;
       }
@@ -290,33 +314,51 @@ export default {
       this.dimensionement.poste.value = 0;
       this.dimensionement.binome.value = 0;
       this.dimensionement.intervention.value = 0;
+      this.poste = "";
 
-      if (this.secouristes == 2) {
-        this.dimensionement.paps.value = 1;
+      if (this.ris <= 0.25) {
+        this.poste = this.postes[0];
       } else {
-        var i = this.secouristes;
+        if (this.ris > 0.25 && this.ris <= 1.125) {
+          this.poste = this.postes[1];
+        } else if (this.ris > 1.125 && this.ris <= 12) {
+          this.poste = this.postes[2];
+        } else if (this.ris > 12 && this.ris <= 36) {
+          this.poste = this.postes[3];
+        } else {
+          this.poste = this.postes[4];
+        }
 
-        while (i > 0) {
-          if (i >= 4) {
-            this.dimensionement.poste.value++;
-            i -= 4;
-          } else if (
-            i >= 2 &&
-            this.dimensionement.poste.value <
-              this.dimensionement.intervention.value
-          ) {
-            this.dimensionement.binome.value++;
-            i -= 2;
-          } else if (
-            i >= 4 &&
-            this.dimensionement.poste.value >=
-              this.dimensionement.intervention.value
-          ) {
-            this.dimensionement.intervention.value++;
-            i -= 4;
-          } else if (i >= 2) {
-            this.dimensionement.binome.value++;
-            i -= 2;
+        if (this.secouristes == 2) {
+          this.dimensionement.paps.value = 1;
+        } else {
+          var i = this.secouristes;
+
+          while (i > 0) {
+            if (i >= 4) {
+              this.dimensionement.poste.value++;
+              i -= 4;
+            }
+            if (
+              i >= 2 &&
+              this.dimensionement.poste.value <
+                this.dimensionement.intervention.value
+            ) {
+              this.dimensionement.binome.value++;
+              i -= 2;
+            }
+            if (
+              i >= 4 &&
+              this.dimensionement.poste.value >=
+                this.dimensionement.intervention.value
+            ) {
+              this.dimensionement.intervention.value++;
+              i -= 4;
+            }
+            if (i >= 2) {
+              this.dimensionement.binome.value++;
+              i -= 2;
+            }
           }
         }
       }
