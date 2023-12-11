@@ -127,7 +127,9 @@
               Secouristes :
               <span class="font-semibold">{{ this.secouristes }}</span>
             </p>
-            <p class="text-2xl font-semibold pb-4 pt-4">{{ this.poste }}</p>
+            <p class="text-2xl font-semibold pb-4 pt-4 w-full text-center">
+              {{ this.poste }}
+            </p>
             <div
               v-for="(dimensionement, index) in dimensionement"
               :key="index"
