@@ -43,11 +43,12 @@ The mission is to democratize knowledge in first aid. The objective is to create
   - ✅ RNMSC-DPS
   - ✅ RIS Calculator
 - ⏳ Training content
-  - ⏳ PSE1
-  - ⏳ PSE2
-  - ✅ GQS
-  - ⏳ PSC1
-  - ⏳ SSA
+  - ⏳France
+    - ⏳ PSE1
+    - ⏳ PSE2
+    - ✅ GQS
+    - ⏳ PSC1
+    - ⏳ SSA
 
 ## How to Contribute 🤝
 
