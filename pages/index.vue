@@ -2,7 +2,7 @@
   <section
     class="w-full h-4/5 absolute bottom-0 left-0 p-12 flex items-start lg:justify-between justify-center"
   >
-    <h1 class="lg:text-9xl text-7xl opacity-75 font-semibold">
+    <h1 class="lg:text-9xl text-7xl text-white opacity-75 font-semibold">
       Sauver des vies
     </h1>
     <svg

@@ -22,7 +22,6 @@ The mission is to democratize knowledge in first aid. The objective is to create
 ### For Whom? ⛑️
 
 - **Beginners:** If you're new to first aid, our site offers a clear and practical introduction to essential techniques.
-  
 - **Young Learners:** Explore crucial information interactively and educationally.
 
 - **Experienced Individuals:** For those who have already undergone first aid training, our platform serves as a continuous resource, providing regular updates to maintain and enhance their skills.
@@ -30,7 +29,6 @@ The mission is to democratize knowledge in first aid. The objective is to create
 ## Features 🚀
 
 - **Interactive Documentation:** Explore detailed guides with visual demonstrations of first aid techniques.
-  
 - **Annual Updates:** Stay informed about the latest advancements and recommendations in first aid.
 
 - **Knowledge Memo:** A space for quick revision of essential techniques.
@@ -41,15 +39,17 @@ The mission is to democratize knowledge in first aid. The objective is to create
 - ⏳ Detailed display of courses
 - ⏳ Gesture memo
 - ⏳ Case simulation
-- ⏳ Legal content
-  - ⏳ RNMSC-DPS
-  - ⏳ RIS Calculator
+- ✅ Legal content
+  - ✅ RNMSC-DPS
+  - ✅ RIS Calculator
 - ⏳ Training content
-  - ⏳ PSE1
-  - ⏳ PSE2
-  - ✅ GQSe
-  - ⏳ PSC1
-  - ⏳ SSA
+  - ⏳France
+    - ⏳ PSE1
+    - ⏳ PSE2
+    - ✅ GQS
+    - ⏳ PSC1
+    - ⏳ SSA
+
 
 ## How to Contribute 🤝
 
@@ -64,4 +64,3 @@ If you find this project useful or interesting, we encourage you to give it a �
 If you're particularly excited about our mission to make first aid accessible to everyone, consider contributing further by [**becoming a contributor**](#how-to-contribute) or by sharing the project with your colleagues and friends.
 
 Thank you very much for your support! 🌟
-
