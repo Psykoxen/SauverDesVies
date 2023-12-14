@@ -2,7 +2,912 @@
   "id": "PSC1",
   "title": "Prévention et secours civiques de niveau 1",
   "chapters": [
-    { "title": "Informations Générales", "id": "1" },
-    { "title": "Secourir une personne", "id": "2" }
+    {
+      "title": "Informations Générales",
+      "id": "1",
+      "resume": "Ce chapitre aborde les aspect généraux de l'assistance aux victimes en situation d'urgence et du rôle du citoyen dans ces situations",
+      "sections": [
+        {
+          "title": "Le citoyen de Sécurité Civile",
+          "type": "AC",
+          "id": "01AC01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "content": "<b>Cette fiche ne fait pas l’objet d’un enseignement spécifique. Les messages ci-après doivent être distillés tout au long de la formation au moment le plus opportun et en fonction de la teneur des échanges.</b> <br><br> La loi de 2004, dite de « modernisation de la sécurité civile », faisait du citoyen un acteur majeur de la Sécurité Civile. Reprise dans l’article L721‐1 du code de la Sécurité Intérieure, elle affirme entre autres que « <i>Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions nécessaires. </i>» <br> Au‐delà des gestes techniques de secours, toute formation de Sécurité Civile à destination des citoyens est donc une occasion de rappeler la place essentielle de ces derniers.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Protection juridique du citoyen",
+              "content": "Il est à noter que cette même loi protège le citoyen dans toutes ses actions entreprises : <i>« … Quiconque porte assistance de manière bénévole à une personne en situation apparente de péril grave et imminent est un citoyen sauveteur et bénéficie de la qualité de collaborateur occasionnel du service public … »</i>. <b>LOI n° 2020‐840 du 3 juillet 2020.</b>",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Le premier maillon",
+              "content": "Le secouriste est la première personne formée à la prise en charge de victimes d’un accident, un malaise, une aggravation brutale d’une maladie ou toute autre situation venant interrompre leur quotidien, de manière soudaine et inattendue, et susceptible de déborder les capacités individuelles ou collectives à faire face.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Prévenir les accidents de la vie courante ou l'aggravation de situations",
+              "content": "Les services de secours sont souvent sollicités pour des accidents de la vie courante qui touchent particulièrement les enfants de moins de 15 ans et les personnes âgées. Toute action que le citoyen peut mettre en oeuvre pour éviter un accident, en supprimant un danger ou en le réduisant, pour lui‐même ou son entourage : <br><br><li> est une occasion de ne pas être impacté, à court, moyen ou long terme par un événement ;</li> <li> réduit la sollicitation des secours et du système de santé.</li><br> Ces actions passent entre autres par le respect des consignes de sécurité édictées par les autorités, collectivités, encadrants d’activités de loisirs ou inscrites dans des notices techniques (électroportatifs, électroménager, produits ménagers, etc.). Il est à noter que certaines aggravations de situations pourraient être anticipées ou limitées par l’action du citoyen : <br><br><li>En allant au‐devant des personnes (personne semblant ne pas se sentir bien, personnes fragiles, personnes âgées en période de grand froid ou fortes chaleurs, parent ou voisin dont on a pas de nouvelles, etc.) ;</li> <li> En adoptant une attitude empathique et une posture permettant de réduire l’impact psychologique de la victime ou des témoins pouvant aggraver certaines situations.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Entretenir et développer ses compétences",
+              "content": "Malgré une absence d’obligation de formation continue pour certaines qualifications grand public, il est recommandé que le citoyen actualise régulièrement ses compétences. De même, toute personne suivant une formation aux gestes qui sauvent (GQS), dont le but était initialement de répondre à une situation d’attentat, est invitée à développer ses compétences au travers d’une formation PSC1, formation de base du citoyen permettant de répondre aux enjeux du quotidien, ou d’un niveau supérieur.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "S’engager",
+              "content": "Que le citoyen soit confronté de manière directe ou indirecte à une situation dangereuse, un accident, une catastrophe naturelle ou un attentat terroriste, sa mobilisation est essentielle et peut permettre de sauver des vies. Chaque citoyen peut s’engager sur la base du volontariat ou du bénévolat, pour contribuer à la sécurité du pays et pour aider les victimes. Pompier volontaire, bénévole de Sécurité Civile, réserviste, volontaire du Service civique, il existe de nombreuses façons de mettre ses compétences au service de la solidarité nationale. Se mobiliser, c’est aussi adopter des gestes simples ‐ donner son sang, avoir les bonnes pratiques numériques face à l’urgence – qui inscrivent chaque citoyen dans une démarche responsable et solidaire.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Être un « ambassadeur » de Sécurité Civile",
+              "content": "Être un « ambassadeur » de Sécurité Civile auprès de son entourage, c’est : <li> partager son expérience acquise en formation et inciter à se former aux premiers secours ; </li><li> véhiculer les communications relatives à la Sécurité Civile ; </li><li> partager ses compétences lors de crises auprès des associations agréées de Sécurité Civile.</li>",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Impact psychologique d’une intervention",
+              "content": "Toute situation de crise peut avoir un impact psychologique tant sur les victimes que les témoins ou les intervenants. Le citoyen peut être dans l’une de ces trois catégories. La réduction de l’impact psychologique pour le citoyen passe par : <li><b>sa préparation</b> en se formant régulièrement, ce qui lui permet d’intervenir avec une moindre gêne des effets du stress ou de comprendre comment il va être pris en charge s’il est la victime.</li><li><b>sa posture</b> lorsqu’il intervient sur une victime : en se mettant à sa hauteur, en l’écoutant et en la rassurant, en l’accompagnant du regard, en respectant son intimité, etc.</li><li><b>l’échange</b> avec les secours présents sur place, une fois la victime prise en charge.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Alerte et protection des populations",
+          "type": "AC",
+          "id": "01AC02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Principe d’organisation",
+              "content": "L’alerte aux populations est une mesure exceptionnelle dont l’efficacité repose sur une connaissance préalable des risques particuliers auxquels les personnes sont exposées (Document d’Information Départemental/Communal des Risques Majeurs).<br><br>L’alerte aux populations est utilisée pour avertir les individus d’un danger imminent ou d’un événement grave, en train de produire ses effets et susceptible de porter atteinte à leur intégrité physique.<br><br>Elle est diffusée par les services de l’état via un ensemble d’outils :<br><br><b><u>Sirènes diffusant suivant la situation :</b></u><li>le signal national d'alerte (SNA) pour inciter au confinement ou à l’évacuation, ce dernier est composé d’un signal : de début d’alerte, variation du signal sur <b>trois cycles successifs d'une durée de 1 minute et 41 secondes espacés de 5 secondes</b>, de fin d'alerte, <b>signal continu de 30 secondes.</b> Il est testé le premier mercredi de chaque mois, à midi. Lors de ces essais mensuels, le signal émis est une variation sur un seul cycle de 1 minute et 41 secondes, pour ne pas être confondu avec le SNA.</li><li>Un signal de type corne de brume pour les dispositifs d’alerte propres aux aménagements hydrauliques, incitant à l’évacuation ;</li><li>Un signal spécifique lorsqu’il existe des risques particuliers (chimiques, radioactifs, infectieux, etc.).</li><br><b><u>Notifications « FR-ALERT » sur les téléphones portables :</b></u><li>pour recevoir cette notification, le téléphone doit être dans une zone géographique affectée, être allumé et avoir du réseau. Ce dispositif actif depuis juin 2022, ne nécessite pas d’inscription ni d’application.</li><br><b>Médias (Radio France, France Télévisions, radios locales, vigilance météo, etc.) ;</b><br><br><b><u>Réseaux sociaux :</b></u><li>Twitter en s’abonnant et en activant les notifications du compte @Beauvau_alerte du ministère de l’Intérieur ;</li><li>Facebook via l’outil « Safety Check » ;</li><li>Google via son moteur de recherche et son outil « Posts on Google » ;</li><li>Abonnements et notifications aux comptes des réseaux sociaux des services de l’état (services de l’état, préfectures, etc.).</li><br><b><u>Autres outils :</b></u><li>Panneaux communaux à messages variables ;</li><li>Panneaux des opérateurs routiers, aériens et ferroviaires ;</li>",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Conduite à tenir",
+              "content": "<b><u>En amont de toute crise / Risques Majeurs</b></u><br>« Toute personne concourt par son comportement à la sécurité civile » conformément à l’article L721-1 du code de la sécurité intérieure.<br>A minima, chaque citoyen doit donc se préparer en :<li>S’informant sur les risques et procédures pouvant l’impacter sur son lieu d’habitation, son environnement professionnel ou de loisirs (vacances, sport, etc.) ;</li><li>Préparant un kit d’urgence, pour en savoir plus et compléter son kit :<a>http://www.interieur.gouv.fr/Alerte/Alerte-ORSEC</a> et <a>http://www.gouvernement.fr/risques</a><br><br><b><u>Face à tout déclenchement (SNA, FR-ALERT, notifications, médias et réseaux sociaux officiels, etc.)<br></b></u>Dès que vous avez connaissance d’une alerte aux populations :<li>se mettre en sécurité (bâtiment le plus proche, etc.) ;</li><li>ne pas aller chercher les enfants à l’école, car ils y sont protégés par leurs enseignants ;</li><li>s’informer sur la situation ;</li><li>sauf urgence vitale, ne pas téléphoner pour laisser les réseaux disponibles pour les services de secours ;</li><li>respecter les consignes des autorités, s’il vous est demandé :<br> ➔ de vous confiner, à minima (fermer les portes et fenêtres, calfeutrer les portes, fenêtres et bouches d’aération, arrêter les systèmes de ventilation ou de climatisation.)<br> ➔ d’évacuer, à minima (emporter votre kit d’urgence préparé à l’avance)</li><br><b><u>Dans le cadre d’épidémie</b></u><br>Pour lutter contre la transmission de maladies infectieuses contagieuses, les services de l’État peuvent diffuser des informations générales concernant la mise en application de mesures spécifiques, notamment des mesures barrières et de distanciation physique.<br><br>Afin de limiter la propagation d’une maladie infectieuse contagieuse notamment à transmission respiratoire ou par contact, les mesures minimales sont les suivantes :<li>se laver régulièrement les mains ou utiliser une solution hydroalcoolique ;</li><li>tousser ou éternuer dans son coude ou dans son mouchoir ;</li><li>se moucher dans un mouchoir à usage unique puis le jeter ;</li><li>éviter de se toucher le visage ;</li><li>respecter une distance d’au moins un mètre avec les autres ;</li><li>saluer sans serrer la main et arrêter les embrassades.</li><br>En complément de ces gestes, porter un masque quand la distance d’un mètre ne peut pas être respectée.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Protection",
+          "type": "AC",
+          "id": "01AC03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Protection d’une personne exposée à un danger",
+              "content": "Une victime ou toute autre personne menacée par un danger doit en être protégée, notamment du sur-accident. Pour cela, le sauveteur, lorsqu’il peut agir sans risque pour sa propre sécurité, doit immédiatement supprimer ou écarter le danger de façon permanente.<br><br>Si nécessaire, cette première mesure est complétée en délimitant clairement et largement la zone de danger, de façon visible, afin d’éviter toute intrusion dans la zone. Cette délimitation se fait en utilisant tous les moyens matériels à disposition ainsi que le concours des personnes aptes aux alentours.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Dégagement d’urgence d’une victime",
+              "content": "Lorsque la victime ne peut se soustraire d’elle-même à un danger réel, immédiat et non contrôlable, un dégagement d’urgence peut être alors réalisé par le sauveteur. Cette manoeuvre peut être dangereuse pour la victime ou lui-même. Elle doit donc rester exceptionnelle.<br><br>Le dégagement d’urgence de la victime doit alors permettre de placer celle-ci dans un endroit suffisamment éloigné du danger et de ses conséquences.<br><br>Aucune technique n’est imposée lors de la réalisation d’un dégagement d’urgence. Toutefois, lors de sa réalisation, le sauveteur s’engage par le cheminement le plus sûr et le plus rapide seulement si la victime est visible, facile à atteindre et que rien ne gêne son dégagement. Il assure son extraction en fonction de ses capacités.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Devant une attaque terroriste ou une situation de violence",
+              "content": "Devant une attaque terroriste ou une situation de violence, le sauveteur tentera d’appliquer les consignes nationales édictées par le ministère de l’Intérieur et disponibles en ligne «réagir en cas d’attaque terroriste».<br><br>Ainsi, la conduite à tenir (CAT) pour le sauveteur avant l’arrivée des forces de l’ordre pourrait être la suivante : s’échapper, si c’est impossible se cacher, alerter et obéir aux forces de l’ordre, réaliser les gestes de premiers secours, rester vigilant.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "En période épidémique de maladie à transmission respiratoire (covid-19, grippe, etc.)",
+              "content": "Le sauveteur doit appliquer les mesures barrières, de distance physique et d'isolement pour se protéger et protéger l'entourage :<br><li>Demander aux proches et aux témoins de respecter les mesures barrières et de distance physique ;</li><li>Demander à la victime de s'isoler si possible dans une pièce séparée, et de porter un masque. Si ce dernier gêne la ventilation de la victime, il doit être retiré ;</li><li>Garder ses distances avec la ou les personnes malades, ne pas les toucher surtout si elles ne portent pas de masque ;</li><li>Faire réaliser les gestes de secours par la victime sur elle-même si elle le peut ;</li><li>S'il faut s'approcher de la victime, se protéger avec un masque ;</li><li>Nepas se toucher les yeux, le nez, la bouche et le visage ;</li><br>À la fin de l'intervention, se laver les mains avec de l'eau et du savon et les sécher avec une serviette ou un essuie-main, à défaut utiliser une solution hydroalcoolique.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Alerte",
+          "type": "AC",
+          "id": "01AC04",
+          "content": [
+            {
+              "id": 1,
+              "title": "Présentation",
+              "content": "L’alerte est l’action qui consiste à informer un service d’urgence de la présence d’une ou plusieurs victimes affectées par une ou plusieurs détresses ainsi que de la nature de l’assistance qui leur est apportée.<br><br>L’absence d’information d’un service d’urgence peut compromettre la vie ou la santé d’une victime malgré les gestes de premiers secours assurés par un sauveteur. Le rôle du sauveteur dans l’alerte est donc essentiel.<br><br>L’alerte doit être transmise, par le sauveteur ou un témoin, par les moyens disponibles les plus appropriés. Elle doit être rapide et précise afin de diminuer au maximum les délais de mise en oeuvre de la chaîne de secours et de soins.<br><br>L’alerte doit être réalisée, après une évaluation rapide de la situation, des risques et une éventuelle mise en sécurité des personnes, auprès d’un numéro d’urgence gratuit :<br><br><li>le 18, numéro d’appel des sapeurs-pompiers, en charge notamment des secours d’urgence aux personnes, lors d’accidents divers, incendies ;</li><li>le 15, numéro d’appel des SAMU, en charge de la réponse médicale, des problèmes urgents de santé et du conseil médical ;</li><li>le 112, numéro de téléphone réservé aux appels d’urgence et valide dans l’ensemble de l’Union Européenne ;</li><li>le 114, numéro d’appel accessible par SMS, fax, visio et tchat, réservé aux déficients auditifs (réception et orientation des personnes malentendantes vers les autres numéros d’urgence). Ce service peut aussi être utilisé pour les personnes qui souhaitent alerter les secours dans le cadre de violences intrafamiliales et qui ne peuvent pas parler à voix haute.</li><br>Les secours peuvent conserver l’appelant au téléphone pour le conseiller ou le guider dans l’exécution de gestes, jusqu’à leur arrivée.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Conduite à tenir",
+              "content": "Contacter un service d’urgence à l’aide d’un téléphone portable ou à défaut d’un téléphone fixe ou d’une borne d’appel :<br><br><li>transmettre les informations ;</li><li>répondre aux questions posées par les services de secours ;</li><li>appliquer les consignes données ;</li><li>raccrocher, sur les instructions de l’opérateur.</li><br>Les informations minimales à transmettre sont :<br><br><li>le numéro de téléphone ou de la borne à partir duquel l’appel est passé ;</li><li>la nature du problème : maladie, accident, attaque terroriste, etc. ;</li><li>en cas de situation à multiples victimes, préciser le nombre de victime ;</li><li>la localisation la plus précise possible de l’évènement.</li><br>Lorsque le sauveteur demande à une autre personne de donner l’alerte il convient :<br><br><li>avant l’alerte, de s’assurer qu’elle possède tous les éléments ;</li><li>après l’alerte, de vérifier qu’elle a correctement exécuté l’action.</li><br>Si possible, envoyer une personne pour accueillir les secours et organiser leur accès sur le lieu de l’accident, au plus près de la victime.<br><br><u>Cas particulier :</u><b> la victime présente des manifestations qui peuvent faire évoquer une maladie infectieuse respiratoire (grippe, covid-19, etc.) :</b><li>Si la victime présente des signes comme de la toux et de la fièvre ou tout autre symptôme grippal sans signe de détresse vitale, demander à la victime ou à son entourage d’appeler son médecin traitant. Ce dernier pourra éventuellement réaliser une téléconsultation et de respecter les mesures barrières et de distanciation physique.</li><li>Si la victime a du mal à respirer au repos ou à l’effort ou présente les signes d’une urgence vitale, appeler un numéro d’urgence.</li>",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Secourir une personne",
+      "id": "2",
+      "resume": "Dans ce chapitre nous aborderons toutes les notions de secourisme relatives au référentiel GQS. Une introduction aux gestes de premiers secours.",
+      "sections": [
+        {
+          "title": "Obstruction des voies aériennes",
+          "type": "PR",
+          "id": "02PR01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Définition - Signes",
+              "content": "L’obstruction brutale des voies aériennes (OBVA) est la gêne ou l'empêchement brutal des mouvements de l’air entre l’extérieur et les poumons. Elle est qualifiée :<br><li>D’obstruction partielle, lorsque l’air peut encore atteindre les poumons. La respiration reste efficace.</li><li>D’obstruction complète lorsque l’air ne peut plus atteindre les poumons. La respiration n’est plus efficace ou impossible.</li>",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Causes",
+              "content": "Les corps étrangers qui sont le plus souvent à l’origine d’une obstruction brutale des voies aériennes sont les aliments (noix, cacahuètes, carottes) ou des objets (aimants de magnets, jouets). L’OBVA peut survenir à tout âge, mais elle est plus fréquente chez l’enfant et chez la personne âgée.<br><br>L’obstruction se produit le plus souvent lorsque la personne est en train de manger, de boire ou de porter un objet à la bouche.<br><br>Des facteurs de risques exposent au risque de survenue d’une OBVA par corps étranger comme la prise de médicaments, d’alcool, les maladies neurologiques qui diminuent ou altèrent la déglutition ou la toux, la démence, mais aussi une mauvaise dentition.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Risques",
+              "content": "Une obstruction brutale des voies aériennes par un corps étranger peut mettre en jeu immédiatement la vie de la victime ou entraîner des complications qui peuvent survenir plusieurs jours après.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Signes",
+              "content": "Demander à la victime « <i>est-ce que vous vous étouffez ?</i> ».<br><br>Si la victime peut parler, crier, tousser et respirer, parfois avec un bruit surajouté, <b>il s’agit d’une obstruction partielle</b>.<br><br>Si la victime ne peut plus parler, crier, tousser ou émettre un son, garde la bouche ouverte, s'agite, devient rapidement bleue, <b>il s’agit d’une obstruction complète</b>.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Principes d’action",
+              "content": "L’action du sauveteur doit permettre :<br><li>De désobstruer les voies aériennes en cas d’obstruction complète ;</li><li>D’empêcher toute aggravation en cas d’obstruction partielle.</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Conduite à tenir",
+              "content": "La victime présente une obstruction partielle :<br><li>Installer la victime dans la position où elle se sent le mieux ;</li><li>Encourager la victime à tousser (Le fait d’encourager à tousser aide au rejet du corps étranger.) ;</li><li>Demander un avis médical et appliquer les consignes ;</li><li>Surveiller attentivement la victime.</li><br>Si la toux devient inefficace et que la victime montre des signes de fatigue, il convient alors d’appliquer la conduite à tenir devant une obstruction complète.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Si la victime présente une obstruction complète",
+              "content": "Donner de 1 à 5 claques dans le dos ;<br><br>Réaliser de 1 à 5 compressions en cas d’inefficacité ou d’impossibilité de pratiquer des « claques dans le dos » :<br><li>Au niveau abdominal, s’il s’agit d’un adulte ou d’un enfant ;</li><li>Au niveau thoracique : s’il s’agit d’un nourrisson, s'il s’agit d’un adulte obèse ou d’une femme enceinte lorsqu'il est impossible d’encercler l’abdomen , s’il s’agit d’un malade alité, difficilement mobilisable.</li><br>Répéter le cycle « claques dans le dos » et « compressions » ;<br><br>Interrompre les manoeuvres dès :<li>L’apparition d’une toux, de cris ou de pleurs ;</li><li>La reprise de la respiration ;</li><li>Le rejet du corps étranger.</li>",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Si les manoeuvres de désobstruction sont efficaces",
+              "content": "<li>Installer la victime dans la position où elle se sent le mieux ;</li><li>La réconforter en lui parlant régulièrement ;</li><li>Desserrer les vêtements ;</li><li>Faire alerter ou alerter les secours et appliquer leurs consignes ;</li><li>Surveiller la victime.</li>",
+              "type": "text"
+            },
+            {
+              "id": 9,
+              "title": "Si la victime perd connaissance ",
+              "content": "Accompagner la victime au sol puis :<li>Faire alerter ou alerter les secours ;</li><li>Réaliser une réanimation cardio-pulmonaire ;</li><li>Rechercher la présence du corps étranger dans la bouche à la fin de chaque cycle de compressions thoraciques. Le retirer prudemment s’il est accessible ;</li><li>Poursuivre les gestes de réanimation jusqu’à ce que la victime respire normalement ou jusqu’au relais avec les services de secours.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Désobstruction par des claques dans le dos",
+          "type": "FT",
+          "id": "02FT01",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de la claque dans le dos est de provoquer un mouvement de toux pour débloquer et expulser le corps étranger qui obstrue les voies aériennes.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "La technique de désobstruction des voies aériennes varie en fonction du gabarit de la victime.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Chez l’adulte et le grand enfant",
+              "content": "<li>Laisser la victime debout ou assise ;</li><li>Se placer sur le côté et légèrement en arrière de la victime ;</li><li>Soutenir le thorax avec une main et pencher la victime vers l’avant ;</li><li>Donner de 1 à 5 claques vigoureuses dans le dos, entre les deux omoplates, avec le talon de la main ouverte.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez la victime qui peut tenir sur la cuisse du sauveteur",
+              "content": "<li>S'asseoir et basculer la victime sur sa cuisse, la face vers le bas ;</li><li>Donner de 1 à 5 claques vigoureuses dans le dos, entre les deux omoplates, avec le talon de la main ouverte.</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Chez la victime qui peut tenir sur l’avant-bras du sauveteur (nourrisson, petit enfant)",
+              "content": "<li>Coucher la victime à califourchon sur l'avant-bras, la face vers le sol ;</li><li>Maintenir sa tête avec les doigts, de part et d'autre de la bouche : le pouce d'un côté et un ou deux doigts de la même main de l'autre côté placés au niveau de l'angle de la mâchoire inférieure sans appuyer sur la gorge ;</li><li>Incliner la victime afin que la tête soit plus basse que le thorax ;</li><li>Donner 1 à 5 claques, entre les deux omoplates, avec le talon de la main ouverte.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Points clés",
+              "content": "La claque doit être donnée :<li>Entre les 2 omoplates ;</li><li>Avec le talon de la main ouverte ;</li><li>De façon vigoureuse.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Désobstruction par compressions abdominales",
+          "type": "FT",
+          "id": "02FT02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger chez un adulte ou un enfant après une série de 5 claques dans le dos inefficaces, et si le sauveteur peut se tenir debout ou à genou derrière elle.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est de comprimer l’air contenu dans les poumons de la victime afin d’expulser le corps étranger par un effet de « piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires pour l’expulser.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation chez l’adulte ou l’enfant",
+              "content": "<li>Se placer debout ou à genoux (enfant) derrière la victime, contre son dos ;</li><li>Passer ses bras, sous ceux de la victime, de part et d'autre de la partie supérieure de son abdomen ;</li><li>Pencher la victime vers l'avant ;</li><li>Placer le poing fermé (dos de la main vers le ciel) juste au-dessus du nombril ;</li><li>Placer la seconde main sur la première, les avant-bras n'appuyant pas sur les côtes ;</li><li>Tirer franchement en exerçant une pression vers l'arrière et vers le haut ;</li><li>Effectuer de 1 à 5 compressions, en relâchant entre chacune.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Points clés",
+              "content": "La compression doit être faite :<li>Au creux de l'estomac ;</li><li>Sans appuyer sur les côtes</li><li>Vers l'arrière et vers le haut;</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Désobstruction par compressions thoraciques chez l'adulte",
+          "type": "FT",
+          "id": "02FT03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger, lorsqu’il est impossible d’encercler l’abdomen de la victime (obèse, femme enceinte dans les derniers mois de grossesse, etc.) et après une série de 5 claques dans le dos inefficaces.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est de comprimer l’air contenu dans les poumons de la victime et d’expulser le corps étranger par un effet de « piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires pour l’expulser.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "<li>Se positionner derrière la victime ;</li><li>Placer ses avant-bras sous les bras de la victime et encercler la poitrine de la victime ;</li>Placer le poing fermé (dos de la main vers le ciel) au milieu du sternum, sans appuyer sur la pointe inférieure du sternum ;</li><li>Placer l'autre main sur la première sans appuyer les avant-bras sur les côtes ;</li><li>Tirer franchement en exerçant une pression vers l'arrière ;</li><li>Effectuer de 1 à 5 compressions, en relâchant entre chacune.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Points clés",
+              "content": "Les compressions thoraciques doivent être réalisées :<li>Au milieu du sternum ;</li><li>Sans appuyer sur les côtes ;</li><li>Vers l'arrière.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Désobstruction par compressions thoraciques chez le nourrisson",
+          "type": "FT",
+          "id": "02FT04",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’obstruction complète des voies aériennes par un corps étranger, chez une victime qui peut tenir sur l’avant-bras du sauveteur, et immédiatement après une série de 5 claques dans le dos inefficaces.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est de comprimer l’air contenu dans les poumons de la victime afin d’expulser le corps étranger par un effet de « piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires pour l’expulser.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "<li>Placer l'avant-bras contre le dos du nourrisson, la main soutenant sa tête ;</li><li>Tourner le nourrisson pour que sa face soit côté ciel ;</li><li>Placer l'avant-bras, sur lequel repose le nourrisson, sur la cuisse du sauveteur. La tête du nourrisson doit être plus basse que le reste du corps ;</li><li>Placer la pulpe de deux doigts d'une main dans l'axe du sternum, une largeur de doigt au-dessus d'un repère constitué par le bas du sternum à la jonction des dernières côtes. Cette position est la même que pour la réanimation chez le nourrisson ;</li><li>Effectuer de 1 à 5 compressions profondes et successives en relâchant entre chacune.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Points clés",
+              "content": "Les compressions thoraciques doivent être :<li>Pratiquées au milieu de la poitrine</li><li>Profonde</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Hémorragies externes",
+          "type": "PR",
+          "id": "02PR02",
+          "content": [
+            {
+              "id": 1,
+              "title": "Définition - Signes",
+              "content": "Une hémorragie est une perte de sang prolongée qui provient d'une plaie ou d'un orifice naturel et qui ne s'arrête pas spontanément. Elle imbibe de sang un mouchoir de tissu ou de papier en quelques secondes.<br><br>Un saignement dû à une écorchure, une éraflure ou une abrasion cutanée, qui s'arrête spontanément n'est pas une hémorragie.<br><br>Le plus souvent, il est facile de constater une hémorragie. Toutefois, celle-ci peut temporairement être masquée par la position de la victime ou un vêtement particulièrement absorbant (manteau, blouson, etc.).",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Causes",
+              "content": "L'hémorragie est généralement secondaire à un traumatisme comme un coup, une chute, une plaie par un objet tranchant (couteau), un projectile (une balle) ou une maladie comme la rupture de varice chez la personne âgée.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Risques",
+              "content": "Les risques d'une perte abondante ou prolongée de sang sont :<br><br><li>Pour la victime : d'entraîner une détresse circulatoire ou un arrêt cardiaque par une diminution importante de la quantité de sang dans l'organisme ;</li><li>Pour le sauveteur : d'être infecté par une maladie transmissible s'il présente des effractions cutanées (plaies, piqûres) ou en cas de projection sur les muqueuses (bouche, yeux).</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Conduite à tenir",
+              "content": "<li>Constater l’hémorragie, si nécessaire en écartant les vêtements ;</li><li>Demander à la victime de comprimer immédiatement l’endroit qui saigne ou à défaut, le faire à sa place pour arrêter l’hémorragie externe ;</li><li>Faire maintenir ou maintenir la compression ;</li><li>Allonger confortablement la victime, par exemple sur un lit, un canapé ou à défaut sur le sol (<i>La position allongée retarde ou empêche l’installation d’une détresse liée à la perte importante de sang.</i> ;</li><li>Alerter les secours ;</li><br>Un pansement compressif peut remplacer la compression manuelle seulement si elle a permis d’arrêter le saignement. Le pansement compressif ne peut pas remplacer la compression manuelle si l’hémorragie n’est pas contrôlée. Si le saignement se poursuit après la mise en place d’un pansement compressif, reprendre la compression directe par-dessus le pansement compressif ;<br><br>Si la compression directe d’une hémorragie d’un membre est inefficace (le saignement persiste malgré tout) ou impossible (nombreuses victimes, catastrophes, situations de violence collective ou de guerre, nombreuses lésions, plaie inaccessible, corps étranger), mettre en place un garrot au-dessus de la plaie (entre le coeur et la plaie) pour arrêter le saignement en réalisant un garrot improvisé. Cependant, s’il est disponible, il est préférable d’utiliser un garrot de fabrication industrielle, spécialement conçu à cet effet ;<li>Rassurer la victime, en lui parlant régulièrement et en lui expliquant ce qui se passe ;</li><li>Protéger la victime contre la chaleur, le froid ou les intempéries, la réchauffer si nécessaire ;</li><li>Surveiller l’apparition de signes d’aggravation.</li><br>Dans tous les cas, si l’état de la victime s’aggrave (sueurs abondantes, sensation de froid, pâleur intense, perte de connaissance) :<li>Contacter à nouveau les secours pour signaler l’aggravation ;</li><li>Pratiquer les gestes qui s’imposent si la victime a perdu connaissance ou présente un arrêt cardiaque.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Principes d’action",
+              "content": "Le sauveteur doit arrêter ou limiter la perte de sang de la victime et retarder l'installation d'une détresse qui peut entraîner la mort.",
+              "type": "text"
+            },
+
+            {
+              "id": 6,
+              "title": "Conduites à tenir particulières",
+              "content": "<b><u>En présence d’une victime qui saigne du nez :</u></b><li>L’asseoir, tête penchée en avant (ne jamais l’allonger) ;</li><li>Lui demander de se moucher vigoureusement ;</li><li>Lui demander de comprimer les deux narines avec les doigts, durant 10 minutes sans relâcher ;</li><li>Demander un avis médical si le saignement ne s’arrête pas ou se reproduit, le saignement survient après une chute ou un coup, la victime prend des médicaments, en particulier ceux qui augmentent les saignements.</li><br><u><b>En présence d’une victime qui vomit ou crache du sang :</b></u><br>Il s’agit d’un signe pouvant traduire une maladie grave nécessitant une prise en charge médicale.<li>Installer la victime dans la position où elle se sent le mieux si elle est consciente et allongée, en position stable sur le côté si elle a perdu connaissance.</li><li>Faire alerter ou alerter les secours et appliquer les consignes ;</li><li>Surveiller en permanence.</li><br><u><b>En présence d’une victime qui perd du sang par un orifice naturel (sauf le nez) et de façon inhabituelle :</b></u><li>Allonger la victime ;</li><li>Faire alerter ou alerter les secours et appliquer les consignes.</li><br>En cas d’aggravation :<li>Contacter à nouveau les secours pour signaler l’aggravation ;</li><li>Pratiquer les gestes qui s’imposent si la victime a perdu connaissance.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Contact du sauveteur avec le sang de la victime",
+              "content": "Si le sauveteur risque d’entrer en contact avec le sang de la victime, il doit si possible :<li>Se protéger par le port de gants ;</li><li>A défaut glisser sa main dans un sac plastique.</li><br>En cas de contact avec le sang d’une victime :<li>Ne pas porter les mains à la bouche, au nez ou aux yeux ;</li><li>Ne pas manger avant de s’être lavé les mains et de s’être changé ;</li><li>Retirer les vêtements souillés de sang le plus tôt possible après la fin de l’action de secours ;</li><li>Se laver les mains ou toute zone souillée par le sang de la victime, appliquer éventuellement un gel hydroalcoolique ;</li><li>Demander un avis médical, sans délai si le sauveteur présente une plaie, même minime, ayant été souillée ou a subi une projection sur le visage.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Compression directe",
+          "type": "FT",
+          "id": "02FT05",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "La compression directe est indiquée sur toute plaie qui saigne abondamment.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "La compression des vaisseaux sanguins, au niveau d’une plaie, arrête le saignement.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "Quel que soit l’âge de la victime, il convient de :<li>l’installer en position horizontale, sur le dos, préférentiellement sur une surface rigide ;</li><li>se placer auprès d’elle, le plus souvent à genoux ;</li><li>dénuder la poitrine de la victime, dans la mesure du possible.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Par compression manuelle",
+              "content": "Appuyer fortement sur l’endroit qui saigne avec les doigts ou la paume de la main, en interposant une épaisseur de tissu propre recouvrant complètement la plaie (mouchoirs, torchons, vêtements, etc.) et ce jusqu’à l’arrivée des secours.<br><br>En l’absence de tissu, la victime, si elle le peut, ou le sauveteur, appuie directement avec sa main.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Par pansement compressif",
+              "content": "Le pansement compressif peut remplacer la compression manuelle seulement si elle a permis d’arrêter le saignement. Il est utilisé pour libérer le sauveteur et si la victime ne peut pas appuyer elle-même sur la plaie qui saigne. Il est réalisé par une épaisseur de tissu propre recouvrant complètement la plaie (mouchoirs, torchons, vêtements, etc.) fixée par une bande élastique ou un lien large assez long pour serrer suffisamment et maintenir ainsi l’arrêt du saignement.<br><br>L’usage du pansement compressif est impossible lorsque l’endroit qui saigne est situé au niveau du cou, de la tête, du thorax ou de l’abdomen.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Points clés",
+              "content": "La compression directe doit être :<br><br><li>suffisante pour arrêter le saignement</li><li>permanente</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Garrot",
+          "type": "FT",
+          "id": "02FT06",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en cas d’hémorragie d’un membre lorsque la compression directe est inefficace ou impossible.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Le but de cette technique est d’arrêter une hémorragie externe en interrompant totalement la circulation du sang du membre, en aval de l’endroit où il est posé.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Matériel",
+              "content": "<u>Garrot improvisé :</u><br><li>lien de toile, solide, non élastique, improvisé, de 3 à 5 cm de large et d'au moins 1,50m de longueur.</li><li>barre, pièce longue de 10 à 20 cm environ en bois solide, PVC dur ou métal rigide pour permettre le serrage.</li><br><u>Garrot de fabrication industrielle :</u><br>Il existe dans le commerce des garrots spécialement conçus qui peuvent faire éventuellement partie d'une trousse de secours. Ces garrots équipés d'une barre de serrage ou d'un dispositif à cran, d'un lien large et d'un système de sécurité, ont montré une excellente efficacité. Il ne faut pas utiliser les garrots élastiques prévus pour les prises de sang.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Réalisation",
+              "content": "Le garrot est mis en place idéalement de 5 à 7 centimètres au-dessus de la plaie (entre le coeur et la plaie), jamais sur une articulation.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Garrot de fabrication industrielle :",
+              "content": "Suivre les instructions du fabricant.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Garrot improvisé",
+              "content": "<li>faire deux tours autour du membre avec le lien large à l’endroit où le garrot doit être placé ;</li><li>faire un noeud ;</li><li>placer au-dessus du noeud la barre et faire deux noeuds par-dessus pour la maintenir ;</li><li>tourner la barre de façon à serrer le garrot jusqu'à l'arrêt du saignement et maintenir le serrage par le sauveteur même si la douleur provoquée est intense.</li><br>Il est toutefois possible de maintenir le serrage en bloquant la position du bâton avec un second lien par exemple, ou en bloquant la position de la barre par quelque moyen que ce soit si le sauveteur doit se libérer.<br><br>NB : En l'absence de barre, faire le garrot uniquement avec le lien large. Réaliser une boucle en glissant le lien au niveau de l’hémorragie. Glisser une partie du lien dans la boucle afin que le garrot entoure le membre. Serrer le noeud du garrot le plus fortement possible en tirant sur chaque extrémité du lien et réaliser un double noeud de maintien.<br><br>Une fois mis en place, le garrot doit toujours rester visible (ne pas le recouvrir) et ne jamais être retiré sans avis médical.",
+              "type": "text"
+            },
+
+            {
+              "id": 7,
+              "title": "Points clés",
+              "content": "Le garrot doit :<br><li>être situé en amont de la plaie qui saigne (entre le coeur et la plaie) ;</li><li>être serré pour arrêter le saignement.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Perte de connaissance",
+          "type": "PR",
+          "id": "02PR03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Définition - Signes",
+              "content": "Une personne a perdu connaissance lorsqu'elle ne répond et ne réagit à aucune sollicitation verbale ou physique et respire.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Causes",
+              "content": "Les causes de cette perte de connaissance peuvent être d'origine traumatique, médicale ou toxique.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Risques",
+              "content": "Le risque de la perte de connaissance est d'évoluer vers l'arrêt respiratoire et l'arrêt cardiaque. En effet, la respiration n'est possible que si les voies aériennes permettent le passage de l'air sans encombre.<br><br>Une personne qui a perdu connaissance, laissée sur le dos, est toujours exposée à des difficultés respiratoires, du fait de l'encombrement ou de l'obstruction des voies aériennes par :<li>Des liquides présents dans la gorge (salive, sang, liquide gastrique) ;</li><li>La chute de la langue en arrière.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Conduite à tenir",
+              "content": "Rechercher l’absence de réponse et pour cela :<li>Poser des questions simples (exemples : « Comment ça va ? », « Vous m’entendez ? ») ;</li><li>Secouer doucement les épaules ou lui prendre la main et demander d’exécuter un ordre simple (exemple : « Serrez-moi la main »).</li><br><b>Si la victime répond ou réagit</b> : elle est consciente. Il convient d’adopter la conduite à tenir adaptée au malaise.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Principes d’action",
+              "content": "Le sauveteur doit assurer la liberté des voies aériennes de la victime afin de permettre l'écoulement des liquides vers l'extérieur en attendant l'arrivée des secours.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Si la victime ne répond pas et ne réagit pas,",
+              "content": "Demander de l’aide, si vous êtes seul ;<br><br>L’allonger sur le dos, quelle que soit sa position initiale ;<br><br>Libérer les voies aériennes ;<br><br>Apprécier la respiration sur 10 secondes au plus. Pour cela :<li>Maintenir la libération des voies aériennes ;</li><li>Se pencher sur la victime, oreille et joue du sauveteur au-dessus de la bouche et du nez de la victime puis regarder si le ventre et la poitrine se soulèvent, écouter d’éventuels sons provoqués par la respiration, sentir un éventuel flux d’air à l’expiration.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un évènement non traumatique",
+              "content": "La placer en position stable sur le côté : en position latérale de sécurité (PLS1) ;<br><br>Faire alerter ou alerter les secours ;<br><br>Surveiller en permanence la respiration de la victime, jusqu’à l’arrivée des secours. Pour cela :<li>Regarder si le ventre et la poitrine se soulèvent ;</li><li>Ecouter d’éventuels sons provoqués par la respiration ;</li><li>Sentir, avec le plat de la main, le soulèvement du thorax.</li><br>Protéger contre la chaleur, le froid ou les intempéries.",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un traumatisme",
+              "content": "<li>Laisser la victime sur le dos ;</li><li>Faire alerter ou alerter les secours, respecter leurs consignes ;</li><li>Surveiller en permanence la respiration de la victime jusqu’à l’arrivée des secours ;</li><li>Protéger contre la chaleur, le froid ou les intempéries.</li><br>En présence d’une victime qui ne répond pas, ne réagit pas et respire à la suite d’un évènement dont on ne connaît pas l’origine, agir comme en présence d’une victime qui présente un traumatisme.<br><br>Dans tous les cas, si la respiration de la victime s’arrête ou devient anormale, il convient d’adopter la conduite à tenir face à un arrêt cardiaque et de prévenir les secours de l’évolution.",
+              "type": "text"
+            },
+            {
+              "id": 9,
+              "title": "Cas particuliers",
+              "content": "<b><u>En période d’épidémie telle que la covid-19</u></b><li>Se protéger si possible avec un masque ;</li><li>Questionner la victime et voir si elle réagit, sans la toucher ;</li><li>Apprécier la respiration de la victime en regardant si son ventre et sa poitrine se soulèvent. Ne pas procéder à la bascule de la tête de la victime en arrière, ne pas tenter de lui ouvrir la bouche, ne pas se pencher au-dessus de la face de la victime et ne pas mettre son oreille et sa joue au-dessus de la bouche et du nez de la victime.<br><br><u><b>Si la victime ne répond pas et présente une respiration normale</b></u><li>Laisser la victime dans la position où elle se trouve ;</li><li>Faire alerter ou alerter les secours, respecter leurs consignes ;</li><li>Surveiller en permanence la respiration de la victime en regardant son ventre et sa poitrine.</li><br>Dès que possible, se laver soigneusement les mains à l'eau et au savon ou se désinfecter les mains avec un gel à base d'alcool puis contacter les autorités sanitaires pour se renseigner sur la conduite à tenir (dépistage après avoir été en contact avec une personne cas suspect ou confirmé de covid-19).",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Libération des voies aériennes",
+          "type": "FT",
+          "id": "02FT07",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique doit être réalisée systématiquement avant de pouvoir apprécier la respiration chez une victime qui ne répond ou ne réagit à aucune sollicitation verbale ou physique.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "La bascule de la tête en arrière (chez l’adulte ou l’enfant) ou la mise en position neutre (chez le nourrisson) et l’élévation du menton entraînent la langue qui améliore le passage de l’air.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "<li>placer la paume d’une main sur le front de la victime ;</li><li>placer 2 ou 3 doigts de l’autre main, juste sous la pointe du menton en prenant appui sur l’os. Éventuellement s’aider du pouce pour saisir le menton.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Chez l’adulte ou l’enfant",
+              "content": "basculer doucement la tête de la victime en arrière en appuyant sur le front tout en élevant le menton pour libérer les voies aériennes",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "Amener doucement la tête du nourrisson en position neutre dans l'alignement du torse et élever le menton tout en évitant une bascule excessive susceptible de provoquer une extension du rachis et une gêne de la ventilation.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Points clés",
+              "content": "La liberté des voies aériennes est assurée lorsque :<li>le menton est élevé ;</li><li>la tête est maintenue dans cette position.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Position latérale de sécurité (PLS)",
+          "type": "FT",
+          "id": "02FT08",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée chez toute victime qui ne répond pas, ne réagit pas et respire (perte de connaissance) à la suite d’un évènement non traumatique ou à la demande du service de secours alerté.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "La position latérale de sécurité permet de maintenir libres les voies aériennes supérieures de la victime en permettant l’écoulement des liquides vers l’extérieur et en évitant que la langue ne chute dans le fond de la gorge.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Premier temps : Préparer le retournement de la victime (adulte ou enfant)",
+              "content": "<li>retirer les lunettes de la victime si elle en porte ;</li><li>rapprocher délicatement les membres inférieurs de l'axe du corps (<i>L’alignement des jambes et la position du membre supérieur anticipent la position finale.</i>) ;placer le bras de la victime, situé du côté sauveteur, à angle droit de son corps ;</li><li>plier le coude de ce même bras en gardant la paume de la main de la victime tournée vers le haut ;</li><li>se placer à genoux ou en trépied à côté de la victime, au niveau de son thorax ;</li><li>saisir le bras opposé de la victime et amener le dos de la main de la victime sur son oreille, côté sauveteur ;</li><li>maintenir le dos de la main de la victime pressée contre son oreille, paume contre paume (<i>Lors du retournement, le maintien de la main de la victime contre son oreille permet d’accompagner le mouvement de la tête et de diminuer la flexion de la colonne cervicale qui pourrait aggraver un traumatisme éventuel.</i>) ;</li><li>attraper la jambe opposée de la victime, avec l'autre main, juste derrière le genou ;</li><li>relever la jambe de la victime, tout en gardant le pied au sol (<i>La saisie de la jambe de la victime au niveau du genou permet de l’utiliser comme « bras de levier » pour le retournement</i>) ;</li><li>s'éloigner du thorax de la victime afin de pouvoir la retourner sans avoir à reculer, si nécessaire.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Second temps : Retourner la victime (adulte ou enfant)",
+              "content": "tirer sur la jambe relevée de la victime afin de la faire pivoter vers le sauveteur, jusqu'à ce que le genou touche le sol, sans brusquerie et en un seul temps ;</li><li>dégager doucement la main du sauveteur située sous la tête de la victime, tout en préservant la bascule de la tête en arrière, en maintenant le coude de la victime à l'aide de la main du sauveteur précédemment située au genou (<i>Le maintien de la main sous la tête de la victime limite les mouvements de la colonne cervicale.</i>).</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Troisème temps : Stabiliser la victime (adulte ou enfant)",
+              "content": "<li>ajuster la jambe de la victime située au-dessus de telle sorte que la hanche et le genou soient à angle droit ;</li><li>ouvrir la bouche de la victime sans mobiliser la tête et sans rabattre le menton sur le sternum ;</li><li>contrôler en permanence la respiration.</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Chez le nourrisson",
+              "content": "Placer le nourrisson sur le côté, dans les bras du sauveteur le plus souvent.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Points clés",
+              "content": "La mise en position latérale de sécurité doit :<li>limiter au maximum les mouvements de la colonne vertébrale ;</li><li>aboutir à une position stable, la plus latérale possible ;</li><li>permettre un contrôle permanent de la respiration de la victime ;</li><li>permettre l’écoulement des liquides vers l’extérieur (bouche ouverte).</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Arrêt cardiaque",
+          "type": "PR",
+          "id": "02PR04",
+          "content": [
+            {
+              "id": 1,
+              "title": "Définition",
+              "content": "Une personne est en arrêt cardiaque lorsque son coeur ne fonctionne plus ou fonctionne d’une façon anarchique, ne permettant plus d’assurer l’oxygénation du cerveau.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Signes",
+              "content": "Une victime est considérée comme étant en arrêt cardiaque lorsqu’elle ne répond pas, ne réagit pas, et :<li>ne respire pas : aucun mouvement de la poitrine n’est visible et aucun bruit ou souffle n’est perçu ;</li><li>ou présente une respiration anormale avec des mouvements respiratoires lents, bruyants, difficiles et inefficaces (respiration agonique).</li>",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Causes",
+              "content": "Chez l’adulte, l’arrêt cardiaque est le plus souvent causé par certaines maladies du coeur ; la principale est l’infarctus du myocarde. Il survient brutalement et est lié à une anomalie de fonctionnement électrique du coeur : la fibrillation ventriculaire.<br><br>Chez l’enfant, l’arrêt cardiaque est le plus souvent d’origine respiratoire.<br><br>L’arrêt cardiaque peut aussi être consécutif à une détresse circulatoire (hémorragie, brûlure grave), à une obstruction brutale des voies aériennes, une intoxication, un traumatisme ou une noyade.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Risques",
+              "content": "Le risque d’un arrêt cardiaque est la mort de la victime en quelques minutes. En effet, l’apport d’oxygène est indispensable, en particulier au niveau du cerveau et du coeur, pour assurer sa survie. Au cours d’un arrêt cardiaque, les lésions du cerveau, consécutives au manque d’oxygène, surviennent dès la première minute.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Principe d’action",
+              "content": "Le sauveteur doit réaliser une série d’actions pour augmenter les chances de survie de la victime :<li><b>ALERTER : </b>alerter de façon précoce les secours ;</li><li><b>MASSER : </b>pratiquer une réanimation cardio-pulmonaire (RCP) précoce ;</li><li><b>DEFIBRILLER : </b>assurer la mise en oeuvre d’une défibrillation précoce.</li><br>Ces différentes étapes constituent une chaîne de survie susceptible d’augmenter de 4 à 40% le taux de survie des victimes. Chaque minute gagnée dans la mise en place d’une RCP efficace peut augmenter de 10% les chances de survie de la victime.",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Conduite à tenir",
+              "content": "Rechercher l’absence de réponse et pour cela :<br><li>poser des questions simples (exemples : « Comment ça va ? », « Vous m’entendez ? ») ;</li><li>secouer doucement les épaules ou lui prendre la main et demander d’exécuter un ordre simple (exemple : « serrez-moi la main » ).</li><br>Si la victime répond ou réagit : elle est consciente. Il convient d’appliquer la CAT adaptée. Si la victime ne répond pas et ne réagit pas, il convient de :<br><li>demander de l’aide, si vous êtes seul ;</li><li>l’allonger sur le dos ;</li><li>libérer les voies aériennes ;</li><li>apprécier la respiration sur 10 secondes au plus. Pour cela :<br> ➔ maintenir la libération des voies aériennes ;<br> ➔ se pencher sur la victime, oreille et joue du sauveteur au-dessus de la bouche et du nez de la victime puis : regarder si le ventre et la poitrine se soulèvent, écouter d’éventuels sons provoqués par la respiration, sentir un éventuel flux d’air à l’expiration.</li><br>En l’absence de respiration ou si la respiration est anormale il faut débuter une RCP. Une respiration anormale (agonique) doit être considérée comme un arrêt cardiaque.<br><br>Une courte période de mouvements saccadés de la victime, ressemblant à des convulsions, peut survenir au moment de l’arrêt cardiaque. Examiner la victime dès l’arrêt de ces mouvements. Si la victime ne répond pas, ne présente pas de respiration ou présente une respiration anormale, débuter la RCP.",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Un tiers est présent",
+              "content": "<li>demander au tiers d’alerter les secours et si possible de ramener un DAE ;</li><li>débuter immédiatement une RCP en répétant des cycles de 30 compressions thoraciques suivies de 2 insufflations. Le service de secours appelé pourra aider le sauveteur à la réalisation de la RCP, en donnant des instructions téléphoniques ;</li><li>en poursuivant la RCP, faire mettre en oeuvre un DAE le plus tôt possible et suivre ses indications.</li>",
+              "type": "text"
+            },
+            {
+              "id": 8,
+              "title": "Aucun tiers n’est présent",
+              "content": "<li>alerter les secours : <br> ➔ avec un téléphone portable, si vous disposez du mode haut-parleur, l’activer et débuter immédiatement la RCP en même temps que vous alertez ;<br> ➔ en l’absence de téléphone ou de réseau, quitter la victime pour aller alerter puis revenir auprès de la victime.</li><li>pratiquer la RCP en répétant des cycles de 30 compressions thoraciques suivies de 2 insufflations. Le service de secours appelé pourra aider le sauveteur à la réalisation de la RCP, en donnant des instructions téléphoniques ;</li><li>si un DAE est proche, le mettre en oeuvre le plus tôt possible et suivre ses indications vocales en interrompant le massage cardiaque le moins possible.</li>",
+              "type": "text"
+            },
+            {
+              "id": 9,
+              "title": "Dans tous les cas",
+              "content": "<li>poursuivre la RCP entreprise jusqu’au relais par les services de secours ;</li><li>si les insufflations ne peuvent pas être effectuées (répulsion, covid-19, vomissements, traumatisme majeur de la face, etc.) ou si le sauveteur ne se sent pas capable, il doit réaliser uniquement les compressions thoraciques en continu à un rythme de 100 à 120 compressions par minute ;</li><li>ne pas retarder la défibrillation pour réaliser des compressions thoraciques alors qu’elle est prête à être réalisée.</li>",
+              "type": "text"
+            },
+            {
+              "id": 10,
+              "title": "Chez l’enfant et le nourrisson",
+              "content": "Chez l’enfant et le nourrisson, en l’absence de respiration ou si la respiration est anormale, la conduite à tenir est la même que chez l’adulte, mais il convient de :<li>Débuter la RCP par 5 insufflations initiales avant de poursuivre par les compressions thoraciques ;</li><li>Associer ensuite les compressions thoraciques aux insufflations à un rythme de 15 compressions pour 2 insufflations.</li>",
+              "type": "text"
+            },
+            {
+              "id": 11,
+              "title": "En période d’épidémie telle que la covid-19",
+              "content": "<li>Se protéger, si possible, avec un masque ;</li><li>Apprécier la respiration de la victime en regardant si son ventre et sa poitrine se soulèvent. Ne pas procéder à la bascule de la tête de la victime en arrière, ne pas tenter de lui ouvrir la bouche, ne pas se pencher au-dessus de la face de la victime et ne pas mettre son oreille et sa joue au-dessus de la bouche et du nez de la victime ;</li><li>Ne pas faire de bouche-à-bouche et effectuer seulement des compressions thoraciques seules ;</li><li>Concernant le bouche-à-bouche, deux situations sont laissées à l’appréciation du sauveteur : le sauveteur vit sous le même toit que la victime (risque de contamination déjà partagée ou limitée) ou la victime est un enfant ou un nourrisson.</li><li>Se tenir au pied de la victime lors de l’administration du choc ;</li><li>Si possible, placer un tissu, une serviette ou un masque sur la bouche et le nez de la victime avant de procéder aux compressions thoraciques et à la défibrillation.</li><li>Dès que possible, se laver soigneusement les mains à l’eau et au savon ou avec une solution hydroalcoolique ;</li><li>Appliquer les consignes sanitaires nationales.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Compressions thoraciques",
+          "type": "FT",
+          "id": "02FT09",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en présence d’une victime en arrêt cardiaque.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Cette technique permet d’oxygéner les organes d’une victime en arrêt cardiaque en rétablissant une circulation artificielle.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "Quel que soit l’âge de la victime, il convient de :<br><li>l’installer en position horizontale, sur le dos, préférentiellement sur une surface rigide ;</li><li>se placer auprès d’elle, le plus souvent à genoux ;</li><li>dénuder la poitrine de la victime, dans la mesure du possible.</li>",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Chez l’adulte",
+              "content": "Placer le talon d’une main au centre de la poitrine, sur la ligne médiane, sur la moitié inférieure du sternum ;<br><br>Placer l’autre main au-dessus de la première en entrecroisant les doigts des deux mains pour éviter d'appuyer sur les côtes ;<br><br>Réaliser des compressions sternales d'environ 5 cm sans dépasser 6 cm tout en veillant à :<li>conserver les bras parfaitement verticaux ;</li><li>tendre les bras ;</li><li>verrouiller les coudes ;</li><li>maintenir une fréquence comprise entre 100 et 120 compressions par minute.</li><li>assurer un temps de compression égal à celui du relâchement ;</li><li>entre chaque compression, laisser le thorax reprendre sa forme initiale, sans décoller les mains.</li><br>En présence de plusieurs sauveteurs, relayer le sauveteur qui réalise les compressions thoraciques toutes les 2 minutes en interrompant le moins possible les compressions thoraciques (en cas d’utilisation d’un DAE, le relai sera réalisé pendant l’analyse).",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez l’enfant",
+              "content": "<li>Placer le talon d’une main à une largeur de doigt au-dessus d’un repère constitué par le bas du sternum à la jonction des dernières côtes ;</li><li>Relever les doigts pour ne pas appuyer sur les côtes ;</li><li>Réaliser les compressions sternales comme chez l’adulte en veillant à enfoncer le thorax sur le tiers de son épaisseur soit environ 5 cm.</li><br>En présence de plusieurs sauveteurs, relayer le sauveteur qui réalise les compressions thoraciques toutes les 2 minutes en interrompant le moins possible les compressions thoraciques (en cas d’utilisation d’un DAE, le relais sera réalisé pendant l’analyse). Si le sauveteur est seul, il peut changer de main.<br><br>Si la victime (enfant) est grande ou si le sauveteur est petit et n'a pas suffisamment de force, il peut être utile d’utiliser la même technique que chez l’adulte.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "<li>Placer la pulpe de deux doigts d’une main dans l’axe du sternum, à une largeur de doigt au-dessus d’un repère constitué par le bas du sternum à la jonction des dernières côtes ;</li><li>Réaliser les compressions sternales à l'aide de la pulpe des deux doigts en veillant à enfoncer le thorax sur le tiers de l’épaisseur soit environ 4 cm.</li>",
+              "type": "text"
+            },
+            {
+              "id": 7,
+              "title": "Points clés",
+              "content": "Les compressions thoraciques doivent :<br><li>comprimer fortement le sternum ;</li><li>avoir une fréquence comprise entre 100 et 120 par minute.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Insufflations",
+          "type": "FT",
+          "id": "02FT10",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en présence d’une victime en arrêt cardiaque.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Cette technique permet d’apporter de l’air aux poumons d’une victime en arrêt cardiaque.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "La victime étant préalablement installée en position horizontale et sur le dos :",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Chez l’adulte et l’enfant",
+              "content": "<li>basculer la tête de la victime en arrière comme pour la technique de libération des voies aériennes ;</li><li>pincer le nez de la victime entre le pouce et l'index, tout en maintenant la bascule en arrière de la tête (<i>Le pincement du nez empêchera toute fuite d’air par le nez lors des insufflations.</i>) avec la main qui est placée sur le front ;</li><li>ouvrir légèrement la bouche de la victime en utilisant l'autre main et maintenir le menton élevé ;</li><li>inspirer, sans excès ;</li><li>appliquer la bouche largement ouverte autour de la bouche de la victime en appuyant fermement (<i>La pression ferme autour de la bouche de la victime empêchera toute fuite d’air durant les insufflations.</i>) ;</li><li>insuffler progressivement jusqu'à ce que la poitrine de la victime commence à se soulever (durant 1 seconde environ) ;</li><br><li>se redresser légèrement tout en maintenant la bascule de la tête en arrière afin de :<br>➔ reprendre son souffle ;<br>➔ vérifier l'affaissement de la poitrine de la victime.</li><br><li>insuffler une seconde fois dans les mêmes conditions.</li><br>La durée de réalisation de ces deux insufflations successives ne doit pas excéder 5 secondes (<i>La réalisation rapide des manoeuvres d’insufflation permet de ne pas retarder la reprise des compressions thoraciques</i>).<br><br>Si le ventre ou la poitrine de la victime ne se soulève pas lors des insufflations :<li>s'assurer que la tête de la victime est en bonne position et que son menton est élevé ;</li><li>s'assurer qu'il y a une bonne étanchéité et pas de fuite d'air lors de l'insufflation ;</li><li>rechercher la présence d'un corps étranger dans la bouche. Le retirer avec les doigts, si nécessaire.</li>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Chez le nourrisson",
+              "content": "La technique est sensiblement la même que pour l’adulte ou l’enfant. Toutefois, il convient de :<li>Placer la tête du nourrisson en position neutre, menton élevé ;</li><li>Englober avec la bouche à la fois la bouche et le nez de la victime ;</li><li>Insuffler progressivement jusqu'à ce que la poitrine du nourrisson commence à se soulever (durant 1 seconde environ) ;</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Points clés",
+              "content": "Les deux insufflations doivent :<li>être lentes et progressives ;</li><li>cesser dès le début du soulèvement e la poitrine ;</li><li>être réalisées en 5 secondes maximum.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Défibrillation",
+          "type": "FT",
+          "id": "02FT07",
+          "content": [
+            {
+              "id": 1,
+              "title": "Indication",
+              "content": "Cette technique est indiquée en présence d’une victime en arrêt cardiaque.",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Justification",
+              "content": "Cette technique peut permettre de retrouver une activité cardiaque normale. Elle est sûre et sans risque même si elle est utilisée par des personnes qui sont peu ou pas formées.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Réalisation",
+              "content": "Le DAE doit être utilisé en suivant toutes les indications de l’appareil (schéma, messages vocaux).<br><br>Si plus d'un sauveteur est présent, la RCP doit être poursuivie durant l’installation du DAE. Les compressions thoraciques doivent être interrompues seulement lorsque le DAE indique de ne plus toucher à la victime.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Chez l’adulte",
+              "content": "<li>Mettre en fonction le défibrillateur ;</li><li>suivre les indications de l'appareil (<i>Ces indications peuvent être vocales ou visuelles. Leur suivi strict permet de réaliser les différentes opérations plus rapidement et en sécurité.</i>).</li><br>Ces indications précisent, dans un premier temps, de mettre en place les électrodes. Pour cela :<li>enlever ou couper les vêtements recouvrant la poitrine de la victime, si nécessaire ;</li><li>sécher le thorax de la victime s'il est humide ;</li><li>déballer et appliquer les électrodes, sur la poitrine nue de la victime, dans la position indiquée sur le schéma figurant sur l'emballage ou sur les électrodes ;</li><li>connecter les électrodes au défibrillateur, si nécessaire.</li><br>Lorsque le DAE l'indique, arrêter les compressions thoraciques, ne plus toucher la victime et s'assurer que les personnes aux alentours fassent de même (<i>Tout mouvement de la victime durant la phase d’analyse du rythme cardiaque est susceptible de la fausser</i>).<br><br>Si le défibrillateur annonce que le choc est nécessaire :<li>demander aux personnes aux alentours de s'écarter ;</li><li>laisser le DAE déclencher le choc électrique (défibrillateur entièrement automatique) ou appuyer sur le bouton 'choc' lorsque l'appareil le demande (défibrillateur semi- automatique) ;</li><li>reprendre immédiatement les compressions thoraciques après la délivrance du choc.</li><br>Si le défibrillateur annonce que le choc n'est pas nécessaire :<li>reprendre immédiatement les compressions thoraciques.</li><br>Dans tous les cas, il y a une période de RCP (généralement 2 minutes) avant que le DAE ne demande une nouvelle pause pour l'analyse du rythme.",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Risques et contraintes",
+              "content": "Si la victime présente une forte poitrine, il faut positionner l’électrode gauche latéralement, sous le sein gauche et éviter autant que possible de la poser directement sur le sein.<br><br>Si la poitrine de la victime est particulièrement velue, il convient d’éliminer rapidement l'excès de poils de la zone de pose des électrodes.<br><br>Si la victime présente un timbre autocollant médicamenteux sur la zone de pose des électrodes, le sauveteur retire le timbre et essuie la zone avant de coller l’électrode.<br><br>Si la victime présente un stimulateur cardiaque (le plus souvent le sauveteur constate une cicatrice et perçoit un boîtier sous la peau, sous la clavicule droite ou est informé par la famille) à l’endroit de pose de l’électrode, le sauveteur colle l’électrode à une largeur de main de l’appareil (environ 8 cm de la bosse perçue).<br><br>Si la victime est allongée sur un sol mouillé (bord de piscine, pluie, etc.) ou si son thorax est mouillé, le sauveteur, si possible, déplace la victime pour l’allonger sur une surface sèche et, si possible, sèche son thorax avant de débuter la défibrillation.<br><br>Si la victime est allongée sur une surface en métal : si c’est possible et en se faisant aider si besoin, le sauveteur déplace la victime ou glisse un tissu sous elle (couverture, etc.) avant de débuter la défibrillation.<br><br>Si le DAE détecte un mouvement au cours de l’analyse, le sauveteur doit s’assurer de ne pas toucher la victime au cours de l’analyse. En l’absence de contact avec la victime, il vérifie la respiration de celle-ci.<br><br>Si le DAE demande toujours de connecter les électrodes alors que cette opération a déjà été effectuée, le sauveteur, vérifie que :<li>les électrodes sont bien collées et le câble de connexion correctement connecté au DAE ;</li><li>si le problème n’est pas résolu et qu’une seconde paire d’électrodes est disponible, remplacer les électrodes.</li>",
+              "type": "text"
+            },
+            {
+              "id": 6,
+              "title": "Points clés",
+              "content": "La mise en oeuvre du défibrillateur doit :<li>être la plus précoce possible ;</li><li>interrompre le moins possible la pratique des compressions thoraciques.</li>",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Défibrillateur Automatisé Externe (DAE)",
+          "type": "AC",
+          "id": "02AC03",
+          "content": [
+            {
+              "id": 1,
+              "title": "Présentation",
+              "content": "Le défibrillateur automatisé externe (DAE) est un appareil qui permet :<li>d’analyser l’activité électrique du coeur de la victime ;</li><li>de reconnaître une anomalie du fonctionnement électrique du coeur à l’origine de l’arrêt cardiaque ;</li><li>de délivrer ou d’inviter le sauveteur à délivrer un choc électrique (information vocale et visuelle), afin d’arrêter l’activité électrique anarchique du coeur.</li>",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Composition",
+              "content": "Le DAE est composé :<li> d’un haut-parleur qui donne des messages sonores et guide le sauveteur dans son action ;</li><li> d’un métronome qui rythme les compressions thoraciques du sauveteur (en option) ;</li><li> d’un accumulateur d’énergie qui permet de réaliser des chocs électriques ;</li><li> éventuellement, d’un bouton qui permet de délivrer le choc électrique lorsqu’il est indiqué par l’appareil.</li><br>Le DAE est toujours accompagné d’une paire d’électrodes de défibrillation pré-gélifiées autocollantes avec câble intégré. Ces électrodes, à usage unique, sont contenues dans un emballage hermétique. Une seconde paire doit être disponible en cas de défaillance de la première.<br><br>Une fois collées sur la peau du thorax de la victime, les électrodes permettent :<li>de capter et transmettre l’activité électrique cardiaque au défibrillateur ;</li><li>de délivrer le choc électrique lorsqu’il est indiqué. Plusieurs accessoires peuvent être joints au défibrillateur dont :<br>  ➔ une paire de ciseaux, pour couper les vêtements et dénuder la poitrine de la victime ;<br>  ➔ des compresses ou du papier absorbant, pour sécher la peau de la poitrine de la victime si elle est mouillée ou humide ;<br>  ➔ d’un rasoir jetable pour raser les poils de la victime, s’ils sont particulièrement abondants, à l’endroit où l’on colle les électrodes.</li>",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Localisation",
+              "content": "Actuellement, les DAE sont mis à disposition du public dans les établissements recevant du public. On les trouve également dans :<br><br><li>les halls d’aéroports et les avions des compagnies aériennes ;</li><li>les grands magasins, les centres commerciaux ;</li><li>les halls de gares, les trains ;</li><li>certains lieux de travail et immeubles d’habitation.</li><br>Dans ces cas, les appareils sont parfois placés dans des armoires murales repérées par un logo facilement identifiable.<br>Des applications permettant de localiser un défibrillateur existent. Il est conseillé d’avoir en permanence accès sur son téléphone à une de ces applications.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Plaies",
+          "type": "PR",
+          "id": "02PR04",
+          "content": [
+            {
+              "id": 1,
+              "title": "Définition - Signes",
+              "content": "La plaie est une lésion de la peau, revêtement protecteur du corps, avec une atteinte possible des tissus situés dessous. Elle est qualifiée de :<br><br><b>Plaie simple</b>, lorsqu’il s’agit d’une petite coupure superficielle, d’une éraflure saignant peu ;<br><br><b>Plaie grave</b> du fait :<li>d’une hémorragie associée ;</li><li>d’un mécanisme pénétrant : objet tranchant ou perforant, morsures, projectiles ;</li><li>de sa localisation : thoracique, abdominale, oculaire ou proche d’un orifice naturel ;</li><li>de son aspect : déchiqueté, écrasé.</li>",
+              "type": "text"
+            },
+            {
+              "id": 2,
+              "title": "Causes",
+              "content": "La plaie est généralement secondaire à un traumatisme, elle est provoquée par une coupure, une éraflure, une morsure ou une piqûre.",
+              "type": "text"
+            },
+            {
+              "id": 3,
+              "title": "Risques",
+              "content": "Une plaie, suivant son importance et sa localisation, peut être à l’origine d’une aggravation immédiate de l’état de la victime par hémorragie ou par défaillance de la respiration.<br><br>Elle peut être aussi à l’origine d’une infection secondaire dont le tétanos.<br><br>Le tétanos est une maladie très grave, parfois mortelle. Seule la vaccination antitétanique protège de cette maladie.",
+              "type": "text"
+            },
+            {
+              "id": 4,
+              "title": "Conduite à tenir",
+              "content": "<li>évaluer la gravité de la plaie, puis :</li><br><u><b>Face à une plaie grave</b></u><br><li>ne jamais retirer le corps étranger (couteau, morceau de verre …) cela risque d'aggraver la plaie;</li><li>en cas d'hémorragie, arrêter le saignement (cf. hémorragies externes) ;</li><li>si la plaie est située au niveau du thorax, la laisser à l'air libre ;</li><br><li>installer confortablement et sans délai la victime en position d'attente, par exemple sur un lit ou un canapé, ou à défaut sur le sol :<br>➔ assise en présence d'une plaie au thorax ;<br>➔ allongée, jambes fléchies en présence d'une plaie de l'abdomen ;<br>➔ allongée, yeux fermés en demandant de ne pas bouger la tête en présence d'une plaie à l'oeil et si possible en maintenant sa tête à deux mains ;<br>➔ allongée dans tous les autres cas.</li><br><li>protéger contre la chaleur, le froid ou les intempéries ;</li><li>faire alerter ou alerter les secours et appliquer les consignes ;</li><li>réconforter la victime en lui parlant régulièrement et en lui expliquant ce qui se passe ;</li><li>surveiller la victime.</li><br><br><i>La position assise facilite la respiration lorsque l’on est en présence d’une plaie au thorax.</i><br><i>La position allongée permet de prévenir les détresses et d’éviter les complications.</i>",
+              "type": "text"
+            },
+            {
+              "id": 5,
+              "title": "Principes d’action",
+              "content": "Le sauveteur doit identifier la gravité de la plaie afin d’adopter une conduite à tenir adaptée.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
