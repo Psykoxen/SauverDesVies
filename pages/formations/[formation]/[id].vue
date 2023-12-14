@@ -41,60 +41,15 @@ const section = formation._value?.chapters[
       >
         {{ section.title }}
       </h1>
-      <div class="w-3/4 flex flex-col gap-4">
-        <div class="w-full lg:hidden flex-col flex gap-4">
-          <div
-            v-for="data in section.content"
-            class="bg-white rounded-lg shadow-lg text-black p-6"
-          >
-            <h2 class="text-4xl font-semibold mb-2">
-              <span class="text-6xl"
-                >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
-              >
-              {{ data.title }}
-            </h2>
-            <p v-html="data.content" class="text-justify"></p>
-          </div>
-        </div>
-        <div class="w-full flex-row flex gap-4">
-          <div class="w-1/2 lg:flex flex-col hidden justify-center">
-            <div v-for="data in section.content">
-              <div
-                v-if="data.id % 2 !== 0 && data.type != 'array'"
-                class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
-              >
-                <h2 class="text-4xl font-semibold mb-2">
-                  <span class="text-6xl"
-                    >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
-                  >
-                  {{ data.title }}
-                </h2>
-                <p v-html="data.content" class="text-justify"></p>
-              </div>
-            </div>
-          </div>
-          <div class="w-1/2 lg:flex flex-col hidden justify-center">
-            <div v-for="data in section.content">
-              <div
-                v-if="data.id % 2 === 0 && data.type != 'array'"
-                class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
-              >
-                <h2 class="text-4xl font-semibold mb-2">
-                  <span class="text-6xl"
-                    >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
-                  >
-                  {{ data.title }}
-                </h2>
-                <p v-html="data.content" class="text-justify"></p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="w-full flex-col lg:flex hidden">
-          <div v-for="data in section.content">
+      <div
+        class="w-full flex flex-col items-center"
+        v-for="row in section.content"
+      >
+        <div class="w-3/4 flex flex-col gap-4">
+          <div class="w-full lg:hidden flex-col flex gap-4">
             <div
-              v-if="data.type == 'array'"
-              class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
+              v-for="data in row"
+              class="bg-white rounded-lg shadow-lg text-black p-6"
             >
               <h2 class="text-4xl font-semibold mb-2">
                 <span class="text-6xl"
@@ -102,29 +57,104 @@ const section = formation._value?.chapters[
                 >
                 {{ data.title }}
               </h2>
-              <table class="w-full">
-                <tr v-for="ligne in data.content">
-                  <template v-if="ligne.length === 3">
-                    <td
-                      v-for="cellule in ligne"
-                      :key="cellule"
-                      class="border border-black p-2"
-                      v-html="cellule"
-                    ></td>
-                  </template>
-                  <template v-else>
-                    <td
-                      v-html="ligne[0]"
-                      class="w-1/4 border border-black p-2"
-                    ></td>
-                    <td
-                      v-html="ligne[1]"
-                      class="border border-black p-2"
-                      colspan="2"
-                    ></td>
-                  </template>
-                </tr>
-              </table>
+              <p v-html="data.content" class="text-justify"></p>
+            </div>
+          </div>
+
+          <div class="w-full flex-row flex gap-4">
+            <div class="w-1/2 lg:flex flex-col hidden justify-center">
+              <div v-for="data in row">
+                <div
+                  v-if="
+                    data.id % 2 !== 0 &&
+                    data.type != 'array' &&
+                    data.type != 'fulltext'
+                  "
+                  class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
+                >
+                  <h2 class="text-4xl font-semibold mb-2">
+                    <span class="text-6xl"
+                      >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
+                    >
+                    {{ data.title }}
+                  </h2>
+                  <p v-html="data.content" class="text-justify"></p>
+                </div>
+              </div>
+            </div>
+            <div class="w-1/2 lg:flex flex-col hidden justify-center">
+              <div v-for="data in row">
+                <div
+                  v-if="
+                    data.id % 2 === 0 &&
+                    data.type != 'array' &&
+                    data.type != 'fulltext'
+                  "
+                  class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
+                >
+                  <h2 class="text-4xl font-semibold mb-2">
+                    <span class="text-6xl"
+                      >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
+                    >
+                    {{ data.title }}
+                  </h2>
+                  <p v-html="data.content" class="text-justify"></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-full flex-col lg:flex hidden">
+            <div v-for="data in row">
+              <div
+                v-if="data.type == 'fulltext'"
+                class="bg-white rounded-lg shadow-lg text-black p-6 w-full"
+              >
+                <h2 class="text-4xl font-semibold mb-2">
+                  <span class="text-6xl"
+                    >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
+                  >
+                  {{ data.title }}
+                </h2>
+                <p v-html="data.content" class="text-justify"></p>
+              </div>
+            </div>
+          </div>
+          <div class="w-full flex-col lg:flex hidden">
+            <div v-for="data in section.content">
+              <div
+                v-if="data.type == 'array'"
+                class="bg-white rounded-lg shadow-lg text-black p-6 mb-2 mt-2"
+              >
+                <h2 class="text-4xl font-semibold mb-2">
+                  <span class="text-6xl"
+                    >{{ data.id < 10 ? "0" + data.id : data.id }}.</span
+                  >
+                  {{ data.title }}
+                </h2>
+                <table class="w-full">
+                  <tr v-for="ligne in data.content">
+                    <template v-if="ligne.length === 3">
+                      <td
+                        v-for="cellule in ligne"
+                        :key="cellule"
+                        class="border border-black p-2"
+                        v-html="cellule"
+                      ></td>
+                    </template>
+                    <template v-else>
+                      <td
+                        v-html="ligne[0]"
+                        class="w-1/4 border border-black p-2"
+                      ></td>
+                      <td
+                        v-html="ligne[1]"
+                        class="border border-black p-2"
+                        colspan="2"
+                      ></td>
+                    </template>
+                  </tr>
+                </table>
+              </div>
             </div>
           </div>
         </div>
