@@ -50,6 +50,7 @@ The mission is to democratize knowledge in first aid. The objective is to create
     - ⏳ PSC1
     - ⏳ SSA
 
+
 ## How to Contribute 🤝
 
 We believe in the power of collaboration. If you share our vision and want to contribute to making first aid accessible to everyone, check the [Contribution](#contribution) section in the README file.
